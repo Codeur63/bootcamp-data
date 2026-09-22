@@ -1,0 +1,1576 @@
+customer_id,full_name,email,phone,birth_date,country,signup_date,loyalty_tier
+5000,Hélène-Corinne Sauvage,hélène-corinne.sauvagegmail.com,+33115262181,1941-04-02,BELGIQUE,31/05/2023,argent
+5001,Valérie Fischer de Perret,valérie.fischer.de.perret@outlook.com,0053368844,29-05-2006,GERMANY,18/03/2023,NULL
+5002,André Carlier,andré.carlier@outlook.com,-,1899-05-20,CH,30/07/2022,platine
+5003,Augustin Reynaud de Le Gall,augustin.reynaud.de.le.gall@yahoo.fr,,1994-08-03,United States,2023-12-03,-999
+5004,Frédéric-Grégoire Thibault,frédéric-grégoire.thibault@outlook.com,0033938068687,06-05-1940,Belgique,02/08/2024,bronze
+5005,Noël Ribeiro-Chevalier,noël.ribeiro-chevaliergmail.com,+33921722332,02/05/1965,SUISSE,2021-12-07,platine
+5006,  ZACHARIE GAY  ,zacharie.gay@gmail.com,?,1950-11-13,fr,23/04/2026,argent
+5007,Thierry Coste,thierry.coste@ gmail.com,?,01/12/1974,BELGIQUE,15/02/2026,platine
+5008,Julie Jacob,julie.jacob@outlook.com,,31-10-1984,DE,2025-06-14,argent
+5009,Julien-Alain Marques,julien-alain.marques@yahoo.fr,-,10/01/1997,SUISSE,2022-08-30,platine
+5010,Lucas du Thierry,lucas.du.thierry@hotmail.fr,n/a,18/06/1974,France,05/02/2026,NULL
+5011,Antoine de la David,antoine.de.la.david@hotmail.fr,86.10.35.79.70,1969-12-15,be,2022-08-11,platine
+5012,Marine Barre,marine.barre@gmail.com,+33029333346,1947-12-27,be,2024-04-15,platine
+5013,Noël Payet,noël.payet@outlook.com,NULL,11-04-1984,Allemagne,2025-02-09,or
+5014,Nicole Mary de Robert,nicole.mary.de.robert@gmail.com,null,01-02-1974,USA,01/01/2025,platine
+5015,Étienne Gérard de la Boyer,étienne.gérard.de.la.boyergmail.com,44.66.60.99.30,17/02/1996,Suisse,2023-06-09,argent
+5016,Zacharie Joubert-Diaz,zacharie.joubert-diaz@outlook.com,+33241724825,04-08-1994,Suisse,29/12/2024,or
+5017,Joseph Hubert-Vallet,joseph.hubert-valletgmail.com,47.17.09.99.10,30/01/2001,SUISSE,31/01/2024,
+5018,Philippe de Bazin,philippe.de.bazin@gmail.com,0033356972521,07-05-1964,SUISSE,28/02/2024,argent
+5019,Hugues Couturier,hugues.couturier@ gmail.com,+33271296666,28/01/1940,CH,20/07/2026,or
+5020,Adèle Morel,adèle.morel@outlook.com,,1975-10-04,Francia,28/03/2024,argent
+5021,Émile François de Léger,émile.françois.de.léger@outlook.com,62.57.53.26.00,2006-11-10,fr,2022-11-12,argent
+5022,Franck Peron,franck.peron@outlook.com,48.90.90.10.00,14-05-1937,DE,04/03/2025,platine
+5023,Simone Gillet,simone.gillet@yahoo.fr,null,28-12-1944,SUISSE,2025-11-16,or
+5024,Pierre Fouquet,pierre.fouquet@outlook.com,-999,19/01/1982,Belgique,01/12/2021,bronze
+5025,Françoise Lagarde,françoise.lagarde@yahoo.fr,19.72.18.11.40,2005-09-16,Allemagne,2024-12-11,or
+5026,Lucie Aubry,lucie.aubry@outlook.com,0061100225,2031-01-15,Francia,2023-07-06,platine
+5027,Juliette Peron,juliette.peron@hotmail.fr,+33746762120,11/09/1942,SUISSE,2026-08-19,argent
+5028,Bernard Delattre,bernard.delattre@gmail.com,65.90.27.71.60,25/01/2004,Francia,2023-12-05,platine
+5029,Gilles Bègue,gilles.bègue@hotmail.fr,null,17-04-1959,Belgique,2021-12-29,or
+5030,Philippe Lelièvre,n/a,0033540838663,13/08/1999,de,12/02/2022,platine
+5031,Sophie Blanc,sophie.blanc@ gmail.com,0066088019,20/12/1999,FRANCE,2026-07-16,argent
+5032,Pierre Guilbert de la Bègue,pierre.guilbert.de.la.bègue@gmail.com,58.99.75.71.10,1986-01-31,FR,09/07/2025,platine
+5033,Adrien Leblanc-Monnier,adrien.leblanc-monniergmail.com,+33027261493,18/12/1997,FRANCE,2022-08-29,platine
+5034,Gabrielle Albert,gabrielle.albertgmail.com,0033917798270,25/07/1997,SUISSE,2024-05-16,or
+5035,Robert Lesage,robert.lesage@ gmail.com,+33216995866,2031-01-15,France,2026-08-15,-999
+5036,Guillaume Chauvin-Le Goff,guillaume.chauvin-le.goff@outlook.com,0033848583339,1899-05-20,US,2025-04-18,bronze
+5037,Christelle Lacombe,christelle.lacombe@ gmail.com,unknown,1984-06-24,CH,06/10/2025,?
+5038,Catherine de Weber,catherine.de.weber@yahoo.fr,0020438057,16/08/1946,France,27/03/2022,unknown
+5039,Hélène Bernier-Jourdan,hélène.bernier-jourdangmail.com,+33665800439,26-10-1977,Belgique,2026-01-25,or
+5040,Hélène Couturier,hélène.couturier@outlook.com,NULL,27/07/1988,États-Unis,11/08/2023,bronze
+5041,Laurence Berthelot,laurence.berthelot@yahoo.fr,null,17-07-1955,US,05/03/2024,or
+5042,Martine-Arnaude Neveu,martine-arnaude.neveu@gmail.com,,25-07-1959,ch,2025-01-14,platine
+5043,Maryse Cousin,maryse.cousingmail.com,+33739930561,09/02/1952,de,26/08/2023,platine
+5044,Lorraine Laurent-Blondel,?,,1997-05-19,CH,2024-05-22,bronze
+5045,François Leconte,françois.leconte@hotmail.fr,N/A,08/12/1982,ch,29/12/2021,or
+5046,Roger-Auguste Bruneau,roger-auguste.bruneau@yahoo.fr,+33650618091,1997-05-06,Suisse,03/07/2025,bronze
+5047,Amélie-Arnaude Pelletier,amélie-arnaude.pelletier@gmail.com,NULL,2005-04-29,USA,2022-05-28,platine
+5048,Lucie Couturier,lucie.couturier@outlook.com,0033100996881,12-07-1946,GERMANY,2023-03-31,bronze
+5049,Frédérique Pasquier,frédérique.pasquier@gmail.com,+33431290878,24/08/2003,United States,2022-02-01,n/a
+5050,Gilbert Perrin,gilbert.perrin@ gmail.com,0033149135775,13-07-1950,United States,21/10/2024,platine
+5051,  STÉPHANE BRUNET LE GOMES  ,stéphane.brunet.le.gomes@hotmail.fr,0045257775,16-08-2007,Etats-Unis,06/08/2025,GOLD
+5052,Catherine Roger,catherine.roger@outlook.com,0011080996,21-02-1984,Suisse,27/07/2025,or
+5053,Alfred Le Devaux,alfred.le.devaux@hotmail.fr,94.27.88.16.50,09/10/2002,CH,2024-03-26,or
+5054,Thibault Pottier-Gaillard,thibault.pottier-gaillard@yahoo.fr,null,06-07-1992,Suisse,16/01/2023,platine
+5055,Alphonse Laroche-Leclerc,alphonse.laroche-leclerc@gmail.com,05.18.44.98.90,1974-07-25,fr,2022-08-04,bronze
+5056,Mathilde Coste,mathilde.coste@hotmail.fr,+33865577908,1984-09-21,GERMANY,18/02/2026,argent
+5057,Danielle Rolland,danielle.rolland@gmail.com,0033591365177,1941-07-03,ch,2024-02-13,argent
+5058,Corinne-Olivie Simon,corinne-olivie.simon@yahoo.fr,+33809202428,31-12-1953,Allemagne,2026-07-07,or
+5059,Agnès Fouquet Le Clément,agnès.fouquet.le.clément@hotmail.fr,0033929298425,1951-12-20,DE,03/05/2026,or
+5060,Antoinette Rolland du Collin,antoinette.rolland.du.collin@yahoo.fr,0033291279908,21-08-1945,GERMANY,2024-03-28,platine
+5061,Benjamin Leduc,benjamin.leduc@hotmail.fr,08.63.76.59.90,06-03-1985,Suisse,2022-03-18,platine
+5062,Gilbert Martel,gilbert.martel@hotmail.fr,0030098180,2031-01-15,US,07/08/2023,platine
+5063,Hugues du Étienne,hugues.du.étienne@gmail.com,0095946368,1943-09-19,DE,22/08/2025,or
+5064,Dorothée Lemaître,dorothée.lemaître@ gmail.com,-,1977-08-27,USA,2023-09-22,platine
+5065,  ANASTASIE RENARD  ,anastasie.renard@hotmail.fr,NULL,27-11-1964,United States,06/05/2025,platine
+5066,Louise Mendès,louise.mendès@hotmail.fr,0084309883,27/12/2007,US,18/10/2024,argent
+5067,Jules Dupuis,jules.dupuis@ gmail.com,0033669380118,1984-11-06,États-Unis,2023-02-22,-
+5068,Marine Perrot-Baron,marine.perrot-barongmail.com,+33426818184,11/09/1952,ch,04/06/2023,VIP
+5069,Pierre Boucher,pierre.boucher@outlook.com,+33357790714,07/06/2001,Allemagne,2022-01-22,platine
+5070,Yves Boutin-Rolland,yves.boutin-rolland@outlook.com,0034165182,26/09/1995,Etats-Unis,2024-02-08,platine
+5071,  GABRIELLE BAUDRY  ,-,NULL,27/11/1955,be,2022-04-28,bronze
+5072,Yves Dupré,yves.dupré@ gmail.com,N/A,03-09-1972,ch,2023-09-17,platine
+5073,Charlotte-Anastasie Laine,charlotte-anastasie.laine@yahoo.fr,-,02/09/1995,USA,03/02/2025,bronze
+5074,Capucine Germain,capucine.germain@hotmail.fr,47.95.52.76.30,04-11-1962,France,26/10/2023,argent
+5075,Mathilde Maréchal,mathilde.maréchal@outlook.com,0043866322,11-09-1956,CH,02/02/2024,bronze
+5076,Emmanuel De Oliveira,emmanuel.de.oliveira@yahoo.fr,+33906120347,2031-01-15,Allemagne,2025-12-01,GOLD
+5077,Maurice Vallet,maurice.valletgmail.com,50.61.59.39.90,27/10/1960,Francia,2024-12-21,platine
+5078,Diane Valette-Jacquet,diane.valette-jacquet@gmail.com,null,10/05/1962,CH,19/12/2025,platine
+5079,Augustin Renard,augustin.renard@gmail.com,-999,1961-06-30,Etats-Unis,2022-08-22,bronze
+5080,Christophe Petitjean,christophe.petitjean@hotmail.fr,?,2031-01-15,Belgique,2025-07-19,bronze
+5081,Bernard Charles,bernard.charles@gmail.com,unknown,30-01-1982,Belgique,2026-01-09,N/A
+5082,Thérèse Bigot,thérèse.bigot@ gmail.com,0033299796884,2008-11-05,GERMANY,08/04/2026,platine
+5083,Henriette Blanc,henriette.blanc@yahoo.fr,0008254780,11-11-1968,Francia,2025-02-28,bronze
+5084,Valentine Ribeiro,valentine.ribeiro@yahoo.fr,0033853686632,1936-05-29,de,2025-04-19,argent
+5085,Michelle Vasseur,michelle.vasseur@ gmail.com,48.46.31.22.40,13/06/1955,BELGIQUE,2022-04-10,or
+5086,Stéphanie Maillard,stéphanie.maillard@yahoo.fr,0033080214427,04/04/1988,ch,2025-05-11,platine
+5087,Benjamin Fernandes-Garcia,benjamin.fernandes-garcia@hotmail.fr,0033705120461,28-09-1972,FRANCE,2024-06-09,bronze
+5088,Étienne Deschamps,étienne.deschamps@gmail.com,,1997-01-06,GERMANY,16/02/2025,bronze
+5089,Isaac Leroux de Vallet,isaac.leroux.de.vallet@gmail.com,0033503136502,11/01/2006,de,11/09/2025,argent
+5090,Célina-Nicole Berger,célina-nicole.berger@outlook.com,0013271950,1936-05-23,Francia,08/01/2022,bronze
+5091,René Gautier,rené.gautier@hotmail.fr,0033306524077,27/02/1945,France,2024-07-08,argent
+5092,Victoire Aubert-Duhamel,victoire.aubert-duhamel@gmail.com,+33821827448,20/09/1949,Belgique,23/07/2023,bronze
+5093,Timothée Guillou,timothée.guillou@outlook.com,0033351863878,1964-02-25,SUISSE,29/06/2022,or
+5094,Isaac Lejeune Le Masson,isaac.lejeune.le.massongmail.com,+33317310967,10/12/1942,Allemagne,2024-05-08,or
+5095,Joséphine-Anaïs Poulain,joséphine-anaïs.poulain@outlook.com,,1952-04-11,USA,2024-05-14,or
+5096,Henri Garnier,henri.garnier@outlook.com,33.83.92.88.60,27/07/2006,Francia,15/06/2025,bronze
+5097,Martine-Suzanne Boutin,martine-suzanne.boutin@hotmail.fr,0033852897558,1899-05-20,SUISSE,06/09/2026,platine
+5098,Michelle Pasquier,michelle.pasquier@gmail.com,,1993-01-14,DE,2021-09-21,or
+5099,Guy Godard,guy.godard@ gmail.com,+33350488899,11/12/1936,be,30/06/2022,platine
+5100,Michel Hamon,michel.hamon@hotmail.fr,?,1947-06-07,FR,2025-09-08,argent
+5101,Patrick Blot,patrick.blot@outlook.com,0033610556613,08/06/1988,DE,18/06/2025,platine
+5102,Adrienne Couturier du Vincent,adrienne.couturier.du.vincent@hotmail.fr,0083206799,01-08-1958,SUISSE,31/03/2024,unknown
+5103,Martin Charpentier-Carlier,martin.charpentier-carlier@hotmail.fr,86.41.68.62.20,28-10-1946,Etats-Unis,16/02/2024,
+5104,Patrick du Gilles,patrick.du.gilles@outlook.com,0033591166553,1978-07-29,SUISSE,2023-04-29,or
+5105,Alexandrie Pires Le Roy,alexandrie.pires.le.roy@yahoo.fr,0035211039,2009-10-18,ch,11/05/2026,bronze
+5106,Aimé Le Goff de Schneider,?,-,23/06/1969,France,10/08/2023,bronze
+5107,Amélie Le Picard,amélie.le.picard@yahoo.fr,0033016451046,25/03/1940,BE,17/11/2022,bronze
+5108,Dominique Lacombe,dominique.lacombe@hotmail.fr,0033238780038,12/03/1943,France,2023-04-01,bronze
+5109,Nathalie Vallet,nathalie.vallet@yahoo.fr,84.04.60.84.30,02/07/1947,Allemagne,25/06/2022,or
+5110,Christine Fernandez,christine.fernandez@yahoo.fr,64.95.78.23.20,19-06-1990,be,17/08/2024,platine
+5111,Daniel Le Lagarde,daniel.le.lagarde@outlook.com,0018812520,10-08-1988,Francia,2025-07-20,platine
+5112,Olivie Bailly,olivie.baillygmail.com,20.99.49.99.30,1968-12-12,Francia,2024-09-14,platine
+5113,Zacharie Michel-Pelletier,zacharie.michel-pelletier@hotmail.fr,0033526772233,1941-09-07,CH,2021-11-18,bronze
+5114,Grégoire Pasquier,grégoire.pasquier@outlook.com,0033975736609,31-05-1952,ch,2025-05-26,or
+5115,Margaux Carlier,margaux.carlier@gmail.com,null,02/08/1981,Allemagne,19/07/2025,-999
+5116,Étienne Klein,étienne.klein@yahoo.fr,0033490827718,09/09/1968,FR,15/04/2022,argent
+5117,Christiane-Nathalie Pasquier,christiane-nathalie.pasquier@hotmail.fr,?,1959-12-25,be,22/11/2024,or
+5118,Rémy Neveu,rémy.neveu@ gmail.com,25.92.22.20.60,12/07/1964,fr,2023-04-06,argent
+5119,Louise Toussaint,louise.toussaint@gmail.com,?,10/04/1949,Suisse,22/10/2022,argent
+5120,Susanne Lejeune,unknown,null,11/11/1968,CH,2025-12-28,argent
+5121,Lucy-Margot Fernandez,lucy-margot.fernandez@hotmail.fr,+33998279501,27/05/1939,Suisse,2025-07-26,platine
+5122,Michèle Gillet,michèle.gillet@outlook.com,N/A,1997-03-30,Suisse,13/10/2024,or
+5123,Sébastien Chauveau,sébastien.chauveau@outlook.com,+33954899529,2009-03-05,États-Unis,2024-07-14,gold
+5124,Zoé du Arnaud,,-,2001-12-31,be,2023-06-21,or
+5125,Aimé de la Blot,aimé.de.la.blotgmail.com,0033501556990,1899-05-20,Etats-Unis,2025-11-19,bronze
+5126,Jacques Le Maillet,jacques.le.maillet@yahoo.fr,0033785760849,28-08-1971,BE,07/05/2025,?
+5127,Agnès Guillaume,agnès.guillaume@yahoo.fr,05.68.29.96.20,11/01/1979,be,12/09/2024,bronze
+5128,Hugues Lacombe de Maillard,hugues.lacombe.de.maillard@yahoo.fr,null,06/10/1966,Allemagne,2023-12-10,bronze
+5129,Olivier Charrier,olivier.charrier@hotmail.fr,-,12-04-1947,BELGIQUE,2022-04-20,VIP
+5130,Alphonse Torres de Le Roux,alphonse.torres.de.le.roux@gmail.com,94.35.33.44.80,27/09/1970,fr,27/04/2023,platine
+5131,Célina Maillard,NULL,0033813858542,03/12/1946,GERMANY,2026-06-10,argent
+5132,Sébastien Moulin de la Guérin,sébastien.moulin.de.la.guérin@hotmail.fr,N/A,28-01-1959,Francia,2022-08-14,bronze
+5133,Sophie Chauvet Le Langlois,,n/a,1960-08-24,Suisse,17/06/2026,bronze
+5134,Thibault Poirier,thibault.poirier@outlook.com,+33701715772,2004-03-09,BE,2023-02-18,platine
+5135,Charlotte Grégoire,null,+33876963938,11/06/1943,CH,2022-07-08,argent
+5136,Nathalie François,nathalie.françois@yahoo.fr,0021971997,11-04-1961,France,2023-05-08,n/a
+5137,Matthieu Schmitt,matthieu.schmitt@yahoo.fr,,1958-10-29,Suisse,05/07/2025,platine
+5138,Maurice Rossi,maurice.rossi@outlook.com,0046519098,1957-08-02,United States,29/09/2023,argent
+5139,William Bonnet,william.bonnet@gmail.com,,01/06/1963,Francia,2023-08-19,platine
+5140,Frédérique Dupré-Giraud,frédérique.dupré-giraud@gmail.com,+33242201027,2031-01-15,Etats-Unis,2025-01-05,bronze
+5141,Augustin Dos Santos,augustin.dos.santosgmail.com,27.86.87.65.30,22-11-1983,SUISSE,2022-08-26,platine
+5142,Adèle Verdier du Foucher,adèle.verdier.du.foucher@hotmail.fr,null,24-06-1953,be,2022-06-07,or
+5143,Laurence du Blondel,n/a,-999,1941-08-04,DE,2024-04-14,bronze
+5144,Margot De Oliveira,margot.de.oliveira@gmail.com,0033494079290,11-03-1962,FR,02/01/2025,or
+5145,Thierry Michel Le Vallée,-,n/a,29-11-1941,Suisse,2025-01-07,bronze
+5146,Diane Bertin,diane.bertin@yahoo.fr,-,31/05/1994,United States,2025-01-10,bronze
+5147,François Verdier,françois.verdier@ gmail.com,-,1990-10-20,DE,2025-02-20,argent
+5148,Thérèse Charles,thérèse.charles@gmail.com,0033580185694,11-08-1946,États-Unis,2023-05-25,or
+5149,Benoît-Gilbert Bègue,benoît-gilbert.bègue@yahoo.fr,0033525800106,15-07-1979,ch,18/03/2022,platine
+5150,Zacharie Cohen,zacharie.cohen@gmail.com,0010939111,1962-02-01,Belgique,02/01/2026,bronze
+5151,Laurent Descamps,laurent.descamps@gmail.com,0033717465421,05/01/1993,United States,2023-02-09,or
+5152,Laurent Chevallier,laurent.chevallier@yahoo.fr,0073962712,02-09-1960,US,2024-06-04,bronze
+5153,Gabrielle Bonneau,gabrielle.bonneau@ gmail.com,19.47.07.20.00,22/12/1983,be,17/01/2025,or
+5154,Denis-Jacques Michaud,denis-jacques.michaud@gmail.com,,27/10/1978,be,23/05/2023,bronze
+5155,Luc Lefèvre de Poulain,luc.lefèvre.de.poulain@outlook.com,+33280634615,27-10-1975,SUISSE,26/02/2024,or
+5156,Élisabeth Joly,élisabeth.joly@yahoo.fr,+33184787005,26/05/1938,BE,01/01/2022,bronze
+5157,Luc Lemaire,luc.lemaire@yahoo.fr,0002707903,07/08/1951,be,25/03/2025,bronze
+5158,Aimé Giraud,aimé.giraud@hotmail.fr,0011179931,05-03-1983,CH,2025-09-29,N/A
+5159,Maggie Gallet,maggie.gallet@yahoo.fr,53.09.25.11.40,09-08-1986,CH,06/06/2022,bronze
+5160,Denise Grenier,denise.grenier@outlook.com,0033219620710,20/06/1963,SUISSE,04/10/2021,?
+5161,Victor Allain,victor.allaingmail.com,+33487632909,2002-03-30,FRANCE,2022-08-15,bronze
+5162,Aurore Techer,aurore.techer@gmail.com,+33331819588,16/09/1997,Suisse,26/10/2022,or
+5163,Guillaume de Leclercq,guillaume.de.leclercqgmail.com,,04-03-1944,France,01/10/2025,or
+5164,Amélie Duval,amélie.duval@gmail.com,11.37.99.56.30,1991-04-03,fr,16/06/2025,argent
+5165,Henriette Merle,henriette.merle@yahoo.fr,+33631797062,25/12/1943,FR,20/10/2022,
+5166,Susanne Colin du Besson,susanne.colin.du.besson@gmail.com,0033209042177,1945-12-14,Belgique,2023-10-25,or
+5167,Geneviève Collet,geneviève.collet@gmail.com,0033687397740,30/12/1980,Suisse,2025-05-16,or
+5168,Gérard Millet-Gay,gérard.millet-gaygmail.com,-999,1979-03-08,CH,26/12/2023,platine
+5169,Augustin Pascal-Chrétien,augustin.pascal-chrétien@hotmail.fr,NULL,27/08/1936,France,2021-11-04,bronze
+5170,Susan Leleu,susan.leleu@outlook.com,+33165804649,13-02-1946,be,08/06/2024,N/A
+5171,Zacharie de Legendre,zacharie.de.legendregmail.com,0033657905528,14/10/2001,be,2025-03-31,or
+5172,Emmanuelle Dos Santos-Daniel,emmanuelle.dos.santos-daniel@outlook.com,n/a,1953-08-15,USA,13/06/2023,or
+5173,Camille Laine,camille.laine@outlook.com,null,09-12-1997,GERMANY,2023-03-01,bronze
+5174,Bernard Gaillard,bernard.gaillard@gmail.com,NULL,1956-06-02,Francia,2025-05-30,argent
+5175,William Roche,william.roche@gmail.com,,2031-01-15,Allemagne,2024-07-23,argent
+5176,Émile Bertin de la Guillet,émile.bertin.de.la.guillet@outlook.com,72.92.84.22.20,13-08-1963,BELGIQUE,12/07/2022,or
+5177,Alphonse Prévost,alphonse.prévost@hotmail.fr,0033805525782,1978-10-24,ch,22/05/2024,bronze
+5178,Alexandre Lebon,alexandre.lebongmail.com,,21/07/2005,US,2025-05-14,bronze
+5179,Maggie Lagarde,maggie.lagarde@yahoo.fr,40.69.37.51.50,23/02/1944,be,30/12/2021,unknown
+5180,Stéphane de la Gosselin,stéphane.de.la.gosselin@gmail.com,0063759980,1956-07-26,FRANCE,2026-04-07,bronze
+5181,Nicole Caron,-999,+33455478137,1989-06-03,BE,2025-06-06,bronze
+5182,Simone Hervé,simone.hervé@outlook.com,12.34.78.51.90,03/01/1948,FRANCE,2025-07-03,?
+5183,Adrien Lejeune,adrien.lejeune@ gmail.com,+33923264870,20/08/1983,Francia,2025-11-02,platine
+5184,Stéphane Bailly du Vaillant,stéphane.bailly.du.vaillant@hotmail.fr,null,1991-03-19,Belgique,27/04/2022,argent
+5185,Paul-Arthur Joseph,paul-arthur.joseph@outlook.com,+33158904290,2031-01-15,GERMANY,14/06/2022,argent
+5186,Christiane Hamon,christiane.hamongmail.com,44.81.83.21.90,21-12-1947,United States,2025-06-27,bronze
+5187,Margot Gomes-Pottier,margot.gomes-pottier@gmail.com,0033520284576,1995-09-18,Allemagne,04/06/2023,VIP
+5188,Bernard Carpentier,bernard.carpentier@hotmail.fr,+33881671120,25/04/1947,Suisse,2024-02-14,or
+5189,Jules Joly du Godard,jules.joly.du.godard@gmail.com,32.23.42.32.10,16-12-1974,Belgique,06/11/2023,platine
+5190,Auguste Moreau,auguste.moreau@gmail.com,0090714014,28-10-1993,BELGIQUE,22/01/2025,platine
+5191,Charles Marion,charles.mariongmail.com,24.95.52.89.30,16-02-1951,France,2024-03-31,platine
+5192,Benoît Delorme,benoît.delorme@yahoo.fr,,19/12/1992,CH,02/02/2025,bronze
+5193,Éric Monnier,éric.monniergmail.com,0051718275,1899-05-20,DE,31/03/2025,null
+5194,Alice Perez-Millet,alice.perez-millet@outlook.com,-,01/10/1972,SUISSE,2026-06-02,platine
+5195,Dorothée Richard,dorothée.richardgmail.com,+33112669121,18-08-2010,US,2023-07-17,argent
+5196,Jean de la Valentin,jean.de.la.valentin@ gmail.com,0033499465796,1999-01-10,FR,2026-08-30,platine
+5197,Laurence de la Lecoq,laurence.de.la.lecoq@gmail.com,0001017026,1969-10-27,DE,2024-09-29,argent
+5198,Colette Bailly,colette.bailly@ gmail.com,+33347784858,16/05/1982,États-Unis,15/06/2024,or
+5199,Martin Lemaire,martin.lemaire@hotmail.fr,02.84.27.62.40,30/06/1964,Allemagne,20/04/2025,or
+5200,Cécile Colas,cécile.colas@ gmail.com,+33064796954,1986-05-08,BE,29/04/2023,platine
+5201,Théodore Lambert,théodore.lambert@hotmail.fr,0033616556503,03-05-1945,FR,17/12/2022,n/a
+5202,Théodore Clément de Schneider,théodore.clément.de.schneider@yahoo.fr,,1944-04-22,de,31/10/2021,platine
+5203,Michelle Masse,michelle.masse@hotmail.fr,+33785294563,29/12/1964,Belgique,16/03/2024,bronze
+5204,René Benoit,rené.benoitgmail.com,,1957-04-10,BELGIQUE,23/09/2025,argent
+5205,Pénélope Lacroix,pénélope.lacroix@ gmail.com,85.36.64.98.70,1961-10-09,États-Unis,29/01/2025,or
+5206,Édith Moreau-Techer,édith.moreau-techer@outlook.com,+33489690835,22-06-1988,France,2024-01-13,argent
+5207,Denis Letellier-Pottier,unknown,0044249363,19-02-1993,fr,2022-04-16,bronze
+5208,Alexandre de la Ruiz,alexandre.de.la.ruiz@hotmail.fr,0020448207,15-07-1970,Etats-Unis,2025-08-20,unknown
+5209,Augustin Bouvier,augustin.bouvier@outlook.com,0033231981898,1980-11-04,SUISSE,2022-12-25,or
+5210,Georges Brunel,georges.brunel@yahoo.fr,0032123476,22/11/1944,ch,2022-12-29,bronze
+5211,Andrée-Victoire Joubert,andrée-victoire.joubert@hotmail.fr,n/a,29/10/1963,États-Unis,23/11/2021,bronze
+5212,Xavier Dupuis,xavier.dupuisgmail.com,+33376064413,1954-09-12,BE,2023-03-18,bronze
+5213,Matthieu Lefort,matthieu.lefortgmail.com,76.56.12.48.10,06/07/1959,GERMANY,2023-06-25,platine
+5214,Marguerite De Sousa de Ledoux,marguerite.de.sousa.de.ledoux@outlook.com,0033345911238,1939-08-19,ch,2025-04-16,bronze
+5215,Théophile Torres,théophile.torres@outlook.com,+33295431652,1966-07-01,États-Unis,09/09/2023,bronze
+5216,Hélène Lefebvre,hélène.lefebvre@gmail.com,20.69.69.42.10,2031-01-15,CH,2026-07-07,null
+5217,Roland Lemaire,roland.lemaire@outlook.com,0034476263,12/10/1936,United States,21/09/2024,or
+5218,Yves Roche du Arnaud,yves.roche.du.arnaudgmail.com,+33973597107,13-05-1966,BELGIQUE,22/05/2022,platine
+5219,Nicole Torres,nicole.torres@hotmail.fr,18.00.53.75.90,1951-08-22,Suisse,03/06/2026,platine
+5220,Amélie Thomas Le Bodin,amélie.thomas.le.bodingmail.com,0092428757,13-03-1982,be,20/05/2022,argent
+5221,Philippine Blanchard,philippine.blanchard@hotmail.fr,+33564494856,03-04-1955,United States,09/03/2026,unknown
+5222,Victoire Salmon,victoire.salmon@yahoo.fr,0033320742761,2006-12-23,GERMANY,2026-09-13,gold
+5223,Alice Pichon,alice.pichon@hotmail.fr,0051342284,18-06-1962,SUISSE,16/07/2024,argent
+5224,Frédérique-Adèle Laine,frédérique-adèle.laine@ gmail.com,0033150416591,1993-03-28,BE,2025-11-28,or
+5225,Alexandre Faure,alexandre.faure@hotmail.fr,n/a,29-03-1970,FR,2025-09-24,argent
+5226,Isaac Lefèvre de Lévy,isaac.lefèvre.de.lévy@outlook.com,+33361032664,12/02/2007,US,16/12/2024,platine
+5227,Charles Léger,charles.léger@outlook.com,15.83.77.67.40,15-07-1972,DE,2024-07-15,platine
+5228,Bernadette Boulay,bernadette.boulay@hotmail.fr,0033108573278,1967-05-31,de,2024-11-14,NULL
+5229,Aurélie Le Bigot,aurélie.le.bigot@hotmail.fr,+33386490810,10-07-1968,France,2024-04-16,platine
+5230,Pauline du Gauthier,pauline.du.gauthier@yahoo.fr,0033801722601,28/07/1970,BELGIQUE,21/10/2023,bronze
+5231,Hugues Coste du Boulay,hugues.coste.du.boulay@yahoo.fr,,1985-12-29,GERMANY,2022-04-22,argent
+5232,Victor Martel,victor.martel@gmail.com,0056412203,27/03/1970,Allemagne,13/04/2022,or
+5233,Étienne Michel,étienne.michel@ gmail.com,0033147276012,01/06/1951,BELGIQUE,27/03/2026,argent
+5234,Véronique Georges,?,0033960501667,12-03-1937,fr,29/05/2025,platine
+5235,Luce Da Silva du Alexandre,luce.da.silva.du.alexandre@gmail.com,0095814671,1972-03-07,GERMANY,2024-03-12,
+5236,Sophie Rocher,sophie.rocher@hotmail.fr,0038395972,10/06/1968,FRANCE,20/02/2026,argent
+5237,Patricia Maillet,patricia.maillet@yahoo.fr,+33417223297,29-08-1984,Francia,24/03/2022,argent
+5238,Virginie Bailly,virginie.bailly@hotmail.fr,+33228015619,29-04-1953,United States,09/11/2022,bronze
+5239,Hélène Coulon-Poirier,hélène.coulon-poirier@yahoo.fr,n/a,01-04-2010,SUISSE,2024-10-08,argent
+5240,Roger Dupont,roger.dupont@outlook.com,0033478712552,1973-10-09,DE,2022-05-03,or
+5241,Matthieu du Lecoq,n/a,-999,26/05/1993,France,2023-10-31,or
+5242,Daniel Gilbert-Pasquier,daniel.gilbert-pasquier@gmail.com,0008115562,29/07/2004,FRANCE,23/11/2023,bronze
+5243,Alex Peltier,alex.peltier@outlook.com,0033668455048,29-11-2004,DE,2024-10-10,bronze
+5244,Luc Cohen,luc.cohen@yahoo.fr,0033108562884,06/01/1984,be,2022-10-16,or
+5245,Marcelle Le Boulay,marcelle.le.boulay@outlook.com,,1983-05-26,France,2023-06-30,argent
+5246,Victor Denis,victor.denis@hotmail.fr,+33989354492,18-05-1969,de,18/04/2025,platine
+5247,Jeanne de Millet,jeanne.de.millet@yahoo.fr,0033661106273,16-06-1974,be,15/12/2023,argent
+5248,Océane Pruvost,océane.pruvost@outlook.com,NULL,1977-08-24,United States,15/05/2022,argent
+5249,Célina de la Pineau,célina.de.la.pineau@ gmail.com,0011594082,24-03-1971,France,24/04/2022,platine
+5250,Julien Bailly Le Vallée,julien.bailly.le.vallée@outlook.com,+33443270185,27-10-1937,Belgique,2022-01-22,platine
+5251,Marc Leduc,marc.leduc@outlook.com,+33228777251,1978-09-14,DE,21/09/2025,or
+5252,Odette Chevallier de la Delaunay,odette.chevallier.de.la.delaunay@ gmail.com,+33094818139,1961-02-23,Francia,2024-06-06,argent
+5253,Roland Barbe,roland.barbe@outlook.com,20.43.39.71.80,1949-12-05,DE,03/10/2024,bronze
+5254,Amélie Marin,amélie.marin@yahoo.fr,+33085641118,15/05/2000,FRANCE,2022-07-25,bronze
+5255,Éric Adam,éric.adam@yahoo.fr,+33952004615,2031-01-15,ch,08/06/2022,platine
+5256,Josette Mallet,josette.mallet@ gmail.com,N/A,2006-05-05,Etats-Unis,25/04/2023,or
+5257,Odette François-Guillet,odette.françois-guillet@gmail.com,0038249671,21/11/1937,DE,2025-12-15,bronze
+5258,Emmanuelle de la Besson,emmanuelle.de.la.besson@yahoo.fr,+33700794200,1976-04-03,BELGIQUE,23/05/2026,VIP
+5259,Laetitia Joseph,laetitia.joseph@gmail.com,0002891416,16/07/1954,DE,2025-03-20,
+5260,Roger Guyot,roger.guyot@outlook.com,47.43.55.37.90,2001-08-05,CH,2023-05-14,unknown
+5261,Tristan Bernard,tristan.bernard@outlook.com,+33768118071,20-05-1981,USA,2023-06-27,
+5262,Martine Chevallier,martine.chevallier@yahoo.fr,-999,1949-01-04,CH,2024-11-06,argent
+5263,Gabriel Teixeira-Étienne,gabriel.teixeira-étienne@outlook.com,0033614987283,25/06/1938,GERMANY,2025-01-08,bronze
+5264,Diane-Anouk Pruvost,diane-anouk.pruvost@hotmail.fr,NULL,05-05-1945,BE,2021-09-24,-
+5265,Anastasie Breton,anastasie.bretongmail.com,0058030468,01-03-1968,DE,2023-12-20,or
+5266,Louis Leclercq,louis.leclercq@gmail.com,-,28/10/1960,United States,06/10/2025,bronze
+5267,Margaret-Jeannine Hoarau,margaret-jeannine.hoaraugmail.com,-999,24-10-1943,fr,2022-02-24,argent
+5268,Alfred Hoareau,alfred.hoareau@yahoo.fr,0096110804,21-03-1959,SUISSE,2025-12-21,argent
+5269,Brigitte Maurice,brigitte.maurice@outlook.com,0076991507,1992-02-14,FR,2024-04-22,bronze
+5270,Élise-Catherine Henry,élise-catherine.henrygmail.com,0045679723,23/08/1936,SUISSE,2022-05-30,bronze
+5271,Antoine Rodriguez,antoine.rodriguez@hotmail.fr,+33822749545,1959-02-05,Suisse,2026-07-29,bronze
+5272,Claudine de Gomez,claudine.de.gomez@yahoo.fr,31.53.77.95.90,2031-01-15,ch,21/07/2024,or
+5273,Lucy Humbert,lucy.humbert@yahoo.fr,03.37.93.37.50,1960-05-15,Francia,04/10/2025,or
+5274,Emmanuelle Alexandre,emmanuelle.alexandre@hotmail.fr,+33081247395,17/07/1949,Etats-Unis,2021-12-10,or
+5275,Eugène Philippe,eugène.philippe@hotmail.fr,+33323024102,11-01-1957,Belgique,2023-08-14,or
+5276,Jean Lacroix,jean.lacroix@outlook.com,n/a,09/08/1958,DE,12/08/2023,argent
+5277,Margaud Joseph,margaud.joseph@gmail.com,+33842530428,1967-12-09,FRANCE,2026-07-26,platine
+5278,Françoise Petitjean,françoise.petitjean@outlook.com,68.57.87.25.50,1941-10-30,Belgique,08/05/2024,bronze
+5279,Virginie Reynaud,virginie.reynaud@outlook.com,0033373634669,1955-11-06,BE,2022-07-05,argent
+5280,Joséphine Dias,joséphine.dias@yahoo.fr,0090789567,29-01-1942,FRANCE,2024-01-23,or
+5281,Michèle Mahe,michèle.mahe@yahoo.fr,0033415148881,02-07-1959,Suisse,26/08/2025,or
+5282,Benoît Lemaire-Guérin,benoît.lemaire-guérin@gmail.com,-,28/09/1962,Belgique,2023-02-17,bronze
+5283,Océane Lebon,océane.lebon@outlook.com,33.37.38.98.70,13/05/1997,États-Unis,03/05/2025,bronze
+5284,Marianne Clément,-999,0033780529240,16/03/1959,CH,22/03/2024,or
+5285,Maggie Jean,maggie.jean@hotmail.fr,unknown,28/02/1967,Belgique,04/08/2024,n/a
+5286,Monique Martins,monique.martins@gmail.com,null,16-11-2006,be,2022-08-11,VIP
+5287,Victoire Michel de la Philippe,victoire.michel.de.la.philippe@gmail.com,0033817058025,07/12/1940,be,2026-01-08,
+5288,Nathalie Barbier,nathalie.barbier@ gmail.com,0033632346729,2009-12-10,fr,06/08/2024,platine
+5289,Théodore Renaud du Baron,théodore.renaud.du.baron@hotmail.fr,,07-11-1950,fr,2025-05-30,or
+5290,Tristan Pineau Le Bonnin,tristan.pineau.le.bonnin@hotmail.fr,32.96.76.29.10,03-12-1998,SUISSE,10/09/2023,platine
+5291,  GEORGES BARBIER  ,georges.barbier@hotmail.fr,,03-04-1956,US,19/07/2022,-
+5292,Philippe de Pinto,philippe.de.pintogmail.com,+33600412577,22-09-1937,United States,2024-01-11,argent
+5293,Robert Descamps,,+33209124186,23-11-1953,SUISSE,2022-07-25,GOLD
+5294,Yves Maillard,yves.maillard@yahoo.fr,0033370816470,27/03/1947,fr,2024-09-17,argent
+5295,Laurent Gosselin,laurent.gosselin@gmail.com,0060053131,08-11-1950,fr,15/09/2025,argent
+5296,Émile Bertrand,émile.bertrand@hotmail.fr,+33938661331,25-11-1966,US,04/07/2023,or
+5297,Aimé Maréchal,aimé.maréchal@gmail.com,?,1984-10-09,fr,2025-07-24,platine
+5298,Caroline Mendès,caroline.mendès@yahoo.fr,62.52.57.15.00,09/12/1975,GERMANY,06/10/2024,bronze
+5299,Sophie-Monique Gros,sophie-monique.gros@outlook.com,0091436391,08-10-1983,de,08/01/2022,platine
+5300,Zoé Collet,zoé.colletgmail.com,?,1950-11-15,Allemagne,23/06/2025,or
+5301,Jacques Le Goff-Berger,jacques.le.goff-berger@outlook.com,+33852701713,28/02/1951,France,25/12/2021,argent
+5302,François Marchand,françois.marchand@hotmail.fr,?,09/08/1942,DE,2023-03-28,platine
+5303,Sophie-Émilie Maillard,sophie-émilie.maillard@yahoo.fr,0033277689627,28-05-2000,FRANCE,27/10/2021,bronze
+5304,Pénélope Perez,pénélope.perez@yahoo.fr,24.67.47.46.80,21-08-1992,United States,2024-10-02,or
+5305,Jacques Dufour,jacques.dufour@ gmail.com,0033857666567,03-05-1989,fr,06/04/2023,platine
+5306,Arnaude-Odette Morel,arnaude-odette.morelgmail.com,0045875066,27-02-2010,ch,2025-05-27,platine
+5307,Olivier Fontaine-Étienne,olivier.fontaine-étienne@gmail.com,0043992011,17/01/1983,fr,2024-12-11,or
+5308,Nicole Munoz,n/a,0044886946,08/09/1979,FR,26/06/2025,platine
+5309,Bernard Bousquet,bernard.bousquet@yahoo.fr,0033402701168,02-09-1978,be,2023-10-22,bronze
+5310,Martin Picard de la Besson,martin.picard.de.la.besson@yahoo.fr,NULL,14/09/1949,de,2023-01-07,platine
+5311,Sabine Toussaint,sabine.toussaintgmail.com,0014150937,2004-03-12,DE,24/02/2024,n/a
+5312,Aimé Bonnet,aimé.bonnet@gmail.com,80.69.84.77.50,1899-05-20,BELGIQUE,29/09/2024,or
+5313,Michèle Normand,michèle.normandgmail.com,0033905510762,26-06-2002,United States,2021-11-06,argent
+5314,Rémy Guyot,n/a,+33863050505,20-01-2007,de,2025-02-10,platine
+5315,Thibaut Vallée-Alexandre,thibaut.vallée-alexandre@outlook.com,-999,01/03/1991,FRANCE,12/05/2022,platine
+5316,Henri Maillet,henri.mailletgmail.com,,12/06/2010,BE,2022-07-10,platine
+5317,Nathalie Gosselin,nathalie.gosselin@hotmail.fr,+33715399156,01-10-1956,Belgique,2026-04-10,platine
+5318,Renée Rey,renée.rey@yahoo.fr,unknown,27/06/1952,FRANCE,2024-08-10,or
+5319,Honoré Bonnet,honoré.bonnet@yahoo.fr,+33289931608,24/12/1979,CH,26/12/2025,bronze
+5320,Claudine Collet,-999,0009548149,07/07/1998,Belgique,11/02/2024,bronze
+5321,Paul Le Fischer,paul.le.fischer@gmail.com,+33027642086,18-03-2008,BELGIQUE,30/05/2023,platine
+5322,Marine Boulay,marine.boulay@gmail.com,+33861259047,27-01-1965,États-Unis,2024-12-30,platine
+5323,Christine-Simone Grenier,christine-simone.grenier@yahoo.fr,+33591266201,1971-11-28,CH,02/07/2023,argent
+5324,Dorothée Roux,NULL,0001367492,1944-07-10,ch,26/12/2024,bronze
+5325,Aurore Merle,aurore.merle@hotmail.fr,11.11.78.30.90,01/07/1970,fr,02/08/2024,bronze
+5326,Valentine-Laure Lemonnier,valentine-laure.lemonnier@yahoo.fr,+33921518260,17/08/1991,BELGIQUE,10/09/2023,argent
+5327,Victoire Andre-Paul,victoire.andre-paulgmail.com,+33208751029,1998-07-05,États-Unis,02/10/2022,bronze
+5328,Benjamin Guilbert,benjamin.guilbert@yahoo.fr,0082603408,24-12-1954,ch,2026-03-31,gold
+5329,Vincent Joubert du Joly,vincent.joubert.du.joly@yahoo.fr,0033831030324,02-01-1979,United States,02/01/2026,bronze
+5330,Daniel de la Maury,daniel.de.la.maurygmail.com,0046267146,27/08/1962,US,04/06/2026,or
+5331,René Martins,rené.martins@yahoo.fr,92.62.56.60.90,1941-01-05,Allemagne,17/12/2022,platine
+5332,Charles-René Masson,charles-rené.masson@hotmail.fr,+33542340163,1987-01-08,FRANCE,2023-08-13,or
+5333,Charles Roger,charles.roger@yahoo.fr,0094849102,18/03/1975,BE,2023-04-24,argent
+5334,Édith Barre,édith.barre@yahoo.fr,08.22.26.94.00,06/03/1996,United States,25/04/2026,bronze
+5335,Jeanne Potier,jeanne.potier@outlook.com,+33844683414,17-05-1981,BELGIQUE,2023-10-03,
+5336,Bernadette Couturier,bernadette.couturier@yahoo.fr,unknown,1941-09-07,États-Unis,18/03/2024,argent
+5337,Chantal Lebon-Garcia,chantal.lebon-garcia@gmail.com,+33890972832,11-12-1981,Francia,2022-02-05,bronze
+5338,Pierre Benard,pierre.benardgmail.com,0053814474,28/02/2007,Suisse,2023-01-17,argent
+5339,Thomas Colas,N/A,0033705097545,30-03-1965,FR,04/04/2022,argent
+5340,Éléonore Maréchal,éléonore.maréchal@outlook.com,-,1962-04-25,États-Unis,08/11/2022,argent
+5341,Michelle Ribeiro,michelle.ribeiro@yahoo.fr,+33722560531,22/01/1963,BE,02/09/2022,argent
+5342,Daniel Delaunay,daniel.delaunay@gmail.com,41.67.87.25.60,2031-01-15,USA,25/03/2024,bronze
+5343,Christelle Masson,christelle.massongmail.com,+33030569067,20-07-2007,Allemagne,2023-03-03,bronze
+5344,Aurélie Samson,aurélie.samson@yahoo.fr,+33143637189,23-11-1967,BELGIQUE,18/08/2022,argent
+5345,Clémence-Henriette Mathieu,clémence-henriette.mathieu@hotmail.fr,+33093106684,1945-08-24,United States,2025-03-23,argent
+5346,Frédéric Marques-Launay,frédéric.marques-launay@yahoo.fr,n/a,31/08/1971,CH,21/09/2021,argent
+5347,Frédérique Renault,frédérique.renault@hotmail.fr,+33554110825,1971-02-16,FRANCE,11/07/2023,or
+5348,Michelle Gomez,michelle.gomez@gmail.com,-,28/06/1984,de,04/02/2022,bronze
+5349,Marianne Hernandez-Pages,marianne.hernandez-pages@gmail.com,0068485571,1971-04-16,GERMANY,2026-04-12,platine
+5350,Olivier Humbert,olivier.humbert@gmail.com,0009036788,1975-01-02,FRANCE,01/08/2026,argent
+5351,Matthieu Hamel,matthieu.hamel@outlook.com,N/A,02/12/1973,FRANCE,29/03/2024,argent
+5352,Josette Le Vasseur,josette.le.vasseur@hotmail.fr,unknown,13-12-1957,US,02/02/2026,or
+5353,Tristan Menard,tristan.menard@outlook.com,95.51.84.26.90,09-12-2009,BE,13/03/2023,argent
+5354,Thomas Dubois,,+33891649837,08-07-1997,fr,29/10/2022,argent
+5355,François-Stéphane Lombard,françois-stéphane.lombard@yahoo.fr,+33527172722,1996-04-21,FRANCE,2022-09-01,platine
+5356,Édith Jourdan,édith.jourdan@yahoo.fr,N/A,16-11-1956,CH,2025-05-06,bronze
+5357,Aimé Marion,aimé.marion@outlook.com,0031429001,16/03/1943,USA,07/06/2024,bronze
+5358,Aurélie Renaud,aurélie.renaud@outlook.com,+33230848100,2031-01-15,BE,2022-03-27,argent
+5359,Bernard Gros du Blanchard,bernard.gros.du.blanchard@gmail.com,unknown,25/10/1935,be,2022-11-05,?
+5360,Joseph Garnier Le Lemaire,joseph.garnier.le.lemaire@yahoo.fr,0033685926249,1962-10-05,ch,2025-10-23,platine
+5361,Caroline Dupuy,caroline.dupuy@yahoo.fr,0052677119,2004-06-10,United States,10/11/2023,argent
+5362,David-Benjamin Breton,david-benjamin.breton@gmail.com,-999,01-05-2010,FR,2024-06-20,or
+5363,Virginie Rossi-Regnier,virginie.rossi-regnier@hotmail.fr,0033931350305,1997-04-30,ch,2024-07-07,argent
+5364,Bertrand Lopez,bertrand.lopez@gmail.com,0063330212,28-01-2004,Etats-Unis,11/08/2023,argent
+5365,  MARCEL GUICHARD  ,marcel.guichard@yahoo.fr,0033202521310,12/10/1939,CH,2024-07-26,argent
+5366,Clémence Salmon,clémence.salmon@yahoo.fr,n/a,28-05-1949,SUISSE,2025-06-24,bronze
+5367,Corinne de Delaunay,corinne.de.delaunay@yahoo.fr,unknown,05-03-1998,de,09/06/2025,bronze
+5368,Andrée Vasseur,andrée.vasseur@gmail.com,62.05.63.41.10,1965-02-22,Suisse,10/02/2022,platine
+5369,Margaret Leroy de la Carre,margaret.leroy.de.la.carre@gmail.com,43.83.03.41.90,06-12-1947,US,2024-07-18,platine
+5370,Valérie-Amélie Rousseau,valérie-amélie.rousseaugmail.com,0033835652156,26/04/1959,Belgique,2026-03-16,platine
+5371,Capucine de la Laurent,capucine.de.la.laurent@ gmail.com,0033227113322,06/10/1979,be,09/09/2026,bronze
+5372,Marianne du Payet,marianne.du.payet@ gmail.com,,24/02/1961,États-Unis,30/09/2025,bronze
+5373,Honoré Lévy,honoré.lévy@yahoo.fr,+33242149551,15/10/2000,FR,2022-01-28,or
+5374,Josette Reynaud,josette.reynaud@outlook.com,0054669275,09-02-2009,United States,14/04/2024,argent
+5375,Margaux Besson de Normand,margaux.besson.de.normand@hotmail.fr,38.02.14.62.90,1966-09-18,GERMANY,2023-09-20,platine
+5376,Frédéric Chevallier,frédéric.chevallier@hotmail.fr,+33711216636,14-04-2001,CH,14/05/2023,platine
+5377,Marianne Texier,marianne.texier@outlook.com,,12/03/1972,CH,05/08/2025,or
+5378,Jules Perret,jules.perret@gmail.com,44.21.21.46.10,11-02-2009,de,20/03/2023,argent
+5379,Paulette Hardy,paulette.hardy@outlook.com,N/A,13-10-1951,ch,02/03/2025,or
+5380,Martin Monnier,martin.monnier@gmail.com,0099255027,02-03-2004,fr,24/05/2026,argent
+5381,Margaud Noël,margaud.noëlgmail.com,n/a,1995-02-15,CH,05/08/2025,or
+5382,Michelle Fabre Le Lacroix,michelle.fabre.le.lacroix@yahoo.fr,+33481776655,25/02/2007,FR,12/11/2025,or
+5383,Margaret Noël,margaret.noëlgmail.com,+33928664649,14-03-2005,États-Unis,31/05/2026,platine
+5384,Benjamin Duval,benjamin.duval@outlook.com,unknown,1942-06-12,de,2022-10-13,bronze
+5385,Monique Noël,monique.noël@yahoo.fr,+33605384444,1950-05-23,Suisse,2025-11-30,bronze
+5386,Isabelle Thomas,isabelle.thomasgmail.com,N/A,2003-03-28,Belgique,02/07/2024,bronze
+5387,Élise Chauvet,élise.chauvet@yahoo.fr,0065826312,21-01-1984,USA,2024-03-30,bronze
+5388,Nathalie-Josette Lenoir,nathalie-josette.lenoir@outlook.com,0033609209819,1947-08-27,SUISSE,20/08/2023,or
+5389,Michel Couturier,michel.couturiergmail.com,38.36.40.41.20,1983-02-01,be,2024-11-10,platine
+5390,Caroline-Cécile Jacques,caroline-cécile.jacques@hotmail.fr,21.17.53.61.70,06-04-2005,be,13/09/2025,bronze
+5391,Arnaude Coulon,arnaude.coulon@outlook.com,N/A,31-08-2007,Suisse,23/04/2022,argent
+5392,Marie Guillet,marie.guillet@gmail.com,?,05-05-2010,BE,2026-01-21,or
+5393,Franck Martinez,franck.martinez@yahoo.fr,0031584776,1960-04-15,Francia,2024-04-14,unknown
+5394,Élise Deschamps,élise.deschamps@gmail.com,+33423767694,11/09/1948,États-Unis,2025-10-20,bronze
+5395,Catherine Seguin du Gilbert,-,0084964985,14-09-1950,BELGIQUE,18/09/2023,platine
+5396,Éric Breton,éric.breton@yahoo.fr,0033552510505,05/12/1967,US,16/10/2022,or
+5397,Margot-Hortense Guilbert,margot-hortense.guilbert@yahoo.fr,0084919665,09-09-1940,USA,16/10/2025,platine
+5398,Eugène de Teixeira,eugène.de.teixeiragmail.com,0033295963904,1973-02-14,FR,2021-10-23,bronze
+5399,Adèle-Susan Jacquet,adèle-susan.jacquet@outlook.com,0033501716445,1945-07-21,be,2025-06-28,platine
+5400,Audrey Berthelot,audrey.berthelot@outlook.com,NULL,2031-01-15,USA,2025-11-07,argent
+5401,Bernard Breton,-999,0033580040104,29-04-2000,SUISSE,05/02/2022,platine
+5402,Monique Dupuy,monique.dupuy@outlook.com,52.96.71.88.30,15-02-1988,Belgique,11/08/2024,N/A
+5403,Laurence Lebrun,laurence.lebrun@ gmail.com,15.83.31.17.00,02-09-1993,SUISSE,14/10/2022,NULL
+5404,Nicolas du Roche,nicolas.du.roche@gmail.com,+33547281235,2031-01-15,BE,26/08/2023,argent
+5405,Émilie Valette,émilie.valette@gmail.com,91.27.11.30.70,27-09-1965,DE,2022-08-28,null
+5406,Noël Peltier,noël.peltier@hotmail.fr,+33563268685,1975-07-17,Allemagne,27/12/2021,bronze
+5407,Julien-Benoît Girard,julien-benoît.girardgmail.com,+33294897861,15/05/1984,ch,16/02/2025,bronze
+5408,Bertrand Vasseur-Noël,bertrand.vasseur-noël@ gmail.com,0033814396661,16-09-1939,BE,27/10/2022,bronze
+5409,Paul-François Picard,paul-françois.picard@gmail.com,null,27-08-1994,DE,16/02/2025,bronze
+5410,Éric Le Roux,éric.le.roux@gmail.com,0024120957,20-03-2003,CH,2024-08-21,or
+5411,Jeanne Georges,jeanne.georges@outlook.com,?,05-12-1943,Suisse,25/05/2025,or
+5412,Joséphine Dupré-Coulon,joséphine.dupré-coulon@outlook.com,0097148026,27/09/1954,DE,02/01/2026,or
+5413,Joseph Mahe,joseph.mahe@gmail.com,0033614878245,15/01/1938,États-Unis,01/03/2026,or
+5414,Patricia Baron,patricia.barongmail.com,0033167954107,1958-12-03,United States,2026-05-12,platine
+5415,Nicolas Bazin,nicolas.bazin@hotmail.fr,74.14.07.03.40,1946-12-28,SUISSE,2025-11-07,n/a
+5416,  ANDRÉ CAMUS  ,andré.camus@hotmail.fr,0033254882142,29-08-1958,fr,2026-09-14,platine
+5417,Martin de Charpentier,martin.de.charpentiergmail.com,n/a,1952-02-20,Suisse,2025-02-12,platine
+5418,Christine Normand,christine.normand@gmail.com,+33441497826,1993-04-19,be,20/08/2025,argent
+5419,Brigitte Dos Santos,brigitte.dos.santos@ gmail.com,-999,20/03/1975,BELGIQUE,01/03/2022,platine
+5420,Thibault Hernandez,thibault.hernandez@outlook.com,-999,20/09/1994,fr,2025-12-02,bronze
+5421,Antoine Dupuy,antoine.dupuy@gmail.com,0075019803,19-12-1997,CH,21/04/2024,argent
+5422,Virginie Dufour-Hubert,virginie.dufour-hubert@outlook.com,+33931102918,08/11/2002,de,2022-03-16,argent
+5423,Bernard du Laurent,bernard.du.laurent@yahoo.fr,N/A,1998-03-06,Francia,2022-05-04,bronze
+5424,Timothée Simon,timothée.simon@gmail.com,,01-08-1949,USA,05/09/2023,argent
+5425,Nicolas Delattre,nicolas.delattre@outlook.com,+33960940970,25/09/1996,SUISSE,07/04/2026,bronze
+5426,Christine Bigot,christine.bigot@outlook.com,+33883586812,27/11/2001,DE,2025-01-01,or
+5427,Maggie Jacques,unknown,0033767929884,1989-05-12,Francia,2022-05-15,or
+5428,Marine Mary,marine.mary@outlook.com,N/A,13-01-1982,USA,2026-03-22,or
+5429,Léon Faivre,léon.faivre@hotmail.fr,01.75.90.25.10,21/09/2008,SUISSE,2025-03-20,platine
+5430,Christiane Diaz,christiane.diaz@gmail.com,+33433268319,04-10-1978,Etats-Unis,04/11/2021,platine
+5431,François Fontaine,françois.fontaine@outlook.com,0052873397,22-06-1996,BELGIQUE,2024-03-24,or
+5432,Christine Mercier,christine.mercier@gmail.com,unknown,21-08-1968,FRANCE,18/05/2023,argent
+5433,William Deschamps-Perrier,william.deschamps-perriergmail.com,93.89.84.69.00,20/06/1988,Francia,14/06/2024,argent
+5434,Stéphane Georges,stéphane.georges@gmail.com,0033435023850,29-12-2005,Belgique,25/11/2022,or
+5435,Roland Bourdon,roland.bourdon@yahoo.fr,0033918724010,15/06/1988,de,16/03/2024,argent
+5436,Victor Marty-Perret,victor.marty-perret@hotmail.fr,N/A,18-07-1971,Suisse,2025-03-14,argent
+5437,Pénélope Dias,pénélope.dias@yahoo.fr,0033356033190,21-01-1946,France,2022-11-09,argent
+5438,Amélie Garcia-Fouquet,amélie.garcia-fouquet@yahoo.fr,0040559342,1954-06-20,Suisse,02/10/2024,?
+5439,Chantal Descamps,chantal.descampsgmail.com,0074584384,25/06/1941,BE,2023-04-26,platine
+5440,Camille Duval-Vincent,camille.duval-vincent@outlook.com,32.83.48.31.50,1961-09-20,Belgique,2025-05-07,argent
+5441,Alfred Huet,alfred.huet@gmail.com,,1988-02-06,GERMANY,23/08/2023,bronze
+5442,Laurent Jacob,NULL,+33804085095,09-01-1969,Suisse,03/05/2026,bronze
+5443,Théodore-Franck Boulay,théodore-franck.boulay@hotmail.fr,64.87.69.98.40,10/10/1937,France,2022-07-14,argent
+5444,Suzanne Vallet,suzanne.vallet@gmail.com,0038459609,2010-03-03,fr,2023-02-04,platine
+5445,Vincent-Gilbert Guibert,N/A,42.77.07.07.00,29/06/1996,Allemagne,21/07/2026,argent
+5446,Gabrielle Lejeune,gabrielle.lejeune@gmail.com,+33172444723,12-02-1940,États-Unis,15/11/2024,platine
+5447,Thierry Bègue,thierry.bègue@outlook.com,+33950830440,2031-01-15,FRANCE,11/02/2025,n/a
+5448,Amélie Brunel,amélie.brunel@ gmail.com,81.33.59.56.10,29-04-1953,CH,06/12/2024,platine
+5449,David Laurent Le Seguin,david.laurent.le.seguin@outlook.com,+33902504290,1899-05-20,France,2022-04-03,argent
+5450,Hugues Le Fabre,hugues.le.fabre@outlook.com,39.89.86.81.80,1964-02-19,de,18/09/2025,or
+5451,Sylvie Delmas du Prévost,sylvie.delmas.du.prévost@yahoo.fr,37.51.37.65.10,29/11/1955,USA,26/06/2023,bronze
+5452,Astrid Le Guibert,astrid.le.guibert@outlook.com,0033283692944,13/01/1972,be,07/06/2023,bronze
+5453,Augustin Lejeune,n/a,70.21.64.87.10,20/04/1967,US,09/05/2022,bronze
+5454,Martin Laurent,martin.laurent@hotmail.fr,NULL,24/06/1987,Francia,2026-03-18,argent
+5455,Catherine Mace,catherine.mace@outlook.com,0072298120,12-02-1939,FR,2024-09-09,platine
+5456,Susanne Gillet,NULL,+33347509889,04/10/1959,BELGIQUE,06/04/2024,bronze
+5457,Louise Breton,louise.breton@yahoo.fr,0033849951542,1964-07-12,BE,25/04/2022,or
+5458,Patrick-Matthieu Hubert,patrick-matthieu.hubert@gmail.com,,2002-02-15,US,27/03/2026,bronze
+5459,Élise Robert-Camus,,0078274117,1998-02-28,GERMANY,2026-03-02,platine
+5460,Julie Fernandez,N/A,0052854781,24/07/2000,ch,04/04/2025,argent
+5461,Alex Lesage,alex.lesage@gmail.com,0029633472,04/04/1943,France,2024-02-23,or
+5462,Paul Carre,paul.carre@yahoo.fr,0033178932064,10-08-1945,de,2024-10-15,argent
+5463,Inès-Marine Guillet,,76.95.87.41.30,1975-07-05,be,2022-04-14,or
+5464,Marc Cohen Le Hoarau,marc.cohen.le.hoarau@outlook.com,+33562779630,28/05/1985,Belgique,2023-03-06,
+5465,Gabrielle du Bonnet,gabrielle.du.bonnet@gmail.com,0033766404735,1977-11-22,Francia,2024-11-26,bronze
+5466,Honoré Pons,honoré.pons@yahoo.fr,,17-06-1966,Belgique,16/08/2025,platine
+5467,Marthe Gosselin,marthe.gosselin@hotmail.fr,N/A,1993-03-05,FR,2023-05-19,or
+5468,Robert de la Richard,robert.de.la.richard@outlook.com,+33702440330,1938-06-06,DE,2023-01-31,platine
+5469,Laurent Bègue,laurent.bègue@gmail.com,,12-10-1965,Allemagne,10/09/2022,or
+5470,Marcelle Breton du Blanchet,marcelle.breton.du.blanchetgmail.com,+33497646136,26-06-1991,Suisse,2024-07-11,platine
+5471,Lorraine Boutin,lorraine.boutin@gmail.com,58.17.39.06.30,1899-05-20,ch,2023-12-16,bronze
+5472,Catherine Weiss,catherine.weissgmail.com,0033379312697,07/01/1959,be,04/05/2024,platine
+5473,Hortense-Anne Gosselin,hortense-anne.gosselin@yahoo.fr,0099604387,23/09/1972,US,13/06/2024,argent
+5474,Inès Lebrun,inès.lebrun@gmail.com,N/A,1970-04-29,de,2022-09-16,or
+5475,Alfred Lamy,alfred.lamy@yahoo.fr,0033041644859,1972-11-11,DE,2026-03-04,argent
+5476,Danielle-Claire Charpentier,danielle-claire.charpentiergmail.com,0033477352287,19-12-1974,Allemagne,2021-10-08,argent
+5477,Dorothée Gérard,dorothée.gérard@outlook.com,+33875109792,04/01/1971,FRANCE,2022-01-20,platine
+5478,Hélène Barre-Techer,hélène.barre-techer@hotmail.fr,0033459648831,13/10/1936,SUISSE,2024-09-07,or
+5479,Franck Guyot,franck.guyotgmail.com,0033599949732,1949-02-05,ch,2021-09-25,or
+5480,Franck Robin-Bonneau,franck.robin-bonneau@hotmail.fr,0028767548,16-09-1946,CH,10/07/2025,argent
+5481,Roger Carlier-Hoareau,roger.carlier-hoareau@gmail.com,0033819324268,1993-10-07,BELGIQUE,06/12/2023,platine
+5482,Zacharie-Charles Pascal,zacharie-charles.pascalgmail.com,0063983652,17/03/2003,BE,22/05/2026,or
+5483,Eugène Pichon,eugène.pichon@gmail.com,15.48.09.40.40,1962-10-18,ch,06/12/2024,platine
+5484,Amélie Grenier,amélie.grenier@ gmail.com,+33977278105,1899-05-20,be,12/11/2021,platine
+5485,Emmanuel Payet,emmanuel.payet@outlook.com,0033184390552,07/12/1941,be,2026-04-02,argent
+5486,Mathilde-Agathe Chartier,mathilde-agathe.chartier@gmail.com,41.27.04.93.80,1965-12-17,Suisse,08/10/2023,or
+5487,Honoré Paris,honoré.paris@yahoo.fr,0071112125,1977-10-06,DE,05/09/2024,or
+5488,Émile Dubois,émile.dubois@outlook.com,+33324064242,14-01-1952,US,19/07/2024,platine
+5489,Hélène Roche,hélène.roche@outlook.com,0017595587,08-03-1956,Allemagne,14/11/2025,or
+5490,Alfred Mary,alfred.mary@hotmail.fr,?,25/08/1964,de,2024-01-23,bronze
+5491,  BERTRAND BLONDEL  ,bertrand.blondel@hotmail.fr,0059690515,1985-02-05,Francia,26/01/2026,bronze
+5492,Édouard De Oliveira,édouard.de.oliveiragmail.com,27.82.07.97.90,1971-05-21,DE,2024-08-08,argent
+5493,Noémi Reynaud,noémi.reynaud@outlook.com,unknown,1998-04-13,BELGIQUE,2026-06-29,
+5494,Alix Goncalves,alix.goncalvesgmail.com,22.50.14.25.70,20-02-1974,US,14/09/2023,null
+5495,Adélaïde Delmas,adélaïde.delmas@gmail.com,33.61.32.85.00,14-10-1946,France,10/02/2024,or
+5496,Capucine Georges,capucine.georges@gmail.com,0033316252654,17-12-1976,Suisse,2025-10-27,bronze
+5497,Nathalie Joubert,nathalie.joubert@gmail.com,?,04-02-1941,de,2025-06-25,N/A
+5498,Tristan Rolland,tristan.rolland@hotmail.fr,null,1946-01-29,de,05/02/2025,platine
+5499,Alexandria Bertin,alexandria.bertin@hotmail.fr,N/A,12-08-2007,FRANCE,2022-05-14,argent
+5500,Nathalie du Dubois,nathalie.du.dubois@hotmail.fr,+33419785758,2031-01-15,États-Unis,2026-08-01,platine
+5501,Emmanuel Lamy,emmanuel.lamygmail.com,null,08-08-1975,United States,17/02/2023,bronze
+5502,Patrick Jacques,patrick.jacques@yahoo.fr,08.42.45.60.70,1899-05-20,Etats-Unis,2023-05-07,bronze
+5503,Théophile Marie,théophile.marie@gmail.com,-999,08-07-1962,Belgique,2026-08-01,gold
+5504,Jacqueline Peron du Fournier,jacqueline.peron.du.fournier@hotmail.fr,,18-06-1941,be,2026-06-23,unknown
+5505,Victor-Augustin Lesage,n/a,0033883059736,10/02/2008,France,05/02/2023,platine
+5506,Guillaume Charrier,guillaume.charrier@ gmail.com,?,1986-01-30,de,2025-09-03,platine
+5507,Brigitte Louis,brigitte.louis@gmail.com,NULL,1952-08-01,ch,2026-05-16,or
+5508,Jean Leblanc,jean.leblanc@outlook.com,82.64.60.91.70,1959-09-12,DE,12/07/2024,or
+5509,Aurélie Guillaume,aurélie.guillaume@hotmail.fr,0033702992959,29/10/1991,FR,18/11/2023,or
+5510,Guy Berthelot,guy.berthelot@ gmail.com,91.16.33.19.40,1991-07-12,US,2022-08-13,or
+5511,Luc Dias,luc.dias@gmail.com,0033515888636,1966-05-12,FRANCE,13/03/2024,bronze
+5512,Louise Lebreton,louise.lebreton@hotmail.fr,0072169666,30-06-1947,US,01/09/2022,or
+5513,Thierry Hubert,thierry.hubert@hotmail.fr,0093297150,12-02-1946,France,09/06/2025,or
+5514,Dominique Olivier,dominique.olivier@hotmail.fr,NULL,01/07/1999,BELGIQUE,2024-01-11,bronze
+5515,Zacharie Marion-Hebert,zacharie.marion-hebert@outlook.com,-,14-12-2009,fr,13/09/2026,platine
+5516,Arnaude Delattre,arnaude.delattre@hotmail.fr,+33704605687,17/07/2007,SUISSE,2023-11-13,platine
+5517,Bernard Rodrigues,bernard.rodrigues@yahoo.fr,n/a,03/04/1999,DE,21/03/2026,argent
+5518,Jacqueline Boulay,jacqueline.boulay@outlook.com,NULL,23/03/1955,ch,29/10/2022,or
+5519,Maryse Delannoy,maryse.delannoy@ gmail.com,0033422294643,25-07-1957,FR,11/11/2021,bronze
+5520,Stéphane Le Caron,stéphane.le.caron@yahoo.fr,+33792529858,17-07-1979,ch,2023-08-05,argent
+5521,Denise Hardy,n/a,-999,17/11/1971,BE,04/07/2023,or
+5522,Agathe Letellier,agathe.letellier@gmail.com,+33158148881,26/02/1999,ch,2026-07-29,argent
+5523,Maurice Duhamel,maurice.duhamel@gmail.com,+33720948413,11/12/1974,Etats-Unis,22/05/2025,bronze
+5524,Christophe Barbe,christophe.barbe@outlook.com,0033771805137,1958-06-06,fr,21/04/2022,bronze
+5525,Noël Philippe,noël.philippe@gmail.com,0033096173997,1943-03-20,fr,07/09/2026,platine
+5526,Lucas-Théophile Dupuy,lucas-théophile.dupuy@yahoo.fr,+33444835488,01/09/1972,fr,08/04/2023,platine
+5527,Cécile Boulay,cécile.boulay@gmail.com,+33722164175,26-08-2006,Allemagne,29/11/2024,
+5528,Édith Leclercq-Merle,édith.leclercq-merle@hotmail.fr,58.71.49.39.20,1943-11-17,FRANCE,2023-05-05,or
+5529,Louis de la Barbier,louis.de.la.barbier@hotmail.fr,64.34.74.52.40,25-06-1981,BELGIQUE,2023-05-23,argent
+5530,Margaux Lebreton,margaux.lebreton@hotmail.fr,NULL,1958-10-28,France,2023-03-13,platine
+5531,Alexandrie Lebrun,alexandrie.lebrun@outlook.com,39.87.41.13.20,1967-10-14,US,2023-05-08,argent
+5532,Sylvie Lambert,sylvie.lambert@outlook.com,,1994-04-25,DE,30/11/2023,bronze
+5533,Bertrand Georges de la Bouvet,bertrand.georges.de.la.bouvet@outlook.com,+33938173598,09-04-1941,US,15/07/2025,argent
+5534,Roger-Rémy Klein,roger-rémy.klein@yahoo.fr,+33325737553,1987-06-11,ch,10/02/2025,platine
+5535,Gilbert-Thibaut Letellier,gilbert-thibaut.letellier@ gmail.com,70.80.85.09.60,03-09-2005,Suisse,14/09/2026,or
+5536,Marguerite du Carre,marguerite.du.carre@gmail.com,18.28.19.79.30,01/11/1978,États-Unis,25/06/2025,or
+5537,Laure Turpin,null,0033578606940,27-07-1969,United States,03/11/2024,argent
+5538,Agnès Petit,agnès.petit@outlook.com,n/a,12-08-1952,France,03/08/2025,argent
+5539,Honoré de la Roussel,-,0053334264,1937-09-09,United States,20/11/2022,argent
+5540,Joseph de Dos Santos,joseph.de.dos.santos@yahoo.fr,0033360776336,2001-07-19,Belgique,2024-09-03,-
+5541,Benjamin Roger,benjamin.roger@outlook.com,0033955633185,22/09/1973,DE,11/02/2024,bronze
+5542,Cécile du Durand,cécile.du.durand@yahoo.fr,0033416431670,07/04/1936,FRANCE,2026-06-25,bronze
+5543,Tristan-Isaac Lambert,tristan-isaac.lambert@hotmail.fr,null,12/04/1946,CH,2023-08-01,or
+5544,Constance Humbert,constance.humbert@hotmail.fr,07.34.65.49.50,27/08/1948,FR,12/11/2021,bronze
+5545,Jacques Leroy,jacques.leroy@yahoo.fr,+33698221053,2002-05-21,United States,08/03/2022,or
+5546,Bertrand Ollivier,bertrand.ollivier@yahoo.fr,-999,22-07-1970,Suisse,05/07/2026,platine
+5547,Olivier Teixeira,olivier.teixeiragmail.com,0033231164913,17-11-1991,États-Unis,2022-11-08,or
+5548,Vincent Hernandez,vincent.hernandez@gmail.com,+33425652906,1960-05-15,fr,2024-11-18,platine
+5549,Éric de Meunier,-,97.75.39.67.30,1983-04-28,Etats-Unis,27/12/2023,argent
+5550,Richard-Matthieu Lemaire,,null,1991-08-06,Allemagne,09/11/2023,platine
+5551,Richard Marchand,richard.marchand@gmail.com,+33254768182,26-10-1942,ch,17/09/2023,or
+5552,Élise de la Bazin,élise.de.la.bazin@hotmail.fr,-,12-05-1952,United States,2025-03-11,platine
+5553,Danielle Le Leroux,danielle.le.leroux@yahoo.fr,96.34.06.46.80,1943-03-27,USA,2026-08-01,argent
+5554,Suzanne Lebrun,suzanne.lebrun@gmail.com,0039910622,1899-05-20,US,2024-02-16,platine
+5555,Gérard Michaud,gérard.michaud@outlook.com,+33513426192,12/09/1994,FRANCE,02/10/2022,platine
+5556,Yves Baron,yves.baron@yahoo.fr,+33197374189,07/10/1992,France,30/12/2023,platine
+5557,  JEAN MAILLARD  ,jean.maillard@outlook.com,+33692743811,2006-12-08,Suisse,17/09/2026,argent
+5558,Maryse Guillot du Boutin,maryse.guillot.du.boutin@yahoo.fr,+33485645101,20-12-2007,be,15/04/2025,
+5559,Jacqueline Mary,jacqueline.mary@hotmail.fr,+33996986091,05-11-1972,Belgique,2024-09-03,argent
+5560,Sébastien Gauthier,sébastien.gauthier@gmail.com,+33605779806,14-07-1944,Belgique,2025-10-15,platine
+5561,Alexandrie Fabre,alexandrie.fabre@hotmail.fr,07.45.55.34.70,30/03/1978,United States,22/08/2025,bronze
+5562,Suzanne Rocher,suzanne.rocher@ gmail.com,0065271559,2010-01-17,USA,2024-05-31,or
+5563,Hugues Schneider-Roussel,hugues.schneider-roussel@yahoo.fr,+33263475575,2004-04-14,United States,2025-06-30,or
+5564,Isaac Durand,isaac.durand@hotmail.fr,82.69.13.11.90,31/01/1944,CH,19/04/2026,bronze
+5565,Julie Rodrigues,julie.rodrigues@ gmail.com,0099153703,01/06/1989,CH,2024-06-18,platine
+5566,Alexandre-Paul Hubert,N/A,NULL,20/03/1998,Suisse,2024-07-03,platine
+5567,Élise-Olivie Lemoine,élise-olivie.lemoinegmail.com,0033465535851,26-04-1999,FR,07/07/2026,or
+5568,Isaac Boutin,isaac.boutin@hotmail.fr,0033519358374,2031-01-15,US,05/08/2024,platine
+5569,Michel Maurice,michel.maurice@hotmail.fr,0033780572151,25/07/1968,ch,2026-07-01,argent
+5570,Roland-Gilbert Petitjean,roland-gilbert.petitjeangmail.com,,1937-10-16,ch,2022-06-11,platine
+5571,Margaux Robert-Bourdon,margaux.robert-bourdongmail.com,18.62.33.92.20,12/09/1939,FR,13/11/2021,or
+5572,Célina Rémy,célina.rémy@hotmail.fr,+33725214526,28/05/1942,GERMANY,13/02/2026,argent
+5573,Bernadette Gonzalez,bernadette.gonzalez@hotmail.fr,n/a,06/04/1955,BE,19/02/2025,or
+5574,Émile Martin,émile.martin@hotmail.fr,09.95.12.39.70,29/12/2007,SUISSE,2022-08-19,argent
+5575,Jérôme de Normand,jérôme.de.normand@gmail.com,+33827090814,2004-03-03,BELGIQUE,26/05/2026,platine
+5576,Jérôme Normand,jérôme.normandgmail.com,29.57.86.71.80,03/04/1949,France,18/01/2022,argent
+5577,Jules Blanchard-Dupuis,jules.blanchard-dupuis@hotmail.fr,+33079181589,1899-05-20,be,2024-08-06,argent
+5578,Nathalie Boulay-Morvan,nathalie.boulay-morvan@outlook.com,+33466661707,1983-12-18,Belgique,30/03/2022,bronze
+5579,Valérie Bourdon-Perrier,valérie.bourdon-perrier@hotmail.fr,14.99.82.50.80,31-08-1958,États-Unis,11/11/2021,platine
+5580,Léon Roche Le Tanguy,léon.roche.le.tanguy@outlook.com,0003172351,28-08-1939,Etats-Unis,2025-04-17,bronze
+5581,Emmanuelle Masse,emmanuelle.masse@yahoo.fr,?,03-10-1983,BE,11/12/2021,-999
+5582,Théophile Hoarau,théophile.hoarau@outlook.com,+33460666437,10/05/1982,de,2022-12-28,null
+5583,Thomas Jacquot,thomas.jacquot@hotmail.fr,0033127128524,20/05/1965,be,2026-07-02,GOLD
+5584,Lorraine Regnier,lorraine.regnier@hotmail.fr,+33187328077,1957-03-16,be,08/04/2022,argent
+5585,Alfred Chevallier-Gonzalez,alfred.chevallier-gonzalez@yahoo.fr,,1941-12-29,Francia,09/12/2021,or
+5586,Denis Leblanc,,0066248132,1899-05-20,CH,09/11/2024,platine
+5587,Sabine Laurent,sabine.laurentgmail.com,0033822850116,2001-01-27,be,2024-04-24,or
+5588,Thierry Fouquet,thierry.fouquet@outlook.com,0033306090691,1948-06-19,CH,2026-01-03,argent
+5589,Roland Morvan,roland.morvangmail.com,n/a,1941-04-08,Francia,27/04/2026,or
+5590,Michel Regnier,michel.regnier@hotmail.fr,42.50.64.20.70,06-09-2001,Etats-Unis,2023-10-10,argent
+5591,Henriette Maréchal-Marchand,henriette.maréchal-marchand@ gmail.com,0077675556,25/09/1998,be,22/05/2022,bronze
+5592,Emmanuelle de la Carpentier,emmanuelle.de.la.carpentier@outlook.com,65.43.62.71.80,02/03/1989,Belgique,2024-12-25,platine
+5593,Thierry Pasquier de Bourgeois,thierry.pasquier.de.bourgeois@ gmail.com,70.36.92.49.20,1952-01-05,USA,2024-12-05,platine
+5594,Élodie-Clémence Bouchet,élodie-clémence.bouchet@gmail.com,98.01.11.00.00,17/06/1959,FRANCE,19/05/2023,platine
+5595,Hugues Hamon,hugues.hamon@outlook.com,0033959775244,1950-12-13,GERMANY,2022-03-25,unknown
+5596,Constance Fernandes-Goncalves,constance.fernandes-goncalves@hotmail.fr,0031271026,11/11/1966,GERMANY,01/02/2024,platine
+5597,Denise Gosselin,,?,21-03-1937,Etats-Unis,10/08/2022,
+5598,Lucy Labbé du Gérard,lucy.labbé.du.gérard@hotmail.fr,NULL,17/01/1944,FRANCE,06/09/2022,n/a
+5599,Raymond-Alexandre Camus,raymond-alexandre.camus@gmail.com,0065047158,13/08/1959,de,17/11/2021,
+5600,Adrienne Guyon de Hernandez,adrienne.guyon.de.hernandez@outlook.com,65.58.66.52.50,10/04/1964,de,26/04/2025,bronze
+5601,Élise Camus-Carre,-999,unknown,22-09-1955,BE,31/07/2024,bronze
+5602,Benjamin Sanchez-Petit,benjamin.sanchez-petit@outlook.com,NULL,2031-01-15,BELGIQUE,26/08/2022,or
+5603,Adrien Lesage,adrien.lesage@outlook.com,0033583737927,03-02-1995,US,2023-03-01,n/a
+5604,Anne-Simone Gonzalez,anne-simone.gonzalez@ gmail.com,0093113253,1973-10-16,be,14/07/2022,platine
+5605,Lucie-Olivie Guillou,lucie-olivie.guillou@hotmail.fr,0033804421017,08-10-1983,Suisse,11/06/2023,or
+5606,Thierry Faivre,thierry.faivre@hotmail.fr,+33959194575,1997-01-19,United States,2025-06-07,argent
+5607,Michèle Didier,michèle.didier@hotmail.fr,0033920567756,29-03-1958,FRANCE,16/01/2024,n/a
+5608,Stéphanie Brunet,stéphanie.brunet@yahoo.fr,,1946-05-19,GERMANY,2026-06-15,platine
+5609,Benoît de Michaud,benoît.de.michaud@hotmail.fr,0024843379,1971-02-22,BELGIQUE,2025-05-05,platine
+5610,Renée Leroux,renée.leroux@outlook.com,+33794238736,1972-04-10,USA,2024-03-05,platine
+5611,Thomas Leroux Le Lombard,thomas.leroux.le.lombard@outlook.com,+33845525971,1959-01-07,États-Unis,2021-10-23,argent
+5612,Patricia Hoarau,patricia.hoarau@yahoo.fr,0059532593,07-06-1951,SUISSE,06/04/2025,bronze
+5613,Inès Menard du Thibault,inès.menard.du.thibault@hotmail.fr,+33295187794,1899-05-20,United States,2022-01-21,argent
+5614,Élise Pires,élise.pires@hotmail.fr,null,09/06/1956,United States,04/07/2026,platine
+5615,Margaux Texier,margaux.texier@yahoo.fr,0033403884366,2001-12-18,Allemagne,24/03/2025,or
+5616,Henri Bertin,henri.bertin@gmail.com,57.27.68.29.70,15/01/1951,Suisse,2025-07-07,platine
+5617,Guillaume Pineau,guillaume.pineau@gmail.com,50.10.58.75.20,02-06-1956,United States,19/04/2023,argent
+5618,Alexandrie Techer,alexandrie.techer@yahoo.fr,0033045990802,1968-04-17,BE,16/03/2024,null
+5619,Daniel Fernandes,daniel.fernandes@outlook.com,+33516517680,24-05-1943,de,06/05/2024,platine
+5620,Colette Lévy,colette.lévygmail.com,0030800370,09-06-1997,CH,07/12/2021,or
+5621,Denis Dos Santos-Charrier,denis.dos.santos-charrier@gmail.com,N/A,07-09-1959,DE,07/10/2022,or
+5622,Victoire-Adèle Lévêque,victoire-adèle.lévêque@yahoo.fr,-,11/05/1988,GERMANY,2023-08-31,argent
+5623,Thibaut Le Daniel,thibaut.le.daniel@hotmail.fr,0079863210,28/05/1950,GERMANY,2023-08-29,bronze
+5624,François Bourgeois,françois.bourgeois@yahoo.fr,0033703943804,14-09-1992,US,2021-10-13,platine
+5625,Jacques Leclerc,jacques.leclercgmail.com,unknown,2031-01-15,Etats-Unis,04/04/2022,argent
+5626,Alexandre Legendre,alexandre.legendre@gmail.com,0033692105336,23-06-1939,États-Unis,2025-06-07,argent
+5627,Astrid Guyot,astrid.guyot@yahoo.fr,,13/01/1967,Allemagne,14/04/2022,bronze
+5628,Michel Delorme-Lemonnier,michel.delorme-lemonnier@gmail.com,-,1977-07-13,France,16/11/2025,platine
+5629,Diane Richard,diane.richard@hotmail.fr,0033340433700,1978-12-24,DE,2026-02-02,argent
+5630,Victoire Grondin,victoire.grondin@outlook.com,57.78.25.58.80,1989-05-23,ch,14/06/2022,or
+5631,Odette Roger,odette.roger@outlook.com,0086561942,29-03-1979,BE,2023-05-22,bronze
+5632,  SUZANNE LEBRETON  ,suzanne.lebreton@yahoo.fr,0058292361,01/04/1992,États-Unis,2025-11-03,or
+5633,Philippe Devaux,philippe.devaux@ gmail.com,0035715586,1938-11-14,BELGIQUE,2024-05-03,GOLD
+5634,Geneviève Verdier,geneviève.verdier@yahoo.fr,0008172143,21-01-1962,États-Unis,02/07/2025,argent
+5635,François Allard de Aubert,-999,0033114716560,26-06-1937,Belgique,18/03/2025,argent
+5636,Jean Chevallier Le Guillaume,jean.chevallier.le.guillaume@outlook.com,07.55.04.76.80,1958-07-04,DE,28/07/2025,bronze
+5637,Marine Pottier,marine.pottiergmail.com,NULL,30-06-1972,GERMANY,2025-06-20,or
+5638,Thibaut Lelièvre-Fontaine,thibaut.lelièvre-fontaine@yahoo.fr,,1959-12-09,GERMANY,15/01/2024,or
+5639,Nath-Anaïs Fleury,nath-anaïs.fleury@gmail.com,unknown,25/08/1979,SUISSE,2024-02-18,bronze
+5640,Adrien Chevallier-Diallo,adrien.chevallier-diallo@ gmail.com,null,25/07/1991,SUISSE,02/06/2022,bronze
+5641,Alexandrie Navarro du Poulain,alexandrie.navarro.du.poulain@outlook.com,+33167046861,1899-05-20,US,18/01/2022,platine
+5642,Xavier-Joseph Ollivier,xavier-joseph.ollivier@yahoo.fr,?,27-10-1965,ch,2024-02-11,platine
+5643,Stéphane Pasquier,stéphane.pasquier@gmail.com,26.05.08.01.80,30-05-1944,SUISSE,19/01/2025,or
+5644,Adrienne-Madeleine Dos Santos,adrienne-madeleine.dos.santos@outlook.com,0073126881,1959-09-09,GERMANY,14/06/2022,bronze
+5645,Pierre Rodrigues,pierre.rodrigues@yahoo.fr,0036534606,24-04-2000,BE,08/12/2021,bronze
+5646,Nicole Leroy,nicole.leroy@yahoo.fr,null,1950-03-03,BELGIQUE,2023-02-28,platine
+5647,Martin Brunel,martin.brunel@gmail.com,0033546475489,15-01-1938,Belgique,11/05/2023,or
+5648,Noël Gros du Collin,noël.gros.du.collin@hotmail.fr,-999,1992-07-12,BELGIQUE,11/09/2024,or
+5649,Hugues Breton-Dupuis,hugues.breton-dupuis@outlook.com,null,05-03-1978,fr,2022-09-03,gold
+5650,Margot Martins,margot.martins@outlook.com,0052753674,30/07/1995,France,2026-05-21,or
+5651,Marianne Rodrigues,marianne.rodrigues@ gmail.com,0033601347789,1954-10-29,United States,2025-10-30,or
+5652,Paulette de la Da Costa,paulette.de.la.da.costa@outlook.com,0033665122150,19-07-1939,fr,04/12/2021,or
+5653,Guillaume Nicolas,guillaume.nicolas@outlook.com,0033090015944,1976-11-10,US,15/11/2023,platine
+5654,Frédéric Maurice-Texier,frédéric.maurice-texier@outlook.com,08.95.32.63.80,1978-07-09,USA,2024-10-20,platine
+5655,Benjamin Masse,benjamin.masse@ gmail.com,0033792234,1991-04-05,ch,2022-04-05,argent
+5656,Xavier Le Gall-Gay,xavier.le.gall-gay@yahoo.fr,0067726960,13/03/1979,de,2024-06-05,bronze
+5657,François-Yves Marin,françois-yves.marin@gmail.com,96.79.35.21.90,21-06-1968,Suisse,2025-11-28,or
+5658,Denise Antoine,denise.antoine@yahoo.fr,0036970931,1951-04-05,SUISSE,26/12/2023,bronze
+5659,Léon Masse,léon.masse@gmail.com,0016453454,11/08/1961,SUISSE,12/02/2024,argent
+5660,Frédéric Mary,frédéric.mary@outlook.com,31.21.98.04.10,06-02-1984,États-Unis,2024-05-07,argent
+5661,Maurice-Denis Cousin,maurice-denis.cousin@hotmail.fr,+33428131909,06-05-1946,SUISSE,29/12/2024,?
+5662,Guy Lévy,guy.lévy@gmail.com,0033911142817,28-12-1970,Etats-Unis,2024-06-28,platine
+5663,Dorothée Brunet,dorothée.brunet@outlook.com,+33480880622,01/10/1975,be,2021-12-18,
+5664,Christophe Guillot,christophe.guillotgmail.com,0021329016,08/05/2000,BELGIQUE,2022-05-27,argent
+5665,Michel Evrard du Labbé,michel.evrard.du.labbé@hotmail.fr,99.64.86.28.70,1992-04-17,US,09/05/2022,bronze
+5666,François Legrand,françois.legrand@gmail.com,0033664505730,1980-09-15,fr,19/10/2022,platine
+5667,Maurice Maury,maurice.maury@gmail.com,03.74.76.77.50,05/01/1995,USA,2026-02-19,argent
+5668,Christelle Legros,christelle.legros@hotmail.fr,05.76.61.94.50,2007-09-11,États-Unis,30/10/2025,
+5669,Valentine Fournier-Voisin,valentine.fournier-voisin@outlook.com,0012840083,1940-10-21,ch,2024-11-16,bronze
+5670,Alexandrie Pons,alexandrie.pons@hotmail.fr,50.89.17.76.80,1965-12-24,États-Unis,2021-11-26,bronze
+5671,Claude Mercier-Brunet,claude.mercier-brunet@ gmail.com,0031964630,2005-09-11,Allemagne,2021-12-10,platine
+5672,  DANIEL LECLERCQ  ,daniel.leclercq@hotmail.fr,0033943012047,06-02-1967,Francia,28/08/2025,bronze
+5673,Nicolas Gaillard-Maillet,nicolas.gaillard-maillet@gmail.com,74.98.85.58.20,2031-01-15,France,2025-01-22,platine
+5674,Laurence-Jacqueline Jean,laurence-jacqueline.jean@yahoo.fr,47.60.94.41.20,04-11-1996,USA,2024-07-01,n/a
+5675,Gérard Barthelemy-Brunet,gérard.barthelemy-brunet@outlook.com,+33541329715,06/03/2005,BE,2026-05-10,argent
+5676,Martin Lebon,martin.lebon@yahoo.fr,0033514377693,07-11-1996,Etats-Unis,2023-10-01,or
+5677,Guy Berger-Bourdon,guy.berger-bourdon@yahoo.fr,,24-01-1996,ch,09/03/2024,GOLD
+5678,Tristan Fernandes,tristan.fernandes@hotmail.fr,0033455910245,10/02/2010,Suisse,22/03/2022,argent
+5679,Aurélie-Alice Bonneau,aurélie-alice.bonneau@hotmail.fr,0033494981942,1899-05-20,Etats-Unis,2022-01-17,bronze
+5680,Josette Barbier de Mahe,josette.barbier.de.mahe@ gmail.com,+33775844663,1981-03-18,CH,2025-09-11,bronze
+5681,Xavier Millet de la Guillot,xavier.millet.de.la.guillot@yahoo.fr,12.17.22.14.50,27/04/1970,SUISSE,28/02/2025,or
+5682,Isabelle-Valérie Gay,isabelle-valérie.gay@yahoo.fr,+33263510046,1966-06-19,Etats-Unis,27/08/2022,bronze
+5683,Susan Delmas,susan.delmas@yahoo.fr,+33592024617,19/03/2008,DE,2026-02-06,or
+5684,Claudine Dupont,claudine.dupont@hotmail.fr,0033326005595,15/01/2002,US,2023-05-30,argent
+5685,Olivier Leleu,olivier.leleu@hotmail.fr,0033486899936,19-07-1997,de,28/07/2025,platine
+5686,Michel Fouquet,michel.fouquet@hotmail.fr,0033506917679,1899-05-20,France,2024-07-31,bronze
+5687,Hélène Lebreton,hélène.lebreton@outlook.com,0033408303736,30-07-1955,CH,25/09/2021,bronze
+5688,Auguste Paris,auguste.paris@yahoo.fr,0033079388413,13/11/1975,CH,09/05/2026,platine
+5689,Margot Schmitt,margot.schmitt@outlook.com,+33370124244,1976-08-08,Francia,2023-10-20,argent
+5690,Emmanuelle Chauveau,emmanuelle.chauveau@hotmail.fr,,07/01/1948,be,2022-04-16,platine
+5691,Maggie Rivière,maggie.rivière@gmail.com,0015152638,04/04/1973,Etats-Unis,2026-06-13,or
+5692,Thierry Gosselin,thierry.gosselin@ gmail.com,0083750566,1899-05-20,Belgique,29/03/2022,argent
+5693,Océane de la Brun,océane.de.la.brun@outlook.com,+33876553007,1949-12-25,États-Unis,2022-08-30,argent
+5694,Marthe-Agnès Chartier,marthe-agnès.chartier@ gmail.com,0033121988192,07/10/2005,BE,2024-02-02,platine
+5695,Marianne Mathieu-Ferrand,marianne.mathieu-ferrand@hotmail.fr,0001042462,1996-07-14,Suisse,2023-02-15,or
+5696,Astrid Laporte,astrid.laporte@yahoo.fr,unknown,1963-01-03,fr,2025-12-24,bronze
+5697,Céline Gauthier,céline.gauthier@yahoo.fr,+33391304488,27/10/2008,États-Unis,16/04/2026,bronze
+5698,Robert Verdier,robert.verdier@outlook.com,0033046154021,30-12-2000,USA,12/03/2022,argent
+5699,  ADÈLE-CATHERINE MARTEL  ,null,0033298315229,29-11-1938,United States,24/03/2025,argent
+5700,Thomas Durand,thomas.durand@gmail.com,0084937830,2031-01-15,DE,15/11/2023,bronze
+5701,Nath Olivier Le Barre,nath.olivier.le.barre@yahoo.fr,91.64.97.01.60,2031-01-15,GERMANY,2024-09-04,platine
+5702,Christophe-Sébastien Gonzalez,christophe-sébastien.gonzalez@outlook.com,0033301623419,21-10-1996,Francia,2021-09-26,or
+5703,Bertrand de Pasquier,bertrand.de.pasquier@hotmail.fr,-,29-09-1943,Francia,03/10/2022,NULL
+5704,Élisabeth Chartier,élisabeth.chartiergmail.com,0040672007,31/01/2000,be,05/05/2024,argent
+5705,Lucas de Hervé,lucas.de.hervé@gmail.com,+33819754373,11/04/1946,GERMANY,2025-03-01,or
+5706,Olivier-Léon Dupuy,olivier-léon.dupuy@yahoo.fr,unknown,1947-10-04,US,01/05/2024,bronze
+5707,Grégoire Delmas,grégoire.delmasgmail.com,+33134438998,17/06/1974,Belgique,2026-05-02,bronze
+5708,Adélaïde Gérard,adélaïde.gérard@outlook.com,0073214644,15-08-2007,BELGIQUE,26/08/2024,or
+5709,Martine Pereira,martine.pereira@ gmail.com,0073857368,20/03/1964,de,21/10/2021,argent
+5710,Bernard Moreno,bernard.moreno@gmail.com,0081187233,2002-12-01,be,25/10/2022,n/a
+5711,Alfred Boucher,alfred.boucher@outlook.com,+33315391149,1899-05-20,Allemagne,2024-05-28,or
+5712,Alphonse Ollivier-Lagarde,,51.18.93.94.00,1956-07-03,FR,2023-11-10,or
+5713,Martine Chrétien,martine.chrétien@ gmail.com,43.22.30.23.30,25/08/1969,FR,2022-09-17,argent
+5714,Michel Bonnet du Jean,michel.bonnet.du.jean@outlook.com,+33621276025,14-02-1982,be,2021-11-24,or
+5715,Zacharie De Oliveira,zacharie.de.oliveira@hotmail.fr,0063248889,1943-11-11,US,21/03/2026,or
+5716,Margot-Stéphanie Barbier,margot-stéphanie.barbier@yahoo.fr,+33745493036,1997-11-18,United States,14/03/2023,N/A
+5717,Suzanne Robin-Blin,suzanne.robin-blin@gmail.com,87.69.20.82.80,16/05/1944,Belgique,2026-02-07,
+5718,Georges Girard,georges.girard@hotmail.fr,+33588144582,1973-11-08,Suisse,11/11/2025,bronze
+5719,Marcel Marin,marcel.marin@yahoo.fr,0097168157,1999-06-29,États-Unis,18/07/2022,unknown
+5720,Jean-Alexandre David,jean-alexandre.david@ gmail.com,29.11.37.17.80,18-02-1993,USA,17/12/2024,or
+5721,Thomas Bouvet,thomas.bouvet@hotmail.fr,0033184442182,2008-05-16,France,21/09/2024,argent
+5722,Valentine-Louise Marin,valentine-louise.marin@yahoo.fr,90.56.70.86.70,1974-11-21,BE,07/11/2021,bronze
+5723,Anaïs Bernard Le Moulin,anaïs.bernard.le.moulingmail.com,,25/01/1964,USA,2025-09-17,bronze
+5724,Henriette Le Lemaître,unknown,0080706336,28-04-1985,Suisse,2024-09-25,unknown
+5725,Suzanne Maurice Le Durand,n/a,0033016481880,26/08/1993,USA,11/01/2023,NULL
+5726,Tristan-Emmanuel Lévy,tristan-emmanuel.lévy@yahoo.fr,38.16.43.21.20,09/11/2006,de,16/03/2025,argent
+5727,Lucie Pages de la Barbe,,0062586314,31/07/1978,US,12/07/2026,argent
+5728,Augustin-Nicolas Fournier,augustin-nicolas.fournier@gmail.com,0033402635582,17/05/1997,Suisse,2023-03-11,argent
+5729,Xavier Clément,xavier.clémentgmail.com,0033988031538,17/12/1970,États-Unis,2025-03-18,?
+5730,Dorothée Le Rémy,dorothée.le.rémy@yahoo.fr,0033040433335,1990-02-19,be,11/09/2022,bronze
+5731,Joséphine Le Neveu,unknown,NULL,20/11/1944,CH,05/12/2022,platine
+5732,Thomas Potier,thomas.potier@hotmail.fr,0060119875,1950-07-28,United States,06/09/2026,platine
+5733,  NICOLAS CHARRIER  ,nicolas.charrier@yahoo.fr,0033091561829,07-02-2000,BELGIQUE,2024-05-05,platine
+5734,  GÉRARD LAGARDE  ,gérard.lagarde@hotmail.fr,16.09.36.59.50,08-01-1964,DE,23/05/2022,bronze
+5735,Auguste Langlois,auguste.langlois@ gmail.com,0043368750,31-12-1980,Etats-Unis,2024-08-27,or
+5736,Élise Picard,élise.picard@outlook.com,0013745561,04/11/1996,SUISSE,08/03/2022,bronze
+5737,William Dumont,-999,0076660811,1974-09-13,Etats-Unis,15/06/2025,platine
+5738,Agnès Dupont,agnès.dupontgmail.com,,2006-07-06,Suisse,2026-06-04,bronze
+5739,Benoît de la Lecoq,benoît.de.la.lecoq@outlook.com,,1952-02-13,be,10/12/2024,platine
+5740,Thierry Lacroix,thierry.lacroix@gmail.com,+33480873543,2009-07-08,FR,2024-02-09,or
+5741,Christiane Cordier-Lambert,christiane.cordier-lambert@outlook.com,57.09.08.59.90,1951-08-15,FR,2025-04-05,argent
+5742,Guy Baudry de la Durand,guy.baudry.de.la.durandgmail.com,0033999699648,1989-04-28,DE,06/12/2024,bronze
+5743,Susanne Blanc Le Rodrigues,susanne.blanc.le.rodrigues@hotmail.fr,?,1975-11-14,BE,2024-10-25,gold
+5744,Emmanuel de la Nicolas,emmanuel.de.la.nicolas@hotmail.fr,n/a,05-08-1949,États-Unis,2023-09-18,argent
+5745,Michel Salmon,michel.salmon@hotmail.fr,0033838935953,19-01-1967,de,20/03/2026,argent
+5746,Christine de Jacquet,christine.de.jacquet@yahoo.fr,unknown,28/10/1997,GERMANY,2024-06-11,or
+5747,Martin Peltier,n/a,-999,04-09-1955,de,2025-10-04,bronze
+5748,Maggie Hamel,maggie.hamel@outlook.com,,1944-09-26,Francia,2025-06-26,or
+5749,Adrien Martineau,adrien.martineau@gmail.com,NULL,1999-08-22,États-Unis,25/05/2023,platine
+5750,André François,andré.françois@ gmail.com,n/a,1899-05-20,ch,2026-01-30,argent
+5751,Olivie Techer,olivie.techer@yahoo.fr,unknown,01-07-1946,ch,2026-02-24,bronze
+5752,Olivie Leconte,olivie.leconte@yahoo.fr,0033776029914,1945-06-23,de,2021-11-01,bronze
+5753,Julie de Leclercq,julie.de.leclercq@yahoo.fr,0023561781,1950-08-10,SUISSE,17/01/2024,null
+5754,Émile de Chevalier,émile.de.chevalier@outlook.com,+33385277895,1980-12-10,CH,08/08/2023,or
+5755,Franck du Sanchez,franck.du.sanchez@hotmail.fr,0095026480,31/07/2002,Allemagne,03/08/2026,bronze
+5756,Martin Baron,martin.barongmail.com,+33167812778,1957-01-29,BE,2022-07-29,bronze
+5757,Auguste Garcia,auguste.garcia@gmail.com,+33134862985,09-04-1998,Suisse,25/05/2025,bronze
+5758,Sabine Rey,sabine.rey@hotmail.fr,0085605397,1899-05-20,be,2026-07-10,argent
+5759,Paul Boutin,paul.boutin@yahoo.fr,unknown,14/11/1979,Francia,18/07/2025,bronze
+5760,Claire Clément,claire.clément@outlook.com,-999,21/02/1985,FR,26/02/2025,-999
+5761,Clémence Peron,clémence.peron@hotmail.fr,96.79.08.98.40,09-03-1941,Francia,24/11/2022,argent
+5762,Louise Morvan de Leroux,louise.morvan.de.leroux@yahoo.fr,n/a,1945-03-28,SUISSE,2023-05-31,argent
+5763,Anouk Jourdan de Jacquet,anouk.jourdan.de.jacquet@ gmail.com,23.86.76.73.80,24-09-1961,fr,2025-07-27,argent
+5764,Alexandre Chauvet,alexandre.chauvet@yahoo.fr,,2031-01-15,ch,20/04/2026,platine
+5765,Zoé de la Dumont,zoé.de.la.dumont@yahoo.fr,0033806235040,25-09-1959,France,15/01/2025,bronze
+5766,Nath Weber,nath.webergmail.com,+33124825544,2031-01-15,Suisse,20/08/2022,N/A
+5767,Nathalie du Allain,nathalie.du.allain@hotmail.fr,0028946338,1965-04-12,Etats-Unis,11/07/2026,platine
+5768,Caroline-Marianne Lebon,caroline-marianne.lebon@ gmail.com,0033725629269,21/01/1948,DE,2022-10-30,bronze
+5769,Jean Laporte-Raynaud,jean.laporte-raynaud@outlook.com,+33865507846,08-05-1994,États-Unis,21/06/2026,platine
+5770,Marguerite Durand-Bourdon,marguerite.durand-bourdon@yahoo.fr,34.91.89.11.70,04/10/1959,United States,19/09/2024,null
+5771,André Philippe,andré.philippe@outlook.com,?,03-11-1974,Allemagne,2022-04-05,VIP
+5772,Émilie Gautier,émilie.gautier@hotmail.fr,0033781367500,1951-12-20,Allemagne,10/07/2026,bronze
+5773,Denis-Tristan Nicolas,denis-tristan.nicolas@gmail.com,NULL,25-12-1956,de,30/09/2024,argent
+5774,Olivier Robert,olivier.robert@outlook.com,0033562258660,1899-05-20,SUISSE,02/07/2026,bronze
+5775,Claude-Patricia Faivre,claude-patricia.faivre@outlook.com,0058548596,16-06-1969,Suisse,2026-07-19,platine
+5776,Louise Colin,louise.colingmail.com,0033502000245,1973-05-17,Belgique,2024-12-01,-999
+5777,Hortense-Arnaude Gomez,-,+33055708368,23-07-1945,United States,31/05/2025,argent
+5778,Guy Bailly,guy.bailly@outlook.com,0073677462,18/01/1957,FR,16/06/2025,argent
+5779,Jules Buisson,jules.buisson@yahoo.fr,0032812312,01/08/2009,DE,21/09/2022,bronze
+5780,Tristan Robert,tristan.robert@yahoo.fr,+33836472387,1982-09-28,Belgique,2023-06-13,null
+5781,Danielle Gosselin-Georges,danielle.gosselin-georges@gmail.com,+33775458472,1966-01-09,BELGIQUE,14/08/2023,platine
+5782,Alexandria-Marguerite Blanchard,alexandria-marguerite.blanchard@hotmail.fr,+33608271721,1899-05-20,SUISSE,2024-01-04,or
+5783,Eugène du Wagner,eugène.du.wagner@yahoo.fr,0033299936216,07-05-1990,FR,2025-09-20,platine
+5784,Astrid-Madeleine Huet,astrid-madeleine.huet@yahoo.fr,0033398358446,17-03-1977,Francia,02/05/2022,argent
+5785,Virginie Vasseur,virginie.vasseur@gmail.com,0044979127,03/11/1947,FRANCE,27/09/2024,argent
+5786,Sabine-Adélaïde Lemoine,sabine-adélaïde.lemoine@gmail.com,0033397871375,21-07-1978,États-Unis,31/05/2022,or
+5787,Jacqueline Dumont-Gérard,jacqueline.dumont-gérard@outlook.com,0033832004879,30-10-1937,GERMANY,2025-10-11,bronze
+5788,Camille Guillou,camille.guillou@outlook.com,+33523860030,30/06/2000,fr,11/02/2023,bronze
+5789,Georges Chevallier de Baudry,georges.chevallier.de.baudry@gmail.com,+33239102929,11/11/1999,Allemagne,2025-06-20,platine
+5790,Benjamin Bailly,benjamin.bailly@outlook.com,,1950-08-21,GERMANY,2022-03-09,bronze
+5791,David Chauvin,N/A,NULL,10-05-1939,de,2022-04-20,argent
+5792,Océane Duval,océane.duval@hotmail.fr,n/a,1945-06-08,SUISSE,2021-11-27,platine
+5793,Élise-Philippine Gillet,élise-philippine.gillet@outlook.com,NULL,1961-01-08,USA,19/02/2025,VIP
+5794,Christine Le Petit,christine.le.petitgmail.com,-,15/12/1978,BE,10/10/2025,bronze
+5795,Franck Auger,franck.auger@gmail.com,?,29/09/1985,GERMANY,2024-06-21,bronze
+5796,Mathilde Chevallier-Le Gall,mathilde.chevallier-le.gallgmail.com,0002706159,1992-11-30,de,2022-07-13,platine
+5797,Roger Costa-Lopes,roger.costa-lopes@hotmail.fr,+33906322481,1940-03-31,be,2023-06-08,platine
+5798,Édouard-Zacharie Lefort,édouard-zacharie.lefort@outlook.com,0033109567975,17-11-1983,Allemagne,2023-11-03,argent
+5799,Thierry François Le Pichon,thierry.françois.le.pichon@hotmail.fr,34.71.24.76.00,25/12/1979,ch,2022-04-10,bronze
+5800,Anne Lecoq-Lemaire,anne.lecoq-lemaire@yahoo.fr,+33831764172,09/07/1995,USA,2023-11-04,platine
+5801,Richard Richard,,+33015071380,27-06-1974,DE,2023-10-07,argent
+5802,Gérard Vincent,gérard.vincent@outlook.com,0084743621,15-05-1970,Etats-Unis,2025-03-30,platine
+5803,Alain Moreno,alain.moreno@outlook.com,unknown,1968-05-10,BELGIQUE,30/09/2021,platine
+5804,Xavier de la Seguin,xavier.de.la.seguin@gmail.com,?,1965-12-01,Suisse,25/10/2021,or
+5805,Grégoire Antoine,grégoire.antoine@outlook.com,0033110797714,01-11-1966,SUISSE,28/11/2021,or
+5806,Stéphane-Georges Devaux,stéphane-georges.devaux@yahoo.fr,,06-05-1993,DE,25/03/2024,or
+5807,Lucy-Zoé Delaunay,lucy-zoé.delaunay@ gmail.com,0071669841,22/06/1994,BE,11/10/2023,platine
+5808,Capucine Gérard,capucine.gérard@hotmail.fr,0033433256238,1951-12-11,Suisse,26/01/2025,or
+5809,Luce Guillon de Bourdon,luce.guillon.de.bourdon@yahoo.fr,0003708782,06-03-1969,Etats-Unis,02/04/2022,bronze
+5810,Andrée Leroux,andrée.leroux@yahoo.fr,-,12/04/1985,GERMANY,2026-03-24,platine
+5811,Augustin Hebert,augustin.hebertgmail.com,0033644822175,30/11/2007,États-Unis,01/05/2024,or
+5812,Sébastien Besnard-Guillou,sébastien.besnard-guillougmail.com,null,04-10-1963,US,2025-12-07,bronze
+5813,Aurélie Ribeiro,aurélie.ribeiro@hotmail.fr,0033942968827,26-05-1980,États-Unis,2025-05-09,bronze
+5814,Valentine Chartier,valentine.chartiergmail.com,-,18/05/1983,United States,2024-03-12,bronze
+5815,Jeanne Schmitt-Coulon,NULL,+33796240964,12/01/1957,France,2025-11-24,or
+5816,Nathalie Morvan,nathalie.morvan@hotmail.fr,0084217028,16/05/1954,ch,2023-05-31,argent
+5817,Claire Leroux,?,88.20.89.34.80,2009-04-25,États-Unis,2023-09-22,argent
+5818,Henriette de Nguyen,henriette.de.nguyen@gmail.com,+33799160911,1946-01-12,Allemagne,22/03/2023,bronze
+5819,Bertrand de la Pelletier,bertrand.de.la.pelletier@yahoo.fr,+33376052304,24-04-1985,ch,2023-04-30,or
+5820,Brigitte du Le Roux,brigitte.du.le.rouxgmail.com,null,16-03-1994,FR,02/02/2026,argent
+5821,Guillaume Leroy du Maréchal,guillaume.leroy.du.maréchal@hotmail.fr,49.89.80.88.00,09-02-1999,CH,20/01/2026,or
+5822,Claudine Pereira,claudine.pereira@yahoo.fr,0059266486,01-02-1956,US,2024-10-21,or
+5823,Jeanne Rocher-Blin,jeanne.rocher-blin@gmail.com,41.55.94.50.10,30/05/1965,États-Unis,05/05/2022,or
+5824,Théophile Potier,théophile.potier@yahoo.fr,unknown,1949-04-07,de,30/05/2024,platine
+5825,Nicole Guillaume-De Oliveira,nicole.guillaume-de.oliveira@yahoo.fr,+33455906700,21/04/1959,GERMANY,05/11/2021,argent
+5826,Madeleine-Christiane Léger,madeleine-christiane.léger@gmail.com,0048966760,02-07-1975,Francia,2023-05-11,argent
+5827,Julie Renard,julie.renard@yahoo.fr,75.80.97.45.30,1936-10-19,Belgique,07/09/2022,argent
+5828,Alix du Dumont,alix.du.dumont@outlook.com,+33265401659,29/11/1953,de,2024-10-06,bronze
+5829,André Petit-Lemonnier,andré.petit-lemonniergmail.com,+33242767746,2005-08-13,GERMANY,2022-05-24,platine
+5830,Antoinette Perrier,antoinette.perrier@outlook.com,0033584886008,21-10-1937,Etats-Unis,18/10/2021,platine
+5831,Nicole Leduc,nicole.leducgmail.com,+33957047264,17/01/1989,de,2025-12-26,platine
+5832,Astrid Caron,astrid.caron@hotmail.fr,0033375365968,1990-07-04,de,17/12/2021,or
+5833,Marine Bousquet-Roy,marine.bousquet-roy@hotmail.fr,0083854540,12-05-1963,Belgique,2021-11-17,platine
+5834,Joséphine Schneider,joséphine.schneider@yahoo.fr,11.23.27.48.90,1984-09-07,Belgique,2025-07-20,argent
+5835,Aurélie Lebreton,aurélie.lebreton@outlook.com,0020388621,1968-08-08,États-Unis,19/03/2026,bronze
+5836,Agathe Bègue,agathe.bègue@outlook.com,0033453069358,1976-06-10,United States,28/03/2024,argent
+5837,Grégoire Ferrand,grégoire.ferrand@hotmail.fr,?,04-10-2002,Etats-Unis,2026-04-01,bronze
+5838,Marie Giraud,marie.giraud@hotmail.fr,,1956-08-20,be,23/10/2022,argent
+5839,Catherine Garcia-Clerc,catherine.garcia-clerc@gmail.com,+33878848699,11-03-1987,ch,14/08/2024,argent
+5840,Colette-Anne Schneider,colette-anne.schneider@hotmail.fr,0033147246301,19/03/2010,GERMANY,2026-01-12,argent
+5841,Monique Lacombe Le Roger,monique.lacombe.le.rogergmail.com,0033283391218,1955-10-23,DE,22/03/2024,platine
+5842,Constance Duhamel,constance.duhamel@outlook.com,0032210102,25-06-1951,Allemagne,15/11/2022,platine
+5843,Alain Andre,alain.andre@ gmail.com,NULL,1899-05-20,de,2024-06-17,bronze
+5844,Étienne Guichard du Morin,étienne.guichard.du.morin@yahoo.fr,+33198074682,19-05-1957,be,2022-09-12,platine
+5845,Lucas Pruvost Le Labbé,lucas.pruvost.le.labbé@yahoo.fr,+33620545967,25-12-1994,Etats-Unis,2025-11-22,bronze
+5846,Aimée Lagarde,aimée.lagarde@gmail.com,0006541134,1939-03-07,Belgique,2021-09-23,argent
+5847,  MARGOT ROUSSEL  ,margot.roussel@ gmail.com,0005836683,20/08/1965,FRANCE,2023-03-12,bronze
+5848,Laurent Joubert,laurent.joubertgmail.com,0033083868889,22/02/1990,Suisse,25/04/2022,bronze
+5849,Véronique de Marchal,véronique.de.marchalgmail.com,0076093201,1899-05-20,États-Unis,2022-05-21,or
+5850,Susanne Lefort,susanne.lefort@gmail.com,0033809521755,1974-11-15,be,2024-04-10,bronze
+5851,Michel Coulon,michel.coulon@ gmail.com,unknown,28/12/1969,fr,06/10/2024,argent
+5852,Océane-Christine Nguyen,océane-christine.nguyen@outlook.com,0091704542,11-09-1955,SUISSE,2022-04-01,or
+5853,Marie Bazin-Cousin,marie.bazin-cousin@ gmail.com,?,08-09-1963,de,31/05/2026,
+5854,Arthur Lefort,arthur.lefort@yahoo.fr,n/a,02-09-1965,SUISSE,11/10/2024,?
+5855,Adrien-Antoine Blanc,adrien-antoine.blanc@yahoo.fr,null,19-02-1972,DE,2022-01-19,argent
+5856,Anne Robin,anne.robin@hotmail.fr,unknown,1944-06-08,fr,2026-06-17,or
+5857,Anastasie Colas,anastasie.colas@gmail.com,0050074189,1899-05-20,France,25/08/2025,bronze
+5858,Marguerite Rocher-Cousin,marguerite.rocher-cousin@outlook.com,0089365294,30-09-1952,SUISSE,2023-02-12,argent
+5859,Céline Pasquier,céline.pasquier@ gmail.com,0033348131045,1998-06-13,États-Unis,12/12/2021,platine
+5860,Océane Louis,océane.louis@hotmail.fr,0033748352680,25-01-1987,Allemagne,2023-10-02,bronze
+5861,Richard-Martin Morel,richard-martin.morel@outlook.com,0033448838425,1991-08-16,DE,21/09/2025,argent
+5862,Lucy Lebon,lucy.lebon@outlook.com,-999,2031-01-15,Belgique,14/02/2022,argent
+5863,Constance Leclerc,constance.leclercgmail.com,?,1978-01-24,BELGIQUE,2022-03-22,or
+5864,Benoît Pinto,benoît.pintogmail.com,0033547602206,21/02/1994,France,23/04/2025,bronze
+5865,Hortense Gomes,hortense.gomes@yahoo.fr,22.75.95.00.20,15/01/1997,DE,09/01/2026,bronze
+5866,Augustin Julien,augustin.julien@hotmail.fr,+33795074071,18/01/1944,Allemagne,19/07/2025,platine
+5867,Christophe du Valentin,christophe.du.valentin@ gmail.com,+33100649340,1977-01-11,Francia,27/09/2022,argent
+5868,Célina-Adélaïde Lopes,célina-adélaïde.lopes@outlook.com,0033941184913,02/11/1961,CH,2026-09-04,or
+5869,Diane Morvan,diane.morvan@gmail.com,0056100679,1962-08-30,fr,05/06/2026,argent
+5870,Tristan Moreau,tristan.moreau@hotmail.fr,n/a,22/07/1965,SUISSE,2025-03-12,platine
+5871,Franck Dupré,franck.dupré@gmail.com,+33006776255,2031-01-15,DE,05/10/2021,or
+5872,Timothée Lévêque,timothée.lévêque@outlook.com,42.62.41.78.40,09-11-1997,GERMANY,2022-08-22,or
+5873,Thomas Lemoine,thomas.lemoine@yahoo.fr,0010090605,02/05/1985,be,2022-12-11,argent
+5874,Olivie Gros-Fleury,olivie.gros-fleury@yahoo.fr,+33732904575,12/12/1953,DE,2025-06-29,
+5875,Stéphanie-Margot Moreno,stéphanie-margot.moreno@gmail.com,+33426033620,2000-04-11,United States,23/02/2026,bronze
+5876,Michel Lemaître,michel.lemaître@outlook.com,+33092071152,1899-05-20,FRANCE,2022-11-07,argent
+5877,Adèle Arnaud-Roche,adèle.arnaud-rochegmail.com,null,31-01-1968,Allemagne,2022-03-12,bronze
+5878,Bertrand Gaudin,bertrand.gaudin@gmail.com,+33959772168,1899-05-20,Belgique,2024-04-22,or
+5879,Jean Gomez,jean.gomez@gmail.com,0089728454,18-08-1971,DE,20/01/2026,bronze
+5880,Pierre Dos Santos,pierre.dos.santos@outlook.com,0033839482322,1948-05-01,ch,07/01/2022,argent
+5881,Guillaume Lopes,guillaume.lopes@hotmail.fr,0033165993020,08-04-1972,fr,2022-05-12,argent
+5882,André Le Delannoy,andré.le.delannoy@yahoo.fr,52.13.53.02.80,30-11-1987,Allemagne,2022-03-10,or
+5883,Anaïs Cordier,anaïs.cordier@hotmail.fr,0077756919,1954-09-25,BE,2024-05-29,platine
+5884,Auguste Pottier,auguste.pottier@yahoo.fr,74.69.02.98.30,10/06/1937,États-Unis,27/04/2022,bronze
+5885,Gilles Hoarau,gilles.hoarau@outlook.com,unknown,19-11-1998,Francia,24/03/2024,platine
+5886,Océane Pascal,océane.pascal@gmail.com,+33362198655,31/01/2002,US,09/01/2022,platine
+5887,Louise-Joséphine Ribeiro,louise-joséphine.ribeiro@yahoo.fr,null,04-12-1984,États-Unis,2023-08-10,argent
+5888,Élisabeth Dumont,élisabeth.dumont@hotmail.fr,+33424362585,19/03/1999,FR,2023-01-20,platine
+5889,Benoît Potier,?,null,29-04-1974,ch,2025-02-19,gold
+5890,Frédéric-Eugène Vaillant,frédéric-eugène.vaillant@gmail.com,n/a,1961-02-19,fr,21/06/2026,platine
+5891,Georges Garnier,georges.garnier@gmail.com,0045769475,16/08/1941,États-Unis,2025-09-14,-999
+5892,Juliette Mace,juliette.mace@outlook.com,59.74.66.98.60,18-08-1993,Allemagne,2026-07-15,platine
+5893,Martin Guillaume,martin.guillaumegmail.com,0008095948,02/09/2003,Allemagne,27/02/2022,platine
+5894,Éléonore Samson,,0047213074,27/08/1965,Etats-Unis,28/05/2022,bronze
+5895,Célina Da Costa,célina.da.costa@gmail.com,NULL,05/05/1949,be,2022-10-16,argent
+5896,Maurice Duhamel,maurice.duhamel@hotmail.fr,+33817852211,1966-09-03,United States,2023-07-25,argent
+5897,Sophie Morin-Pascal,sophie.morin-pascal@gmail.com,0087447017,1956-10-14,SUISSE,2022-09-10,platine
+5898,Tristan Labbé,tristan.labbé@gmail.com,+33772966563,1937-08-15,ch,2022-09-12,argent
+5899,Bertrand Lopes,bertrand.lopes@gmail.com,N/A,19-01-2004,GERMANY,21/02/2024,bronze
+5900,Christophe François,christophe.françois@outlook.com,0033094391368,1958-11-29,US,2025-10-02,bronze
+5901,Paul Gaillard,paul.gaillard@gmail.com,0033552862092,2003-11-09,ch,07/08/2024,bronze
+5902,Jeanne Barre,jeanne.barre@hotmail.fr,0033222739389,1945-04-23,BELGIQUE,2024-10-05,argent
+5903,Guy Marchal,guy.marchal@gmail.com,+33661850761,09/09/1999,CH,2026-04-05,or
+5904,Suzanne Lambert-Gros,suzanne.lambert-gros@hotmail.fr,0001071261,1949-10-12,US,2023-06-30,unknown
+5905,Geneviève Pascal-Potier,geneviève.pascal-potier@outlook.com,0046735742,1977-09-27,Suisse,13/06/2022,or
+5906,Denis de la Renard,denis.de.la.renardgmail.com,0033258922256,11-09-2004,fr,03/01/2022,argent
+5907,Thierry Marques,thierry.marques@yahoo.fr,11.80.46.74.10,1951-07-21,de,11/11/2025,bronze
+5908,Patrick Laroche,patrick.larochegmail.com,0033013626084,15/05/1959,Suisse,2025-01-16,argent
+5909,Sébastien Fouquet-Reynaud,sébastien.fouquet-reynaud@gmail.com,0055491215,26/12/1984,CH,2022-02-25,or
+5910,Auguste-Auguste Moreno,auguste-auguste.moreno@yahoo.fr,91.96.93.95.70,16/03/1993,Francia,16/06/2024,bronze
+5911,Éléonore Lopez,éléonore.lopez@ gmail.com,,06-07-1971,BE,2022-06-21,platine
+5912,Eugène Masse,eugène.masse@gmail.com,0076098731,30-12-1953,FR,2022-07-19,
+5913,Valérie Grondin,valérie.grondin@hotmail.fr,+33759889786,1941-09-18,United States,2023-06-26,bronze
+5914,Thomas Le Renaud,thomas.le.renaud@gmail.com,0033089523120,1944-05-15,DE,2022-07-07,argent
+5915,Antoinette-Marthe Laurent,antoinette-marthe.laurent@hotmail.fr,74.70.00.26.80,1993-10-26,CH,17/01/2024,or
+5916,Honoré Devaux du Mahe,honoré.devaux.du.mahe@hotmail.fr,+33636560450,16-10-1965,fr,02/11/2021,bronze
+5917,Joseph Gomes-Rocher,joseph.gomes-rocher@yahoo.fr,N/A,07-04-1952,DE,21/12/2024,bronze
+5918,Roland Grenier,roland.grenier@hotmail.fr,n/a,1964-03-27,GERMANY,2024-01-14,bronze
+5919,Marcel Le Huet,marcel.le.huet@yahoo.fr,0033895965466,2009-10-13,be,2022-12-18,argent
+5920,Julie Klein,julie.klein@outlook.com,0069993934,16/08/1991,fr,2023-02-06,or
+5921,Lorraine Jean,lorraine.jean@gmail.com,0033822309586,04/11/1978,Suisse,13/05/2022,platine
+5922,Gabrielle Bruneau,gabrielle.bruneau@yahoo.fr,0033097202170,1985-11-24,US,13/02/2024,argent
+5923,Raymond Lévêque de la Renault,raymond.lévêque.de.la.renault@gmail.com,,1982-12-30,ch,20/11/2023,bronze
+5924,Laurent Andre de la Ramos,laurent.andre.de.la.ramosgmail.com,0013756589,18/07/1981,USA,2023-09-06,bronze
+5925,Maggie Techer,maggie.techer@hotmail.fr,0093145843,16-07-1986,France,2023-01-07,platine
+5926,Nicole Chevallier,nicole.chevallier@hotmail.fr,+33034236220,26/04/1952,GERMANY,2026-01-05,argent
+5927,Honoré du Klein,honoré.du.klein@gmail.com,0079686800,16-06-1949,Belgique,2024-06-25,or
+5928,Claire Colas,claire.colas@outlook.com,+33774174304,01-04-2000,Allemagne,2022-10-05,argent
+5929,Andrée Meyer,andrée.meyer@gmail.com,0033946652752,2031-01-15,de,2022-09-19,argent
+5930,Raymond Brunet,raymond.brunet@yahoo.fr,+33569133030,30-06-1982,Belgique,2022-10-26,argent
+5931,Lucas-Nicolas Besnard,lucas-nicolas.besnard@outlook.com,n/a,20/10/1940,DE,20/03/2026,or
+5932,Emmanuel Lopes,emmanuel.lopes@gmail.com,+33984723034,1983-11-09,BE,22/04/2025,
+5933,Alphonse Rodriguez,unknown,+33722240507,1976-03-27,Etats-Unis,17/10/2025,unknown
+5934,Josette Peltier,josette.peltier@yahoo.fr,46.19.92.40.60,2001-12-15,Francia,10/07/2023,or
+5935,Henriette Regnier-Besnard,henriette.regnier-besnard@gmail.com,+33225909566,1947-04-13,Francia,07/07/2025,platine
+5936,Gilbert Guillou de la Hoarau,gilbert.guillou.de.la.hoarau@yahoo.fr,0021101878,18-02-1972,FR,06/12/2021,platine
+5937,Patricia Bernier,patricia.bernier@yahoo.fr,0033039251999,15-10-1981,France,2022-12-25,argent
+5938,Dorothée Joseph,dorothée.joseph@yahoo.fr,,07-08-1959,États-Unis,16/07/2022,platine
+5939,Luce Gérard,luce.gérard@hotmail.fr,+33963308334,20-07-1946,SUISSE,12/03/2023,bronze
+5940,Agnès Schneider,agnès.schneider@outlook.com,04.70.20.59.60,22-05-1973,France,2025-07-21,argent
+5941,Arnaude Raymond,arnaude.raymond@ gmail.com,0033926632956,07/03/1993,BE,21/11/2022,-
+5942,Maurice Mahe,maurice.mahe@gmail.com,+33061658129,1971-04-15,CH,23/05/2022,N/A
+5943,Constance Fernandes,constance.fernandes@outlook.com,+33029559636,29-02-1980,Francia,2022-12-11,argent
+5944,Tristan Lejeune,tristan.lejeune@ gmail.com,NULL,25-08-1948,United States,2022-09-11,or
+5945,Frédéric Bègue,frédéric.bèguegmail.com,0021122121,05-02-1976,France,2023-08-01,bronze
+5946,Pierre Dupré de Mendès,pierre.dupré.de.mendès@outlook.com,+33764019185,29/08/1963,BE,2023-01-12,platine
+5947,Andrée Perrier-Ruiz,andrée.perrier-ruiz@yahoo.fr,0087787358,19/11/2009,de,2023-05-11,?
+5948,Noémi Carre,noémi.carregmail.com,,2006-08-27,ch,14/08/2022,or
+5949,Éric de Schneider,éric.de.schneider@gmail.com,83.14.78.91.10,1899-05-20,Francia,2024-01-29,
+5950,Sophie Brunet du Pruvost,sophie.brunet.du.pruvost@hotmail.fr,0033831800366,1981-06-06,FRANCE,2023-10-09,platine
+5951,Adrien Bonnet,adrien.bonnetgmail.com,NULL,16/02/1936,Suisse,2023-01-27,or
+5952,Inès de Monnier,inès.de.monnier@gmail.com,+33900768627,1977-03-18,United States,03/07/2025,N/A
+5953,Gabriel Schmitt-Berthelot,gabriel.schmitt-berthelot@outlook.com,37.61.85.18.60,2010-03-12,GERMANY,2022-08-10,or
+5954,Caroline Hoarau,caroline.hoarau@yahoo.fr,0033282339218,1968-04-11,de,20/12/2025,platine
+5955,Jérôme Lemoine-Pinto,jérôme.lemoine-pinto@hotmail.fr,null,1991-01-05,BELGIQUE,2022-07-23,VIP
+5956,Capucine Guibert-Da Costa,capucine.guibert-da.costa@gmail.com,0061781596,1899-05-20,GERMANY,14/08/2024,bronze
+5957,Jeanne Allard-Jacquot,jeanne.allard-jacquot@ gmail.com,65.68.62.95.90,21-02-1958,be,2025-11-14,or
+5958,Isaac Pons,isaac.pons@hotmail.fr,NULL,13/01/1951,United States,13/12/2023,bronze
+5959,Claire Salmon,claire.salmon@outlook.com,99.67.08.08.90,09/01/1982,United States,04/01/2024,VIP
+5960,Joséphine Vaillant,joséphine.vaillant@hotmail.fr,0098416734,1962-02-13,be,01/12/2025,or
+5961,Marianne de la Alexandre,marianne.de.la.alexandre@outlook.com,+33044509286,14/09/1990,fr,2026-02-07,bronze
+5962,Denise Lemaire,denise.lemaire@gmail.com,0066489008,27-05-1998,ch,2022-08-14,platine
+5963,Jeannine Pelletier-Dijoux,jeannine.pelletier-dijoux@hotmail.fr,0033830574883,21-07-1943,USA,2024-10-25,bronze
+5964,Julie Bernier,julie.bernier@outlook.com,0050003056,03-05-2010,CH,10/07/2025,bronze
+5965,Caroline Allain,caroline.allain@hotmail.fr,0018493784,2031-01-15,Suisse,2023-11-19,bronze
+5966,Anastasie-Camille Samson,anastasie-camille.samson@ gmail.com,+33600136510,18/09/1971,Francia,2022-11-16,platine
+5967,Henri Fleury de la Brunel,henri.fleury.de.la.brunel@yahoo.fr,,15/05/1980,USA,2025-08-29,argent
+5968,Bertrand Breton,bertrand.breton@yahoo.fr,+33222190533,26-12-2003,USA,20/05/2026,platine
+5969,Matthieu Martinez Le Didier,matthieu.martinez.le.didier@ gmail.com,-999,09/10/1958,CH,2024-05-24,platine
+5970,Adèle Camus,adèle.camus@gmail.com,0033129003622,02-01-1998,Belgique,16/06/2026,bronze
+5971,Noël Gomez,noël.gomez@outlook.com,0033488395855,16/12/2004,FRANCE,2024-06-29,bronze
+5972,Éric Mary,éric.mary@hotmail.fr,0033618575917,13/11/1985,US,2022-01-20,argent
+5973,Anastasie Evrard,anastasie.evrard@ gmail.com,+33477447353,07/08/1999,DE,04/07/2023,argent
+5974,Henri Navarro,henri.navarro@gmail.com,0033949734493,06-04-2001,Etats-Unis,2021-11-26,platine
+5975,Patrick Gros-Joubert,patrick.gros-joubert@outlook.com,0033113389260,29/12/1937,Allemagne,15/04/2024,-999
+5976,Diane de Benard,diane.de.benard@yahoo.fr,0033486251521,21-04-1995,FR,2023-12-13,or
+5977,Lucas Millet de la Millet,lucas.millet.de.la.millet@outlook.com,unknown,24-05-1990,Francia,16/03/2024,or
+5978,Simone Bernier,simone.bernier@ gmail.com,0033629994,21-02-1964,USA,2026-03-02,or
+5979,Julie Leblanc,julie.leblanc@hotmail.fr,0033985739083,1899-05-20,ch,20/11/2025,platine
+5980,Corinne Gauthier,corinne.gauthier@yahoo.fr,0033464884997,17-07-1988,BE,20/08/2024,n/a
+5981,Denise Guilbert,denise.guilbert@outlook.com,,14/01/2004,CH,05/12/2023,argent
+5982,Susan-Arnaude Dos Santos,susan-arnaude.dos.santos@hotmail.fr,,1958-03-02,France,2025-09-12,bronze
+5983,Marcel du Samson,marcel.du.samson@gmail.com,30.38.85.68.10,06/04/2001,United States,2025-08-07,or
+5984,Jacqueline-Victoire Tanguy,jacqueline-victoire.tanguygmail.com,92.17.79.05.50,15-09-1941,Belgique,18/06/2022,
+5985,Pauline Mary,pauline.mary@hotmail.fr,0070532601,1951-04-21,CH,01/05/2022,bronze
+5986,Stéphane Chevalier-Dubois,?,-999,1954-05-15,FR,2023-05-13,or
+5987,Capucine Gaudin-Wagner,capucine.gaudin-wagner@gmail.com,0073615873,1944-12-12,Allemagne,14/08/2023,argent
+5988,Christine Besnard,christine.besnard@outlook.com,n/a,21-08-1941,US,2023-05-01,platine
+5989,Bernadette Poulain,bernadette.poulain@gmail.com,unknown,1983-03-10,FR,2025-09-03,or
+5990,Benoît Gillet,benoît.gillet@outlook.com,37.72.70.28.90,27/06/1957,États-Unis,31/10/2023,bronze
+5991,Odette Thomas,odette.thomas@outlook.com,0033644161019,16-06-1961,ch,20/09/2026,or
+5992,Margot Couturier,margot.couturier@outlook.com,+33051038802,06/08/2002,Belgique,2024-03-04,or
+5993,Aimé Le Meunier,aimé.le.meunier@outlook.com,44.47.18.93.90,1972-03-21,Belgique,2023-04-23,or
+5994,Alain du Bruneau,alain.du.bruneau@yahoo.fr,,1995-07-09,be,2023-12-30,or
+5995,Hugues-Jérôme Marie,hugues-jérôme.marie@yahoo.fr,+33717430688,25/11/1999,Belgique,25/08/2026,platine
+5996,Léon Dupuy,léon.dupuygmail.com,0081873877,1993-11-24,DE,2024-12-25,or
+5997,Geneviève Foucher,geneviève.foucher@gmail.com,0013090915,11-04-1953,Francia,2022-09-08,argent
+5998,Aimée Lemoine,aimée.lemoine@outlook.com,0033041231905,05-08-1976,Suisse,22/12/2023,platine
+5999,Adrien Royer,adrien.royer@ gmail.com,-,1899-05-20,Allemagne,09/12/2024,N/A
+6000,Thierry Guillet,thierry.guillet@yahoo.fr,87.09.87.26.40,26-04-1989,USA,2026-01-19,bronze
+6001,Odette-Emmanuelle Vidal,odette-emmanuelle.vidal@outlook.com,+33404326118,12-01-1949,fr,12/11/2025,or
+6002,Alfred Olivier,alfred.olivier@outlook.com,0033702867202,20/08/1958,CH,14/08/2025,NULL
+6003,Théophile Daniel,théophile.daniel@outlook.com,0053689005,1994-03-07,FR,2024-01-18,argent
+6004,Margaux Martinez de Pereira,margaux.martinez.de.pereira@gmail.com,n/a,1972-11-04,CH,2022-07-10,bronze
+6005,François Gimenez,françois.gimenez@hotmail.fr,+33722104546,1996-09-12,be,07/09/2025,bronze
+6006,Cécile Colas,cécile.colas@gmail.com,43.60.23.44.20,1948-04-05,DE,22/08/2022,argent
+6007,Benjamin Jourdan,benjamin.jourdan@gmail.com,41.20.94.47.70,09/07/1965,SUISSE,2026-02-20,argent
+6008,Aimée Guillaume,aimée.guillaume@yahoo.fr,0076179480,21/04/1986,CH,30/07/2026,bronze
+6009,Grégoire Barre,grégoire.barre@outlook.com,0033602119158,05-10-1997,BELGIQUE,2024-08-18,bronze
+6010,Émile Perret,émile.perret@outlook.com,?,05/04/1976,DE,2023-08-15,argent
+6011,Aimé Charrier,aimé.charrier@outlook.com,-,2031-01-15,ch,07/03/2023,or
+6012,  CHRISTELLE-AURÉLIE NGUYEN  ,christelle-aurélie.nguyen@yahoo.fr,69.23.53.48.40,2031-01-15,États-Unis,2024-04-09,or
+6013,Maurice-Alphonse Bodin,maurice-alphonse.bodin@hotmail.fr,-999,1947-07-21,de,2025-06-10,argent
+6014,Claudine Garcia,-,+33000886346,02/09/1962,CH,2023-12-28,or
+6015,Cécile-Adèle Bernard,cécile-adèle.bernard@hotmail.fr,+33009169232,08/06/1974,fr,2025-02-24,bronze
+6016,Michel du Rousset,michel.du.rousset@outlook.com,+33481867463,13/06/1989,Belgique,04/12/2021,bronze
+6017,Théophile Pruvost,théophile.pruvost@gmail.com,+33371181519,1974-05-09,États-Unis,01/07/2024,argent
+6018,Josette Boulanger,NULL,0015353466,26-04-1973,fr,14/11/2021,bronze
+6019,Michelle Bruneau,michelle.bruneau@ gmail.com,+33672010824,06-04-1981,fr,17/02/2026,bronze
+6020,Daniel Munoz,daniel.munoz@yahoo.fr,+33879402620,22-06-1993,Suisse,2024-05-17,or
+6021,Antoinette du Charles,antoinette.du.charles@gmail.com,0033642357004,1987-05-21,États-Unis,27/02/2022,bronze
+6022,Brigitte Leleu de la Courtois,brigitte.leleu.de.la.courtois@outlook.com,0055904610,25-04-1988,BE,2022-01-10,bronze
+6023,Diane Vasseur de Aubry,diane.vasseur.de.aubry@hotmail.fr,?,16/09/1967,DE,23/08/2026,or
+6024,Roland Guyon,roland.guyon@hotmail.fr,0048507665,27/12/2009,BELGIQUE,04/11/2022,or
+6025,Honoré-Laurent Pages,honoré-laurent.pages@gmail.com,+33346019153,05/03/1939,FRANCE,03/10/2021,or
+6026,Emmanuelle Foucher,emmanuelle.foucher@ gmail.com,0017682251,28/11/1958,de,21/06/2025,argent
+6027,Michel Laroche,N/A,+33665622419,2007-03-06,SUISSE,2026-02-13,argent
+6028,Simone Gros,simone.gros@outlook.com,+33129035006,2031-01-15,DE,2026-08-07,bronze
+6029,Pierre Bailly,pierre.bailly@gmail.com,?,1973-04-08,France,26/06/2022,platine
+6030,Denis Fernandez,denis.fernandez@yahoo.fr,0033549206441,11-12-1960,CH,2025-07-22,argent
+6031,Xavier Lacombe,-999,27.30.63.43.50,28/08/1981,Francia,09/02/2025,bronze
+6032,Philippe Gaudin de la Ramos,philippe.gaudin.de.la.ramos@hotmail.fr,+33664051102,31-07-1940,BELGIQUE,2022-03-06,or
+6033,Marcelle Pierre,marcelle.pierre@ gmail.com,?,1984-12-17,ch,2024-03-16,platine
+6034,Tristan Bodin,tristan.bodin@gmail.com,0097899901,1964-08-08,BE,03/03/2022,bronze
+6035,Alfred-Aimé Lacroix,alfred-aimé.lacroix@gmail.com,0097860162,1958-01-22,be,2025-07-11,or
+6036,Anastasie Mace,anastasie.mace@yahoo.fr,0050113753,09-10-1973,SUISSE,2023-05-30,bronze
+6037,Charles Simon,charles.simon@outlook.com,?,1971-03-01,États-Unis,2026-06-14,or
+6038,Marcel Leroy,marcel.leroy@hotmail.fr,,28/02/1977,Suisse,17/09/2022,or
+6039,Henriette Fournier,henriette.fournier@gmail.com,+33480855780,2031-01-15,DE,2021-10-17,argent
+6040,Xavier-William Leclercq,xavier-william.leclercq@hotmail.fr,0033169069685,09-08-1995,FRANCE,16/12/2025,platine
+6041,Louis-Xavier Georges,louis-xavier.georges@gmail.com,0033139521501,20-03-1937,BE,2025-12-01,argent
+6042,David Chevallier de Thomas,n/a,0033842431983,01/10/1971,DE,11/08/2024,argent
+6043,Richard Klein de Vasseur,richard.klein.de.vasseur@outlook.com,,1937-06-29,Etats-Unis,08/02/2024,argent
+6044,Nath Rocher,NULL,0081105014,14-07-1957,BE,14/04/2026,argent
+6045,Josette Lecoq,josette.lecoq@yahoo.fr,+33573855128,31-03-2010,GERMANY,2025-07-29,gold
+6046,Virginie Boulanger,virginie.boulanger@outlook.com,0033781554260,1996-04-05,US,2025-07-14,NULL
+6047,Susan Renard de la Peron,n/a,46.77.20.51.70,1964-06-22,fr,25/03/2022,platine
+6048,Emmanuelle Bonnet,emmanuelle.bonnet@hotmail.fr,null,1997-09-28,US,2023-04-04,or
+6049,Rémy Durand-Diallo,rémy.durand-diallo@hotmail.fr,0072602925,1949-08-26,Etats-Unis,08/01/2023,?
+6050,Océane Caron,océane.caron@outlook.com,0066420763,26/09/2002,GERMANY,2022-06-10,platine
+6051,François Maillot,françois.maillotgmail.com,0033923868790,05/05/1951,BE,03/10/2023,platine
+6052,Gilles Blondel,gilles.blondel@yahoo.fr,0053405089,2004-08-12,SUISSE,2025-08-01,or
+6053,Émilie Verdier,émilie.verdier@outlook.com,+33405356707,30-01-1967,FRANCE,22/03/2024,platine
+6054,Zoé Lacombe,zoé.lacombe@hotmail.fr,+33038422736,23/02/1961,SUISSE,2025-06-21,bronze
+6055,Michel Chauveau,michel.chauveau@hotmail.fr,0011757691,11-03-1951,France,26/07/2026,bronze
+6056,Marcel Gaillard,marcel.gaillard@gmail.com,?,06/01/1940,France,2023-08-06,platine
+6057,Marcel Delorme,marcel.delorme@yahoo.fr,0033980142647,24/04/1936,États-Unis,2025-11-13,bronze
+6058,Marcel Morvan,marcel.morvan@gmail.com,-,1937-08-14,DE,2024-08-21,argent
+6059,Éric du Albert,éric.du.albert@gmail.com,+33729476380,1949-06-27,DE,03/06/2024,bronze
+6060,Alexandria-Nicole Boulay,alexandria-nicole.boulay@gmail.com,NULL,2005-06-12,BELGIQUE,2024-01-13,argent
+6061,Paul Arnaud,paul.arnaud@yahoo.fr,?,16-04-1976,US,2025-04-25,platine
+6062,Nicole Imbert,nicole.imbert@hotmail.fr,+33539749950,1960-07-22,DE,26/12/2023,platine
+6063,Philippe Morvan,philippe.morvan@hotmail.fr,0020801929,03/05/1968,GERMANY,14/12/2021,argent
+6064,Auguste Guichard,auguste.guichard@outlook.com,0033489093225,20/12/1993,FRANCE,05/07/2026,platine
+6065,François Giraud-Robert,n/a,0033555019354,2007-07-13,de,14/05/2023,-
+6066,Frédéric Lebon,frédéric.lebon@yahoo.fr,,17-04-1979,Francia,2021-10-04,bronze
+6067,Alexandrie Perrot-Thibault,-,n/a,20-09-1991,USA,06/04/2026,platine
+6068,Christiane Lefèvre de Meunier,christiane.lefèvre.de.meunier@gmail.com,74.95.42.10.60,05-12-1953,BE,19/08/2022,bronze
+6069,Tristan-Benjamin Moreno,tristan-benjamin.moreno@hotmail.fr,+33226713175,1950-12-17,DE,19/11/2022,platine
+6070,Charlotte Briand,charlotte.briand@hotmail.fr,-,06-11-1999,de,19/12/2023,null
+6071,Alexandre Thomas-Masse,alexandre.thomas-masse@hotmail.fr,+33321153550,1980-03-16,GERMANY,24/04/2023,argent
+6072,François-Daniel Roussel,,0033779724792,14/05/1979,BE,2023-08-05,bronze
+6073,Christophe-Denis Morin,christophe-denis.morin@yahoo.fr,N/A,09-05-1973,France,2024-03-09,?
+6074,Élodie Guillaume,élodie.guillaume@yahoo.fr,n/a,2001-10-08,US,18/01/2025,bronze
+6075,Laure Boyer,NULL,38.25.67.26.20,1899-05-20,Allemagne,23/10/2021,argent
+6076,Juliette du Leduc,juliette.du.leduc@hotmail.fr,51.96.28.22.20,14-02-1945,ch,2026-01-26,or
+6077,Bernard Joubert,bernard.joubert@hotmail.fr,0063942012,22/06/1949,Etats-Unis,08/09/2025,platine
+6078,Guillaume Fernandez-Hervé,guillaume.fernandez-hervé@yahoo.fr,+33662702660,1978-06-15,Etats-Unis,13/01/2023,argent
+6079,Anastasie Blin,anastasie.blin@hotmail.fr,0003910193,27-10-1962,be,2022-12-13,argent
+6080,René de la Lucas,rené.de.la.lucas@gmail.com,0033600608277,1947-09-30,Belgique,07/01/2025,argent
+6081,Noémi Guyot,noémi.guyot@yahoo.fr,+33643850095,1965-09-27,USA,12/11/2022,argent
+6082,Eugène Dupuy,eugène.dupuy@outlook.com,+33336109441,01-07-1967,ch,2026-07-20,argent
+6083,Daniel Bourgeois de Perrier,daniel.bourgeois.de.perrier@gmail.com,0076857606,23/11/1961,Belgique,2026-01-06,bronze
+6084,Gilbert Le Arnaud,gilbert.le.arnaud@yahoo.fr,+33551887017,01/07/1982,GERMANY,2024-10-27,platine
+6085,Élisabeth-Diane Ribeiro,élisabeth-diane.ribeiro@ gmail.com,0044417234,09-01-1988,Suisse,13/06/2023,argent
+6086,Élodie Charrier,élodie.charrier@gmail.com,0048536268,08/07/1997,Francia,24/07/2024,platine
+6087,Nicolas-Emmanuel Philippe,nicolas-emmanuel.philippe@outlook.com,+33538557421,1974-05-27,Francia,05/09/2023,or
+6088,Georges-Isaac Valette,georges-isaac.valette@yahoo.fr,81.46.04.76.10,1899-05-20,États-Unis,2023-03-11,or
+6089,Claude Barbe,claude.barbe@hotmail.fr,+33187564672,1955-05-15,FRANCE,13/02/2025,or
+6090,Hortense Antoine,hortense.antoine@gmail.com,58.99.00.27.70,26-03-1977,Suisse,2026-05-07,argent
+6091,Sébastien Masson,sébastien.masson@outlook.com,60.43.56.60.50,1936-07-21,ch,2026-03-22,or
+6092,Gérard Hebert-Da Costa,gérard.hebert-da.costa@hotmail.fr,+33730671822,03/05/2004,de,25/05/2025,argent
+6093,Olivie Ollivier,olivie.ollivier@ gmail.com,0033788653859,25/01/2004,DE,2025-10-06,bronze
+6094,Léon Georges,léon.georges@gmail.com,0087605504,1992-01-30,United States,30/07/2024,gold
+6095,Charles Lemonnier,charles.lemonnier@gmail.com,0033670663201,1969-11-17,Allemagne,25/09/2023,platine
+6096,  SÉBASTIEN LABBÉ  ,sébastien.labbé@outlook.com,0089198271,2002-12-12,Belgique,2024-07-13,or
+6097,Margot Lecoq,margot.lecoq@gmail.com,86.49.42.69.40,11/01/1951,DE,2022-07-06,argent
+6098,Théodore de la Fernandez,théodore.de.la.fernandez@hotmail.fr,+33145996706,1986-04-26,Suisse,2024-09-19,bronze
+6099,Thibault Leblanc,thibault.leblancgmail.com,NULL,10-03-1997,fr,2025-10-13,or
+6100,Yves Traore,N/A,,16-05-1941,FRANCE,28/03/2022,or
+6101,Stéphane-Vincent Blanchard,stéphane-vincent.blanchard@ gmail.com,+33017092640,2003-04-26,fr,15/12/2023,platine
+6102,François Martinez,françois.martinez@hotmail.fr,0028296824,1899-05-20,GERMANY,20/11/2025,or
+6103,Marguerite de Peltier,marguerite.de.peltier@gmail.com,+33592741168,10-07-1999,FRANCE,24/09/2021,platine
+6104,Cécile-Nathalie Masson,cécile-nathalie.masson@outlook.com,0033808203917,01/08/1948,USA,02/01/2022,VIP
+6105,Marc Leclercq,marc.leclercq@outlook.com,0062458701,28/02/1986,Etats-Unis,2022-08-13,GOLD
+6106,Vincent Descamps de la Léger,vincent.descamps.de.la.léger@outlook.com,+33912375302,24/11/1947,US,2024-06-24,argent
+6107,Roland-Maurice Lebon,roland-maurice.lebon@ gmail.com,02.43.65.24.00,11/06/1997,US,25/06/2023,argent
+6108,Marcel Adam-Charrier,marcel.adam-charrier@yahoo.fr,+33648821597,07/04/1992,Allemagne,18/09/2026,bronze
+6109,Raymond Lemaître-Baron,raymond.lemaître-barongmail.com,unknown,2006-02-25,FRANCE,05/10/2023,or
+6110,Arnaude-Christelle Guichard,arnaude-christelle.guichard@yahoo.fr,29.86.22.69.90,1979-05-02,BE,2022-05-14,platine
+6111,Patricia Chauvin,patricia.chauvin@yahoo.fr,0056999299,1941-03-04,CH,2025-09-05,argent
+6112,Jeanne Fabre-Lebrun,jeanne.fabre-lebrun@gmail.com,+33779256041,01/02/1992,United States,2022-12-16,or
+6113,Diane de Barbe,diane.de.barbe@hotmail.fr,0098391226,2031-01-15,Allemagne,2021-10-08,null
+6114,Arthur Charpentier,arthur.charpentier@gmail.com,0033430491341,1958-01-13,GERMANY,2021-10-21,or
+6115,Virginie Le Fernandes,virginie.le.fernandes@yahoo.fr,0033865642240,23-04-2003,United States,2023-05-16,gold
+6116,Antoine Paul,antoine.paul@yahoo.fr,N/A,03-06-1949,fr,07/05/2022,argent
+6117,Alexandria-Michèle Maréchal,alexandria-michèle.maréchal@yahoo.fr,0033079661869,08-10-1975,Etats-Unis,2023-05-22,platine
+6118,Colette Boulay,colette.boulay@outlook.com,0033741253137,22-01-1993,FRANCE,2025-01-09,bronze
+6119,Océane Pereira,océane.pereira@hotmail.fr,0075036192,04/09/1936,GERMANY,2026-07-21,or
+6120,Jacques Loiseau,jacques.loiseau@hotmail.fr,0033337034244,1991-07-16,BE,2023-02-05,bronze
+6121,Louise Dias,louise.dias@ gmail.com,0033862351076,24/05/1981,France,01/05/2023,argent
+6122,Arnaude Georges de Lagarde,arnaude.georges.de.lagarde@yahoo.fr,n/a,11-07-1977,DE,27/11/2021,argent
+6123,Roger Monnier,roger.monnier@gmail.com,+33574496539,1973-11-21,be,2025-01-20,platine
+6124,Anaïs Jourdan,anaïs.jourdan@yahoo.fr,0033930454184,13-08-1972,Allemagne,25/08/2026,or
+6125,Thibaut Mendès-Morvan,thibaut.mendès-morvan@outlook.com,,1946-12-11,France,20/09/2023,platine
+6126,Thomas-Alain Delmas,thomas-alain.delmasgmail.com,+33951646933,31/01/1969,Allemagne,2025-05-02,or
+6127,Patricia Payet,patricia.payetgmail.com,0033088067089,24-09-1950,Etats-Unis,2024-07-07,gold
+6128,Théophile Roy,théophile.roy@yahoo.fr,+33431132661,1938-10-19,France,2022-03-15,or
+6129,Laure Lenoir-Maillot,laure.lenoir-maillot@hotmail.fr,-999,15-10-1977,US,24/10/2021,or
+6130,Théophile Lelièvre-Potier,théophile.lelièvre-potier@ gmail.com,+33708231714,1936-04-01,Belgique,04/09/2023,or
+6131,Thierry Baudry,thierry.baudry@hotmail.fr,,22/02/1961,USA,04/05/2026,argent
+6132,Hortense Richard,hortense.richard@yahoo.fr,,23/01/1946,SUISSE,24/09/2023,argent
+6133,Anastasie Carlier,anastasie.carlier@yahoo.fr,50.28.16.40.90,17/06/1953,Belgique,12/06/2024,or
+6134,Aimé Fabre,aimé.fabre@outlook.com,0033252094523,21/09/1979,BE,2025-07-24,or
+6135,Michèle Colas,michèle.colas@hotmail.fr,0033600986027,14/10/1970,BE,2023-06-20,GOLD
+6136,Lucie Peltier,lucie.peltier@outlook.com,,1959-11-07,France,2022-05-06,or
+6137,Thomas Guilbert,thomas.guilbertgmail.com,0045662295,12-10-1944,ch,2022-06-20,bronze
+6138,Virginie Roux,virginie.roux@gmail.com,,1959-05-05,fr,2023-03-16,or
+6139,Marc Lebon,marc.lebon@hotmail.fr,0001530173,1936-12-04,GERMANY,13/02/2025,-999
+6140,Marcel Mahe,marcel.mahe@outlook.com,0090522441,24-05-1996,CH,08/10/2022,argent
+6141,Marguerite-Manon Pichon,marguerite-manon.pichon@ gmail.com,0033157905719,05/04/1978,CH,23/05/2026,argent
+6142,Tristan Hardy,tristan.hardy@gmail.com,0065618335,08/07/1983,US,2025-04-16,or
+6143,Julie Techer,julie.techer@outlook.com,+33702377184,06/01/1986,BE,2022-12-11,bronze
+6144,Tristan Roussel,tristan.roussel@yahoo.fr,0033733329732,30-12-1977,be,10/10/2022,platine
+6145,Luce Poirier,luce.poiriergmail.com,0069924277,19-09-1938,USA,26/04/2026,platine
+6146,Constance Hubert Le Gilles,constance.hubert.le.gilles@yahoo.fr,+33140169332,11-04-1946,USA,21/04/2024,or
+6147,Daniel Lecomte Le Costa,daniel.lecomte.le.costa@hotmail.fr,,18-03-1985,CH,2023-05-05,platine
+6148,Antoinette-Émilie Courtois,antoinette-émilie.courtois@outlook.com,N/A,05-09-2007,GERMANY,23/01/2024,argent
+6149,François de Legros,françois.de.legros@ gmail.com,+33070385036,24-03-2002,CH,17/09/2025,argent
+6150,Margaux Roy,margaux.roy@outlook.com,,2031-01-15,Etats-Unis,18/08/2025,bronze
+6151,Claude Brun,claude.brun@gmail.com,+33620036385,29-10-1967,Allemagne,2024-11-22,platine
+6152,Julie Bouchet,julie.bouchet@yahoo.fr,-999,1990-05-24,GERMANY,2025-02-13,argent
+6153,Laurence-Astrid Boucher,laurence-astrid.boucher@gmail.com,unknown,17/08/1980,USA,21/10/2022,or
+6154,Frédéric Maury,frédéric.maury@yahoo.fr,89.81.15.94.80,1955-01-07,ch,2026-05-22,argent
+6155,Gilbert Durand-Thomas,N/A,+33398474225,17/03/1988,Etats-Unis,17/09/2023,bronze
+6156,Claude Grenier,claude.grenier@yahoo.fr,null,1972-08-07,SUISSE,20/12/2021,or
+6157,Eugène Rocher,eugène.rocher@gmail.com,0084605867,22-12-1989,fr,2024-11-03,platine
+6158,Nath-Élise Potier,nath-élise.potiergmail.com,61.08.09.26.10,04-05-1976,SUISSE,23/08/2023,argent
+6159,Adrien Perrin,adrien.perrin@outlook.com,0033457865557,15-02-1967,Francia,26/06/2023,platine
+6160,Gilbert Lelièvre,gilbert.lelièvre@hotmail.fr,+33758682405,1968-01-17,Francia,29/01/2022,bronze
+6161,Marthe Adam,marthe.adamgmail.com,unknown,1960-02-08,be,24/09/2022,bronze
+6162,Pénélope Durand,pénélope.durand@hotmail.fr,0003630944,02/03/1974,Francia,2022-06-29,platine
+6163,  PIERRE DU BONNET  ,pierre.du.bonnet@yahoo.fr,?,21/09/1948,CH,22/08/2024,or
+6164,Anouk Seguin,anouk.seguin@ gmail.com,0028413569,25/05/1971,de,27/01/2023,or
+6165,Henri Prévost,henri.prévost@hotmail.fr,+33480957394,20-04-2004,FR,2025-02-08,bronze
+6166,Amélie Joly,amélie.joly@gmail.com,0020315892,1985-01-23,ch,20/05/2023,or
+6167,Thibault-Alain Bigot,thibault-alain.bigot@hotmail.fr,+33977748675,1950-01-24,France,08/10/2024,null
+6168,Vincent Ruiz,vincent.ruiz@yahoo.fr,08.82.95.86.80,22/09/1940,ch,02/10/2025,argent
+6169,Bernard-Sébastien De Oliveira,bernard-sébastien.de.oliveira@yahoo.fr,0033869427674,30/08/1947,GERMANY,2026-05-13,argent
+6170,Benoît du Olivier,benoît.du.oliviergmail.com,0033151817882,1988-03-17,United States,13/03/2023,or
+6171,Laurent Étienne,laurent.étienne@hotmail.fr,06.23.27.23.70,1997-05-08,BELGIQUE,2022-04-26,bronze
+6172,  CAMILLE DELORME DE FERNANDES  ,NULL,+33654870847,2002-01-06,Belgique,2026-08-24,bronze
+6173,Margot-Josette Guérin,margot-josette.guérin@yahoo.fr,0033398188907,04-10-1982,GERMANY,2025-06-20,argent
+6174,Anouk Benard,anouk.benard@outlook.com,94.58.96.26.80,1979-06-18,fr,2022-10-09,platine
+6175,Robert-Pierre Pichon,robert-pierre.pichon@outlook.com,N/A,20/07/1966,GERMANY,2021-11-10,or
+6176,Aurore Lévy,aurore.lévy@hotmail.fr,+33618207066,11/08/2001,ch,19/04/2025,or
+6177,Alex Lemaire de De Sousa,alex.lemaire.de.de.sousa@gmail.com,0033268933486,1979-09-07,DE,11/01/2025,bronze
+6178,Susanne Lambert de la Delannoy,susanne.lambert.de.la.delannoy@gmail.com,0033968335570,1959-06-09,CH,2025-09-22,bronze
+6179,Inès Rousset,inès.rousset@gmail.com,NULL,05/05/1943,Etats-Unis,2024-02-12,or
+6180,Geneviève Blondel Le Lacombe,unknown,0031141470,21/05/1997,ch,24/12/2024,platine
+6181,Denis Dumas,denis.dumas@outlook.com,0015689109,2009-01-21,US,2024-12-01,argent
+6182,Sophie Tanguy,sophie.tanguy@yahoo.fr,+33684467940,24-09-1939,de,2026-04-19,platine
+6183,Marcel Pages-Launay,marcel.pages-launay@outlook.com,95.73.78.31.50,04-04-2007,SUISSE,19/08/2024,
+6184,Mathilde Sauvage,mathilde.sauvage@ gmail.com,0033186830291,14/09/1988,DE,19/05/2023,argent
+6185,Madeleine Clerc,madeleine.clerc@ gmail.com,0033651854839,31-12-1947,BE,2023-11-20,or
+6186,Alexandrie Turpin,alexandrie.turpin@gmail.com,62.15.95.84.10,2004-01-02,CH,01/05/2026,bronze
+6187,Juliette Traore,,0002218169,13/08/2005,SUISSE,2024-06-25,platine
+6188,Benoît Dumas Le Paris,benoît.dumas.le.paris@hotmail.fr,?,18/10/1985,de,2023-10-01,or
+6189,Eugène Pires-Leroy,eugène.pires-leroy@outlook.com,,13/08/1996,France,03/05/2022,or
+6190,Patricia Pasquier,patricia.pasquier@outlook.com,34.20.22.23.40,1968-05-21,Allemagne,2024-10-16,or
+6191,Alice Legrand-Guillaume,alice.legrand-guillaume@gmail.com,0033590177915,11/02/1990,CH,2022-06-21,n/a
+6192,Guillaume Antoine de Paris,guillaume.antoine.de.paris@ gmail.com,74.65.64.26.00,1957-10-03,de,10/04/2022,argent
+6193,Jeanne Camus,jeanne.camus@yahoo.fr,0033569559227,04/02/1992,Belgique,2025-02-24,NULL
+6194,Julie Morin,julie.morin@hotmail.fr,unknown,1958-02-13,be,2026-02-05,or
+6195,Valérie Blanchard,valérie.blanchard@outlook.com,n/a,07/04/1949,Francia,26/02/2025,unknown
+6196,Stéphane Philippe de la Pelletier,stéphane.philippe.de.la.pelletier@hotmail.fr,0033795312040,07/09/1942,Allemagne,2024-08-21,argent
+6197,Gérard Besnard du Gilles,gérard.besnard.du.gillesgmail.com,58.00.18.73.10,19/05/1968,de,14/04/2023,platine
+6198,Aurélie-Marguerite Morin,aurélie-marguerite.morin@outlook.com,62.10.78.18.70,05-02-2006,Suisse,2022-03-17,null
+6199,Océane Lefort Le Briand,océane.lefort.le.briand@yahoo.fr,0033026933154,1958-04-24,USA,2022-08-14,platine
+6200,Aimé du Fontaine,aimé.du.fontaine@hotmail.fr,+33550522411,07-09-1939,GERMANY,03/03/2023,bronze
+6201,Alexandre Antoine,alexandre.antoine@hotmail.fr,+33599201663,22/05/1966,SUISSE,02/10/2022,bronze
+6202,Claire de la Dufour,claire.de.la.dufour@hotmail.fr,0022205620,09/09/1999,DE,14/03/2022,or
+6203,Amélie Sanchez de Thierry,amélie.sanchez.de.thierry@outlook.com,,21/04/1951,de,2022-07-07,argent
+6204,Joséphine Daniel du Potier,joséphine.daniel.du.potier@hotmail.fr,-,1899-05-20,Etats-Unis,22/08/2024,argent
+6205,Pénélope Olivier,pénélope.olivier@yahoo.fr,0073498529,18/10/1955,BE,31/01/2024,platine
+6206,Joseph Lebon-Becker,joseph.lebon-becker@ gmail.com,+33914762538,19/08/1942,Suisse,09/01/2022,platine
+6207,Patricia Ribeiro,patricia.ribeiro@yahoo.fr,0033952474665,13/08/1943,ch,2025-01-21,platine
+6208,Françoise Guilbert,françoise.guilbert@yahoo.fr,+33324367924,07-04-1979,BE,2022-03-28,argent
+6209,Audrey Barbier,audrey.barbier@yahoo.fr,0034685863,18-10-1983,DE,2025-01-24,bronze
+6210,Lucas Roussel,lucas.roussel@yahoo.fr,39.98.16.15.30,1965-03-21,BE,03/02/2025,argent
+6211,Aurélie de Carlier,aurélie.de.carlier@yahoo.fr,07.37.26.07.20,29/12/2002,Allemagne,2025-08-06,bronze
+6212,Benoît Paris,benoît.paris@gmail.com,26.49.31.21.40,1975-12-12,Etats-Unis,18/09/2023,or
+6213,Théodore Le Leleu,théodore.le.leleu@yahoo.fr,0064563391,1899-05-20,US,2024-01-09,bronze
+6214,Lucy-Adrienne Fabre,unknown,0064971967,18/05/1965,GERMANY,2026-09-02,or
+6215,Lucas Normand,lucas.normand@hotmail.fr,10.16.12.59.00,2002-05-26,FR,2022-04-16,argent
+6216,Roland Marion-Maillard,roland.marion-maillardgmail.com,0033443767348,30/07/1990,fr,11/09/2025,bronze
+6217,Alphonse Thibault Le Blanc,alphonse.thibault.le.blancgmail.com,01.48.11.60.40,08/05/1990,fr,12/08/2024,bronze
+6218,Aurélie-Alexandrie Rousseau,aurélie-alexandrie.rousseau@outlook.com,66.16.80.19.90,1999-05-10,DE,2021-12-02,argent
+6219,David Rivière de la Poirier,david.rivière.de.la.poirier@gmail.com,?,1973-05-15,France,2026-08-24,bronze
+6220,Patrick Maury,patrick.maury@gmail.com,+33117132194,14-03-1943,BELGIQUE,10/05/2026,or
+6221,Daniel Bailly,null,0011287452,2003-09-09,DE,2026-04-08,or
+6222,Thibaut Benoit,thibaut.benoit@yahoo.fr,0033463913810,15/06/2008,FRANCE,2026-04-25,or
+6223,Madeleine Bonneau,madeleine.bonneau@gmail.com,+33321540131,09-07-2008,Belgique,2026-04-28,bronze
+6224,Jacques de Bouchet,jacques.de.bouchetgmail.com,84.55.25.27.40,26/06/1980,DE,2026-03-11,argent
+6225,Daniel Couturier,daniel.couturier@gmail.com,n/a,20/12/1962,be,18/02/2023,bronze
+6226,Geneviève-Andrée Martinez,geneviève-andrée.martinez@hotmail.fr,+33355842271,02/06/1963,Suisse,01/01/2024,platine
+6227,Océane Lucas,océane.lucas@gmail.com,0033607001441,02-10-1992,GERMANY,01/12/2025,argent
+6228,Laurent Grégoire,laurent.grégoire@gmail.com,+33710066890,06-05-1984,Allemagne,2025-01-31,bronze
+6229,Patrick Dufour,patrick.dufour@yahoo.fr,-,1975-12-12,CH,2022-06-18,-
+6230,Roger Meyer,roger.meyer@outlook.com,0033359994004,1957-01-06,Allemagne,2022-03-08,bronze
+6231,Juliette Sauvage-Texier,juliette.sauvage-texier@gmail.com,n/a,1995-11-30,de,2024-09-06,or
+6232,Martin Charpentier,martin.charpentier@yahoo.fr,0033783028010,19/07/1944,Belgique,2026-03-14,platine
+6233,Thierry Hervé,-999,52.81.44.78.60,23-12-2003,de,2025-09-21,or
+6234,  THOMAS RODRIGUEZ DE ROGER  ,null,0033780378912,1942-02-05,FR,2022-03-17,platine
+6235,Simone Deschamps de la Fouquet,simone.deschamps.de.la.fouquet@outlook.com,0075994084,1965-11-29,USA,2022-08-27,platine
+6236,Marc Marion,marc.marion@outlook.com,0033986061065,30-01-2008,BE,29/10/2023,platine
+6237,Gabriel Sauvage-Boulay,gabriel.sauvage-boulay@hotmail.fr,27.61.36.81.40,23-03-1956,Suisse,29/08/2024,argent
+6238,Andrée Joly-Pelletier,andrée.joly-pelletier@outlook.com,0099296444,21-03-1952,BE,2024-01-09,
+6239,Édith Breton,édith.breton@yahoo.fr,0033242348004,05/12/1995,de,2022-02-14,argent
+6240,Honoré Masson,honoré.masson@yahoo.fr,0085574906,25-09-1989,de,2022-08-05,bronze
+6241,Michelle Garcia,michelle.garcia@outlook.com,,1947-11-19,BE,2026-05-18,platine
+6242,Isaac Riou,isaac.riou@yahoo.fr,0002966299,1976-01-23,Allemagne,05/03/2022,or
+6243,Benoît Vallée,benoît.vallée@gmail.com,0033416782153,1957-11-19,SUISSE,2024-09-03,null
+6244,Monique Texier,monique.texier@yahoo.fr,0033031392804,1951-06-20,fr,2024-05-19,bronze
+6245,Adèle Gonzalez,adèle.gonzalez@yahoo.fr,?,24/01/1947,FRANCE,2024-02-28,
+6246,Anne Bernard de Imbert,anne.bernard.de.imbert@yahoo.fr,?,07-05-1937,GERMANY,28/07/2026,argent
+6247,Adrien Petitjean du Delorme,adrien.petitjean.du.delorme@outlook.com,,15/07/2010,CH,2023-02-23,platine
+6248,Luce Besnard,luce.besnard@gmail.com,45.39.11.77.60,07-10-1990,BELGIQUE,2026-07-27,or
+6249,Marianne Boyer,marianne.boyer@outlook.com,null,26/07/1961,Suisse,12/01/2025,platine
+6250,Anne Meyer de la Moulin,anne.meyer.de.la.moulin@yahoo.fr,-999,30-11-1940,FR,18/09/2022,platine
+6251,Chantal Gimenez,chantal.gimenez@hotmail.fr,48.56.37.11.40,28-05-1962,be,14/12/2025,or
+6252,Marcelle Olivier de Fournier,marcelle.olivier.de.fournier@outlook.com,89.23.13.24.60,22-11-1937,BE,12/06/2023,bronze
+6253,Monique du Raymond,monique.du.raymond@outlook.com,83.76.59.15.30,2031-01-15,ch,2026-04-27,argent
+6254,Alphonse Gauthier,alphonse.gauthier@hotmail.fr,null,06-02-1943,DE,2025-10-01,platine
+6255,Édith Guyot,édith.guyot@gmail.com,0033656976487,02-06-1959,FR,2024-04-12,bronze
+6256,Pénélope-Constance Gaillard,pénélope-constance.gaillard@hotmail.fr,+33625069296,16-08-1956,Suisse,11/05/2023,platine
+6257,Margaret Masson-Meunier,margaret.masson-meunier@outlook.com,?,07/02/1997,de,11/08/2025,or
+6258,Zacharie-Grégoire Dos Santos,zacharie-grégoire.dos.santos@gmail.com,N/A,1941-03-12,DE,2026-04-11,argent
+6259,Susan Dos Santos,susan.dos.santos@hotmail.fr,0033398214782,28-09-1963,Francia,2025-08-05,or
+6260,Matthieu de la Lemonnier,matthieu.de.la.lemonnier@hotmail.fr,unknown,1939-12-06,SUISSE,2023-11-08,argent
+6261,Bertrand Mercier,bertrand.mercier@yahoo.fr,?,09-11-2009,GERMANY,2023-11-02,n/a
+6262,Monique Simon,-,0033136054946,01/10/2006,BE,08/02/2026,platine
+6263,Christiane Laurent Le Humbert,christiane.laurent.le.humbert@ gmail.com,0051935001,19/09/1956,Suisse,06/04/2022,argent
+6264,Luce Michaud,luce.michaud@yahoo.fr,0088904410,14-12-1943,Allemagne,17/02/2023,or
+6265,Georges-Arthur Lévêque,georges-arthur.lévêque@ gmail.com,N/A,23/02/1966,Allemagne,2023-06-26,or
+6266,Eugène Dupont,eugène.dupont@hotmail.fr,+33647177840,1982-07-23,Suisse,2022-03-06,platine
+6267,Alex Meyer du Descamps,alex.meyer.du.descamps@hotmail.fr,+33158668611,05/06/1943,BE,2024-07-26,GOLD
+6268,Nathalie Navarro,nathalie.navarrogmail.com,0005058353,1962-06-11,SUISSE,31/12/2022,platine
+6269,Antoinette Pruvost-Lévêque,antoinette.pruvost-lévêque@gmail.com,53.39.98.24.20,1967-05-16,BELGIQUE,2023-08-30,platine
+6270,Benoît Bigot,benoît.bigot@outlook.com,,19-08-2003,BELGIQUE,2021-09-28,or
+6271,Adrien de la Buisson,adrien.de.la.buisson@yahoo.fr,0098345150,1961-04-18,United States,2022-07-18,argent
+6272,Raymond Lemaître,raymond.lemaître@gmail.com,73.08.97.20.70,2006-06-24,Etats-Unis,20/07/2025,unknown
+6273,Roger Auger-Brun,roger.auger-brungmail.com,0042527863,2006-12-25,CH,23/09/2021,platine
+6274,Anne Petit du Perez,anne.petit.du.perez@hotmail.fr,0033447305777,15/09/1946,SUISSE,2022-03-11,or
+6275,Pénélope Mathieu du Nicolas,pénélope.mathieu.du.nicolas@gmail.com,64.09.96.83.30,1963-12-09,DE,2023-02-28,-999
+6276,Alain-Alain Bonneau,null,53.79.32.21.90,24-03-1989,US,06/02/2022,platine
+6277,Gérard-Thierry Fischer,gérard-thierry.fischer@ gmail.com,0001579115,1936-09-19,fr,2021-11-27,or
+6278,Alphonse Muller,alphonse.muller@gmail.com,0026589347,30-06-1965,DE,10/04/2026,platine
+6279,Susanne Berthelot de la Vasseur,susanne.berthelot.de.la.vasseur@hotmail.fr,,1959-08-15,BE,24/08/2023,bronze
+6280,Olivie du Jacquet,olivie.du.jacquet@yahoo.fr,?,19/08/1986,SUISSE,08/09/2023,platine
+6281,Julie Allain,julie.allain@outlook.com,0033020860146,07/05/2003,Allemagne,03/09/2025,platine
+6282,Aurore Pruvost,aurore.pruvost@yahoo.fr,0033163033563,1937-07-12,USA,2023-08-18,?
+6283,Aimé de Boyer,aimé.de.boyer@outlook.com,null,27-12-1939,Allemagne,2025-12-28,platine
+6284,Amélie Giraud-Laine,amélie.giraud-laine@hotmail.fr,0092909304,01-01-1984,États-Unis,03/04/2025,bronze
+6285,Patricia Lamy,patricia.lamy@outlook.com,,1942-05-12,fr,2023-03-28,platine
+6286,Joséphine Lecoq,joséphine.lecoq@yahoo.fr,unknown,27/01/1970,de,2026-05-16,platine
+6287,Sophie Maurice Le Joly,sophie.maurice.le.joly@hotmail.fr,0033376501676,28/10/1942,Belgique,13/02/2024,platine
+6288,Pierre Costa,pierre.costa@yahoo.fr,0068850162,17/08/1971,United States,09/01/2024,argent
+6289,Diane Allain,diane.allain@yahoo.fr,null,2031-01-15,US,2022-07-26,
+6290,Adélaïde Barthelemy-Klein,adélaïde.barthelemy-kleingmail.com,0055977726,13/04/1979,CH,03/05/2023,VIP
+6291,Virginie Gillet Le Laurent,virginie.gillet.le.laurent@yahoo.fr,0001417165,25-11-1976,be,2024-02-20,platine
+6292,Élisabeth-Antoinette Joly,élisabeth-antoinette.joly@hotmail.fr,0071148600,28-12-1979,FR,02/02/2026,argent
+6293,Amélie Thomas,amélie.thomas@hotmail.fr,NULL,08/08/1989,SUISSE,2025-08-04,platine
+6294,Élodie-Agnès Denis,élodie-agnès.denis@outlook.com,+33607429069,08-05-1943,BE,2023-06-12,argent
+6295,Édouard Dumas,édouard.dumas@hotmail.fr,0062007302,19/07/1999,Allemagne,14/10/2025,platine
+6296,Léon Gilles,léon.gilles@gmail.com,37.40.57.14.40,1989-01-06,ch,05/09/2023,bronze
+6297,Michèle Cordier du Adam,michèle.cordier.du.adam@outlook.com,,1939-06-14,Francia,31/12/2024,argent
+6298,Paulette Monnier-Buisson,paulette.monnier-buissongmail.com,0058626736,15-08-1950,SUISSE,2026-08-13,bronze
+6299,Raymond Bouvier de la Brunet,raymond.bouvier.de.la.brunet@hotmail.fr,0089432698,02-12-1937,France,2022-10-25,bronze
+6300,Henri-Gérard Chauveau,henri-gérard.chauveau@outlook.com,null,1899-05-20,Belgique,2023-09-23,bronze
+6301,Aimé Roux,aimé.roux@outlook.com,07.73.72.95.40,24/01/1970,CH,24/11/2024,NULL
+6302,Adèle Guillot,adèle.guillot@gmail.com,0051502045,21-11-1977,FR,2021-11-02,bronze
+6303,Roger Gauthier,roger.gauthier@gmail.com,0043379531,1959-02-05,GERMANY,17/09/2025,or
+6304,Bertrand Blanchard,bertrand.blanchard@yahoo.fr,0052742866,25-08-1953,DE,03/04/2026,platine
+6305,Cécile Jacquot,cécile.jacquot@gmail.com,0055451460,23/07/1939,Belgique,18/09/2025,argent
+6306,Stéphane Grondin,stéphane.grondin@gmail.com,0037062728,1960-01-14,de,2025-12-13,or
+6307,Susanne Bourgeois,susanne.bourgeois@gmail.com,0033575626412,1954-04-13,BELGIQUE,28/06/2025,NULL
+6308,Pierre Boucher,pierre.boucher@outlook.com,0006931963,25-02-1975,Allemagne,2021-10-27,platine
+6309,Thierry Joseph-Marques,-999,05.99.82.26.70,2006-12-17,BELGIQUE,10/11/2022,platine
+6310,Emmanuel Samson,,0085142025,15-11-1951,de,2024-10-05,argent
+6311,Luc Léger-Poulain,luc.léger-poulain@outlook.com,NULL,10-03-1939,United States,2022-08-24,argent
+6312,Anouk Masson Le Klein,anouk.masson.le.kleingmail.com,0033343695310,04-01-1980,États-Unis,2025-02-24,or
+6313,Xavier Mary,xavier.mary@yahoo.fr,NULL,1972-01-04,France,10/04/2026,platine
+6314,Édouard de Launay,édouard.de.launay@outlook.com,0033922198369,26-04-1946,be,23/03/2026,argent
+6315,Simone Carpentier,simone.carpentier@hotmail.fr,+33298770745,05/09/1986,BE,2025-12-22,VIP
+6316,Audrey Besson de la Lefèvre,audrey.besson.de.la.lefèvre@yahoo.fr,0033268387890,1954-10-18,CH,27/02/2026,argent
+6317,Timothée Perrot de Picard,timothée.perrot.de.picard@yahoo.fr,04.09.34.67.50,22-04-1980,Etats-Unis,2023-03-18,platine
+6318,René Mendès,rené.mendès@gmail.com,0033013827210,29/12/1989,de,29/01/2026,bronze
+6319,Capucine Berger,capucine.bergergmail.com,N/A,24/01/1954,FR,14/09/2025,argent
+6320,Alfred Pires,alfred.pires@yahoo.fr,+33636038917,26-12-1976,DE,2026-09-04,argent
+6321,Agathe Turpin,agathe.turpin@hotmail.fr,?,27/11/1991,fr,2026-07-22,or
+6322,Michel Noël,michel.noël@gmail.com,+33951237085,1968-04-01,FRANCE,15/02/2022,argent
+6323,Stéphane Chrétien,stéphane.chrétien@yahoo.fr,+33697296556,05-10-1941,USA,2025-11-02,or
+6324,Éléonore De Sousa du Didier,éléonore.de.sousa.du.didier@hotmail.fr,-,1941-08-04,États-Unis,07/06/2025,platine
+6325,Sabine Devaux,sabine.devaux@outlook.com,n/a,17-02-1952,FR,2025-05-15,bronze
+6326,Zacharie Le Martineau,zacharie.le.martineau@hotmail.fr,27.63.30.41.10,13-04-1964,de,01/10/2025,N/A
+6327,Brigitte Pottier,brigitte.pottier@ gmail.com,+33319686364,1958-02-01,be,2024-02-13,bronze
+6328,Léon-Hugues Hoareau,léon-hugues.hoareau@outlook.com,36.88.30.04.80,2031-01-15,BE,27/10/2022,or
+6329,Henriette Maréchal de la Blot,henriette.maréchal.de.la.blot@gmail.com,0033127065934,11/12/1998,Francia,2022-01-16,or
+6330,André-Laurent Bernier,andré-laurent.bernier@outlook.com,,21-12-2005,GERMANY,07/09/2022,or
+6331,René Noël,rené.noël@outlook.com,89.84.97.49.90,1899-05-20,États-Unis,2023-12-19,bronze
+6332,Andrée Gomes de la Dufour,andrée.gomes.de.la.dufour@hotmail.fr,+33565818981,16-09-1943,Allemagne,2026-09-12,argent
+6333,Martin Garnier,martin.garnier@hotmail.fr,+33312975572,1972-08-29,BE,2025-06-12,argent
+6334,Caroline Humbert,caroline.humbert@hotmail.fr,0019389990,22-06-1980,be,2023-09-07,argent
+6335,André Noël,andré.noël@outlook.com,,1992-12-29,CH,25/09/2025,argent
+6336,Auguste Lelièvre-Bonneau,auguste.lelièvre-bonneau@gmail.com,+33490372954,18/04/2000,BELGIQUE,31/07/2023,or
+6337,Camille Jean,camille.jean@gmail.com,+33127439225,09/05/1961,ch,2025-08-10,bronze
+6338,Catherine Navarro,catherine.navarro@hotmail.fr,0033147621236,18-05-1996,France,11/10/2025,platine
+6339,Richard Delaunay,NULL,+33845315630,21-03-1953,SUISSE,2024-09-26,bronze
+6340,Noël Joseph,noël.josephgmail.com,0059872408,20/09/1965,fr,26/08/2026,or
+6341,Dorothée Boutin de Jacques,dorothée.boutin.de.jacques@gmail.com,+33811339736,25-12-1971,be,2023-12-27,argent
+6342,Christiane Mathieu,christiane.mathieu@hotmail.fr,-999,1971-08-20,BELGIQUE,2023-10-13,platine
+6343,Éric Peron-Huet,éric.peron-huet@outlook.com,+33444248420,1968-04-06,Belgique,2022-07-05,or
+6344,Gérard-Julien Robert,gérard-julien.robert@gmail.com,n/a,19/01/1988,France,26/09/2025,or
+6345,Bernard Ruiz du Marty,bernard.ruiz.du.marty@gmail.com,0033424519082,1950-02-25,DE,26/08/2023,or
+6346,Xavier Valette,xavier.valette@hotmail.fr,unknown,06/01/1941,Francia,20/08/2023,argent
+6347,Philippine Guillon,,53.38.61.94.10,09-07-1985,United States,2025-11-24,argent
+6348,Élise Raynaud-Labbé,élise.raynaud-labbé@gmail.com,0006628346,09-12-1936,FR,05/09/2022,argent
+6349,Yves Blondel de la Gomez,yves.blondel.de.la.gomez@outlook.com,69.40.86.54.20,09/01/1955,États-Unis,22/02/2023,argent
+6350,Dorothée Jacob-Legendre,dorothée.jacob-legendre@ gmail.com,0033350952889,30-07-2006,DE,2026-09-01,unknown
+6351,Laetitia Voisin de Menard,laetitia.voisin.de.menard@hotmail.fr,+33917650471,03-06-1978,FR,26/09/2025,or
+6352,Émilie de Morel,émilie.de.morel@hotmail.fr,0033734496686,15/11/1992,fr,2023-11-15,n/a
+6353,Josette-Susanne Durand,josette-susanne.durand@hotmail.fr,+33014971103,14/05/1966,fr,18/09/2025,platine
+6354,Maurice-Bernard Marques,maurice-bernard.marques@yahoo.fr,0018860167,19/02/1965,fr,12/01/2025,null
+6355,Roland-Zacharie Arnaud,roland-zacharie.arnaud@outlook.com,n/a,20-01-1951,DE,03/01/2026,platine
+6356,Henriette-Véronique Le Goff,henriette-véronique.le.goff@gmail.com,+33178925714,14-01-1959,Suisse,2026-07-09,argent
+6357,Jacques Lefèvre,jacques.lefèvre@gmail.com,0064816384,2009-04-01,be,2024-08-02,platine
+6358,Anastasie Leconte,anastasie.leconte@outlook.com,-999,16-08-1964,FR,23/05/2023,platine
+6359,Françoise Martin Le Weiss,françoise.martin.le.weissgmail.com,0033867036562,2004-10-09,be,2021-12-24,platine
+6360,Marcel de la Fleury,marcel.de.la.fleury@hotmail.fr,N/A,1958-07-11,US,2022-09-14,platine
+6361,Sabine Potier,sabine.potier@hotmail.fr,NULL,2031-01-15,Suisse,05/03/2026,or
+6362,Jacqueline Michaud,jacqueline.michaud@yahoo.fr,97.74.75.94.40,1969-01-22,FRANCE,2024-12-21,platine
+6363,Philippe Mendès Le Dos Santos,philippe.mendès.le.dos.santosgmail.com,-999,13/10/1979,FRANCE,18/01/2023,or
+6364,Alain Voisin,alain.voisin@gmail.com,+33534115733,26-04-1967,BE,2022-01-07,or
+6365,Andrée-Alexandria Weiss,andrée-alexandria.weiss@outlook.com,+33582344538,18-07-1989,GERMANY,2026-08-22,argent
+6366,Pauline Poulain,pauline.poulain@hotmail.fr,00.04.70.91.10,1954-03-04,fr,08/01/2022,or
+6367,Honoré Mary-Chrétien,honoré.mary-chrétien@gmail.com,0033899651181,2031-01-15,Allemagne,2025-02-19,or
+6368,Camille Fabre,camille.fabre@hotmail.fr,,21/11/1991,Etats-Unis,2024-02-27,argent
+6369,Guillaume Fouquet,guillaume.fouquet@hotmail.fr,,04-05-1970,Belgique,2023-08-06,or
+6370,Antoinette Le Wagner,antoinette.le.wagner@yahoo.fr,N/A,11/01/1948,Allemagne,2024-11-02,or
+6371,Diane Meyer,diane.meyer@outlook.com,0066047473,02-10-1940,BE,15/10/2022,platine
+6372,Bernadette-Jeannine De Sousa,bernadette-jeannine.de.sousa@hotmail.fr,0020359441,19/09/1990,Belgique,21/10/2021,argent
+6373,Frédéric Bodin,frédéric.bodin@gmail.com,,15/10/1971,Etats-Unis,26/04/2026,bronze
+6374,Philippe Parent,philippe.parent@gmail.com,0065815398,1949-10-25,SUISSE,2025-08-08,platine
+6375,Danielle Lemonnier,danielle.lemonniergmail.com,0033984128655,22-08-1944,Etats-Unis,2025-10-05,or
+6376,Laurent Jacques,laurent.jacques@hotmail.fr,93.48.91.80.00,11-08-1961,USA,08/09/2026,platine
+6377,Anouk Poirier-Collin,anouk.poirier-collin@outlook.com,+33195973091,26/11/1949,Belgique,03/08/2022,platine
+6378,Margaux de la Georges,margaux.de.la.georges@outlook.com,0033155530,27/07/2003,Belgique,26/06/2026,platine
+6379,Hélène Morel,hélène.morel@hotmail.fr,81.10.96.59.80,16-12-1949,USA,2023-03-28,bronze
+6380,Margaud Pineau,margaud.pineau@yahoo.fr,unknown,26/03/1966,FR,2026-01-04,bronze
+6381,Juliette Leblanc de la Lefèvre,juliette.leblanc.de.la.lefèvre@hotmail.fr,0033166910082,1966-12-30,États-Unis,10/07/2022,or
+6382,Daniel-Charles Lebon,daniel-charles.lebon@gmail.com,75.62.69.96.20,21/11/1975,SUISSE,15/11/2021,or
+6383,Thomas Le Mahe,thomas.le.mahe@hotmail.fr,-,1978-09-10,Suisse,2025-03-29,platine
+6384,David Martinez,david.martinez@hotmail.fr,+33724387129,22/03/1939,SUISSE,2023-06-21,argent
+6385,Jacques Lemoine de Rémy,jacques.lemoine.de.rémy@hotmail.fr,+33604802240,1899-05-20,FRANCE,25/10/2023,argent
+6386,Lucy Martel,lucy.martel@hotmail.fr,+33041898566,27-06-1955,BE,16/07/2026,argent
+6387,François-Alfred Gauthier,françois-alfred.gauthier@gmail.com,+33887888765,2003-04-08,CH,07/11/2023,platine
+6388,Inès Legrand de la Perrier,inès.legrand.de.la.perrier@gmail.com,01.13.86.04.70,23-02-1985,USA,16/11/2025,platine
+6389,Xavier-Maurice Chevalier,xavier-maurice.chevalier@outlook.com,51.48.95.38.20,1992-03-31,FR,23/06/2026,argent
+6390,Luce-Manon Legrand,luce-manon.legrandgmail.com,0034728395,28/11/1979,SUISSE,19/02/2026,bronze
+6391,Thérèse Fabre,thérèse.fabre@hotmail.fr,0084886865,1983-09-11,de,16/08/2023,NULL
+6392,Théodore Brun,théodore.brun@hotmail.fr,01.83.23.53.00,1963-04-16,BE,28/11/2023,unknown
+6393,Marianne du Regnier,marianne.du.regnier@outlook.com,,14/04/1990,CH,24/05/2025,VIP
+6394,Marguerite-Thérèse Daniel,marguerite-thérèse.daniel@hotmail.fr,0055928974,18-09-1946,USA,29/05/2024,bronze
+6395,Laure Fernandez,laure.fernandez@ gmail.com,0075119976,2008-03-31,Allemagne,2023-01-03,platine
+6396,Grégoire Raymond-Cordier,grégoire.raymond-cordier@outlook.com,19.67.89.63.00,1962-05-24,SUISSE,2026-04-16,or
+6397,Roland Leclerc,roland.leclerc@ gmail.com,0033015972242,17-01-1962,FRANCE,09/05/2022,platine
+6398,Richard-Franck Schneider,richard-franck.schneider@ gmail.com,0033098460180,1993-08-24,Belgique,2023-02-04,platine
+6399,Eugène Le Lenoir,eugène.le.lenoir@yahoo.fr,-999,06/02/1936,Francia,2023-10-22,platine
+6400,Jérôme Moulin,jérôme.moulingmail.com,46.27.20.53.60,28/08/1979,Francia,08/05/2026,argent
+6401,Thierry Baudry de Gautier,thierry.baudry.de.gautier@hotmail.fr,N/A,02/09/1980,ch,04/07/2024,bronze
+6402,  YVES MAHE  ,yves.mahe@hotmail.fr,N/A,1969-10-09,BE,2024-12-05,argent
+6403,Guy-Louis Bernard,guy-louis.bernardgmail.com,0019817755,1969-02-27,FRANCE,2022-01-24,or
+6404,Laure-Lucy Pereira,laure-lucy.pereira@yahoo.fr,,27/03/1995,fr,2024-02-07,bronze
+6405,Simone Gay,N/A,55.49.43.43.60,04-01-1962,Allemagne,2024-05-29,platine
+6406,Caroline Marques,caroline.marquesgmail.com,0033907634153,2031-01-15,Belgique,10/07/2023,bronze
+6407,Suzanne Denis,suzanne.denis@yahoo.fr,0033773494314,2010-04-13,GERMANY,2025-03-12,platine
+6408,Christiane Giraud,christiane.giraud@outlook.com,,25/02/1962,FR,2024-05-23,or
+6409,Suzanne Benoit,suzanne.benoitgmail.com,55.58.09.57.90,11/03/1982,DE,25/03/2023,or
+6410,Maryse Charrier,maryse.charrier@hotmail.fr,41.36.23.34.70,1943-01-19,CH,24/09/2021,argent
+6411,Nicolas Henry,nicolas.henry@outlook.com,73.41.85.59.50,05/08/1954,Francia,2026-09-12,argent
+6412,Gabrielle du Jacquet,gabrielle.du.jacquet@outlook.com,+33396101759,1963-09-09,France,2025-02-10,platine
+6413,Bernard Navarro,bernard.navarro@gmail.com,0078692855,1899-05-20,Francia,2025-02-14,platine
+6414,Colette Masson,colette.masson@gmail.com,-,1991-12-02,de,25/07/2023,platine
+6415,Odette Lambert,?,+33341335139,1899-05-20,BELGIQUE,2021-10-04,or
+6416,Étienne-André Texier,étienne-andré.texier@gmail.com,N/A,31/10/1970,DE,26/07/2025,bronze
+6417,Grégoire Dijoux,grégoire.dijouxgmail.com,0065826082,2007-12-20,BELGIQUE,06/08/2026,bronze
+6418,Édith Laroche,édith.larochegmail.com,unknown,08/11/1966,BELGIQUE,2026-07-05,bronze
+6419,  AUGUSTE AUBRY  ,auguste.aubry@gmail.com,0033197892594,20-09-1982,Belgique,2023-09-11,argent
+6420,Stéphanie Aubry,stéphanie.aubry@gmail.com,55.44.11.81.80,29-11-1982,be,2025-01-19,bronze
+6421,Aurélie Benoit,aurélie.benoit@hotmail.fr,-999,17/05/1964,Belgique,29/11/2025,argent
+6422,Madeleine Valette,madeleine.valette@hotmail.fr,0020148333,1943-03-15,Belgique,2023-05-05,or
+6423,Benoît Masson,benoît.masson@hotmail.fr,30.87.64.77.00,1949-07-26,FRANCE,20/05/2025,platine
+6424,Marc Peltier,marc.peltier@gmail.com,+33629507671,07/08/1985,be,26/11/2024,argent
+6425,Benoît Didier,benoît.didier@outlook.com,N/A,1946-10-08,Belgique,08/11/2022,platine
+6426,Léon Léger,léon.léger@outlook.com,N/A,1984-10-19,BE,2024-10-08,or
+6427,Léon Deschamps,léon.deschamps@outlook.com,0025197018,06-06-1995,Belgique,2022-01-25,
+6428,Capucine Roche,capucine.rochegmail.com,74.21.53.19.30,04-07-1965,GERMANY,2024-11-28,or
+6429,Christine Valette,christine.valette@gmail.com,16.90.88.75.40,27/04/2001,SUISSE,17/04/2024,platine
+6430,Thibaut Grondin,thibaut.grondin@gmail.com,+33391065735,25/08/1950,BE,2025-12-24,or
+6431,Marcelle Maillot,marcelle.maillot@yahoo.fr,+33021401283,2004-08-05,Francia,2022-09-02,platine
+6432,Margot-Michèle Blanchet,margot-michèle.blanchet@hotmail.fr,+33597177170,01-02-2007,Suisse,07/09/2022,platine
+6433,Olivie Charrier,,0033460516483,13/08/1969,Francia,11/07/2025,platine
+6434,Margot Guillaume-Dupuis,margot.guillaume-dupuis@outlook.com,+33776006434,04-05-1969,France,07/05/2023,platine
+6435,Susanne-Hortense Chevalier,susanne-hortense.chevalier@outlook.com,?,27/08/1983,Etats-Unis,2022-04-21,gold
+6436,Henri Allard,henri.allard@yahoo.fr,+33181560542,1956-10-16,GERMANY,21/02/2024,or
+6437,Maryse Delorme,maryse.delorme@hotmail.fr,10.79.76.47.50,01/08/1989,de,04/03/2023,bronze
+6438,Paulette Leblanc,paulette.leblanc@gmail.com,0048540390,1970-04-28,BE,07/10/2024,argent
+6439,Zacharie-Laurent Evrard,zacharie-laurent.evrard@hotmail.fr,-999,2000-02-04,United States,08/02/2024,platine
+6440,Simone Besnard du Navarro,simone.besnard.du.navarro@yahoo.fr,n/a,1980-06-07,États-Unis,26/01/2022,platine
+6441,Antoine Navarro,antoine.navarro@outlook.com,62.20.68.24.30,2031-01-15,be,17/07/2022,platine
+6442,Zacharie de la Roux,zacharie.de.la.roux@hotmail.fr,0060606943,2031-01-15,États-Unis,2025-02-14,or
+6443,Luc Raymond,luc.raymond@gmail.com,65.29.41.28.50,04-07-1961,France,2022-12-07,bronze
+6444,Alfred Weber,alfred.weber@yahoo.fr,48.75.31.19.80,2000-05-02,France,22/08/2025,or
+6445,Émile-Jules Marty,émile-jules.marty@hotmail.fr,76.42.55.07.80,15/12/2007,France,2026-01-08,N/A
+6446,Sophie Devaux,sophie.devaux@gmail.com,0033213170195,28-06-1965,Suisse,10/07/2024,or
+6447,Françoise Allain,françoise.allain@hotmail.fr,N/A,1993-11-25,Suisse,23/07/2024,argent
+6448,Diane Verdier,diane.verdier@yahoo.fr,0060332888,1997-01-11,de,2021-10-03,or
+6449,Alain Breton,alain.breton@ gmail.com,51.20.22.01.70,1941-08-13,be,2023-07-12,argent
+6450,Laetitia Mercier,laetitia.mercier@outlook.com,+33466275015,1965-08-07,Francia,2022-07-30,argent
+6451,Sophie-Jeannine Baron,sophie-jeannine.baron@hotmail.fr,85.48.33.09.50,14-07-1948,fr,05/04/2024,bronze
+6452,Claire Gomez,claire.gomez@hotmail.fr,0014579232,1987-05-20,Belgique,24/09/2023,or
+6453,Grégoire Traore,grégoire.traore@hotmail.fr,?,1985-07-01,SUISSE,2026-08-18,or
+6454,Christelle Leroy,christelle.leroy@yahoo.fr,0033182852332,1982-01-11,FR,2026-07-28,bronze
+6455,Adélaïde Royer,adélaïde.royer@outlook.com,+33291585511,16-11-1978,France,2023-11-14,argent
+6456,Thibaut du Perez,thibaut.du.perez@ gmail.com,0014248739,1956-11-26,de,13/10/2023,VIP
+6457,Christelle Perrot,christelle.perrot@outlook.com,null,26/10/1980,SUISSE,05/09/2022,platine
+6458,Eugène Lombard Le Bailly,eugène.lombard.le.bailly@outlook.com,65.71.56.43.80,03/06/1982,Suisse,21/01/2026,or
+6459,Édouard Bonneau,édouard.bonneaugmail.com,42.47.96.00.00,2004-05-29,be,24/07/2024,platine
+6460,Théophile François,théophile.françois@outlook.com,0042662254,22-02-1967,Francia,10/09/2024,bronze
+6461,Frédéric Pasquier,frédéric.pasquier@hotmail.fr,0033015273117,1994-05-14,de,2022-08-23,NULL
+6462,Louis Langlois,louis.langlois@hotmail.fr,00.18.42.93.30,31/01/2004,de,14/08/2026,or
+6463,Laetitia Pons Le Goncalves,laetitia.pons.le.goncalvesgmail.com,+33771539022,26/07/1947,SUISSE,17/11/2023,bronze
+6464,Henri Turpin,henri.turpin@yahoo.fr,0029909006,15-05-1990,fr,24/03/2023,bronze
+6465,Odette Mercier,odette.mercier@yahoo.fr,0033735540423,2000-07-28,Belgique,2022-05-07,platine
+6466,Virginie Joseph de la Ramos,virginie.joseph.de.la.ramos@hotmail.fr,93.93.43.96.90,2031-01-15,be,26/10/2021,bronze
+6467,Frédérique Rousset,frédérique.rousset@outlook.com,0035733813,1994-01-24,BELGIQUE,2022-12-14,argent
+6468,Hortense Baron,hortense.baron@outlook.com,0033412247409,1961-04-02,GERMANY,01/06/2024,platine
+6469,Michel de la Lefèvre,michel.de.la.lefèvre@outlook.com,+33023251071,1953-11-07,ch,21/07/2023,argent
+6470,Marguerite Joubert,marguerite.joubert@ gmail.com,0033224564119,29/02/2000,BELGIQUE,2024-10-28,bronze
+6471,Michelle Fernandez,michelle.fernandez@ gmail.com,NULL,04-08-1945,SUISSE,2024-10-11,bronze
+6472,Arthur-Thibault Delannoy,arthur-thibault.delannoy@hotmail.fr,0016632824,23-04-2001,Francia,2023-10-09,platine
+6473,Martin Mathieu,martin.mathieu@outlook.com,0033352007615,06/08/1991,Francia,05/12/2021,bronze
+6474,Antoine Bouvier,antoine.bouvier@outlook.com,0071433608,2031-01-15,CH,2021-12-06,platine
+6475,Alex-Catherine Bertrand,alex-catherine.bertrand@ gmail.com,0027888818,15/08/1941,États-Unis,10/09/2024,argent
+6476,Guillaume Michaud,guillaume.michaud@gmail.com,n/a,1984-12-15,BELGIQUE,18/05/2026,or
+6477,Jérôme Techer,jérôme.techergmail.com,N/A,2031-01-15,BELGIQUE,2025-04-18,argent
+6478,Adrien Ramos,NULL,73.56.40.78.30,07/08/1983,Allemagne,2025-05-11,or
+6479,René Louis,rené.louis@hotmail.fr,0033995145498,2031-01-15,United States,2022-09-29,platine
+6480,Audrey Bertin,audrey.bertin@outlook.com,88.67.51.85.70,14/10/1964,United States,2026-03-10,argent
+6481,Marcel Bailly,marcel.bailly@gmail.com,34.31.80.73.90,1962-04-19,BE,2026-05-20,bronze
+6482,Alfred Lucas,-999,+33777303167,07-12-1961,France,2025-02-28,bronze
+6483,Catherine Allain,catherine.allain@hotmail.fr,unknown,07-06-1994,États-Unis,02/07/2026,bronze
+6484,Jean Lebrun de Descamps,jean.lebrun.de.descamps@gmail.com,0099839767,22-01-1940,de,2022-11-27,argent
+6485,Valentine de la Ruiz,valentine.de.la.ruiz@gmail.com,NULL,14-01-1964,FR,2022-11-03,platine
+6486,Thibault Le Gall,thibault.le.gall@outlook.com,0099654662,1982-02-09,DE,2024-04-13,or
+6487,Élise Pelletier,élise.pelletier@gmail.com,+33756002230,17/03/1943,be,15/05/2022,argent
+6488,  ALFRED GUICHARD DU BERNIER  ,alfred.guichard.du.bernier@yahoo.fr,+33890418280,31-10-1970,ch,2023-05-29,platine
+6489,Océane Perret,océane.perret@gmail.com,?,25-12-1938,DE,2024-07-04,platine
+6490,Marc de Millet,marc.de.millet@ gmail.com,44.20.22.48.20,06/04/1946,ch,23/12/2022,N/A
+6491,Nathalie Aubert-Ramos,nathalie.aubert-ramos@yahoo.fr,0003118026,04/01/1941,fr,12/02/2025,argent
+6492,Chantal-Julie Rivière,chantal-julie.rivière@hotmail.fr,,1981-01-16,Suisse,2025-10-18,
+6493,Charlotte Peron Le Hoareau,charlotte.peron.le.hoareau@hotmail.fr,0033834103414,15/06/2007,GERMANY,10/03/2022,or
+6494,Raymond Duval,raymond.duvalgmail.com,0033325179044,15/01/1944,Belgique,2023-12-22,platine
+6495,Maryse du Martin,NULL,+33487831031,30/08/1978,US,13/01/2023,platine
+6496,Nath Maillard,nath.maillardgmail.com,0033940740337,29-04-1959,Francia,2023-01-19,GOLD
+6497,Stéphanie Bernard de la Hoarau,stéphanie.bernard.de.la.hoarau@yahoo.fr,0033264106032,1981-05-11,BELGIQUE,09/11/2023,platine
+6498,Marine Rey,marine.rey@outlook.com,0001089654,31/03/2006,GERMANY,2023-10-04,or
+6499,Émile Lebrun,,0033474867948,30-08-1952,BELGIQUE,13/08/2023,or
+6500,Bertrand Breton,bertrand.breton@yahoo.fr,+33222190533,26-12-2003,USA,20/05/2026,platine
+6501,Laurence-Astrid Boucher,laurence-astrid.boucher@gmail.com,unknown,17/08/1980,USA,21/10/2022,or
+6502,Danielle Lemonnier ,danielle.lemonniergmail.com,0033984128655,22-08-1944,Etats-Unis,2025-10-05,or
+6503,Gilles Hoarau ,gilles.hoarau@outlook.com,unknown,19-11-1998,Francia,24/03/2024,platine
+6504,Éleonore Samson ,,0047213074,27/08/1965,Etats-Unis,28/05/2022,bronze
+6505,Adrien-Antoine Blanc,adrien-antoine.blanc@yahoo.fr,null,19-02-1972,DE,2022-01-19,argent
+6506,Adrien Lesage,adrien.lesage@outlook.com,0033583737927,03-02-1995,US,2023-03-01,n/a
+6507,Camille Fabre,camille.fabre@hotmail.fr,,21/11/1991,Etats-Unis,2024-02-27,argent
+6508,Sophie Maurice Le Joly,sophie.maurice.le.joly@hotmail.fr,0033376501676,28/10/1942,Belgique,13/02/2024,platine
+6509,Gilbert Lelievre,gilbert.lelièvre@hotmail.fr,+33758682405,1968-01-17,Francia,29/01/2022,bronze
+6510,Denis-Jacques Michaud,denis-jacques.michaud@gmail.com,,27/10/1978,be,23/05/2023,bronze
+6511,Sabine-Adelaïde Lemoine,sabine-adélaïde.lemoine@gmail.com,0033397871375,21-07-1978,États-Unis,31/05/2022,or
+6512,Bernard Navarro,bernard.navarro@gmail.com,0078692855,1899-05-20,Francia,2025-02-14,platine
+6513,Laetitia Joseph ,laetitia.joseph@gmail.com,0002891416,16/07/1954,DE,2025-03-20,
+6514,Alphonse Thibault Le Blanc ,alphonse.thibault.le.blancgmail.com,01.48.11.60.40,08/05/1990,fr,12/08/2024,bronze
+6515,Astrid Guyot ,astrid.guyot@yahoo.fr,,13/01/1967,Allemagne,14/04/2022,bronze
+6516,Élisabeth Chartier ,élisabeth.chartiergmail.com,0040672007,31/01/2000,be,05/05/2024,argent
+6517,Gabriel Schmitt-Berthelot ,gabriel.schmitt-berthelot@outlook.com,37.61.85.18.60,2010-03-12,GERMANY,2022-08-10,or
+6518,Christine Mercier ,christine.mercier@gmail.com,unknown,21-08-1968,FRANCE,18/05/2023,argent
+6519,Isaac Lejeune Le Masson,isaac.lejeune.le.massongmail.com,+33317310967,10/12/1942,Allemagne,2024-05-08,or
+6520,Alexandrie Perrot-Thibault ,-,n/a,20-09-1991,USA,06/04/2026,platine
+6521,Martin Laurent,martin.laurent@hotmail.fr,NULL,24/06/1987,Francia,2026-03-18,argent
+6522,Gilles Blondel ,gilles.blondel@yahoo.fr,0053405089,2004-08-12,SUISSE,2025-08-01,or
+6523,Alexandrie Fabre,alexandrie.fabre@hotmail.fr,07.45.55.34.70,30/03/1978,United States,22/08/2025,bronze
+6524,Theodore Le Leleu,théodore.le.leleu@yahoo.fr,0064563391,1899-05-20,US,2024-01-09,bronze
+6525,Honore Bonnet ,honoré.bonnet@yahoo.fr,+33289931608,24/12/1979,CH,26/12/2025,bronze
+6526,Lucy Labbe du Gerard,lucy.labbé.du.gérard@hotmail.fr,NULL,17/01/1944,FRANCE,06/09/2022,n/a
+6527,Amelie Giraud-Laine,amélie.giraud-laine@hotmail.fr,0092909304,01-01-1984,États-Unis,03/04/2025,bronze
+6528,Isaac Boutin ,isaac.boutin@hotmail.fr,0033519358374,2031-01-15,US,05/08/2024,platine
+6529,Alexandre Legendre,alexandre.legendre@gmail.com,0033692105336,23-06-1939,États-Unis,2025-06-07,argent
+6530,Édouard-Zacharie Lefort,édouard-zacharie.lefort@outlook.com,0033109567975,17-11-1983,Allemagne,2023-11-03,argent
+6531,Yves Blondel de la Gomez ,yves.blondel.de.la.gomez@outlook.com,69.40.86.54.20,09/01/1955,États-Unis,22/02/2023,argent
+6532,Roger-Remy Klein ,roger-rémy.klein@yahoo.fr,+33325737553,1987-06-11,ch,10/02/2025,platine
+6533,Henri Prevost ,henri.prévost@hotmail.fr,+33480957394,20-04-2004,FR,2025-02-08,bronze
+6534,Thierry Gosselin,thierry.gosselin@ gmail.com,0083750566,1899-05-20,Belgique,29/03/2022,argent
+6535,Guy Berthelot ,guy.berthelot@ gmail.com,91.16.33.19.40,1991-07-12,US,2022-08-13,or
+6536,Gilles Begue ,gilles.bègue@hotmail.fr,null,17-04-1959,Belgique,2021-12-29,or
+6537,Louise Morvan de Leroux ,louise.morvan.de.leroux@yahoo.fr,n/a,1945-03-28,SUISSE,2023-05-31,argent
+6538,Pierre Benard,pierre.benardgmail.com,0053814474,28/02/2007,Suisse,2023-01-17,argent
+6539,Olivie du Jacquet,olivie.du.jacquet@yahoo.fr,?,19/08/1986,SUISSE,08/09/2023,platine
+6540,Marcel Marin,marcel.marin@yahoo.fr,0097168157,1999-06-29,États-Unis,18/07/2022,unknown
+6541,Gerard Besnard du Gilles ,gérard.besnard.du.gillesgmail.com,58.00.18.73.10,19/05/1968,de,14/04/2023,platine
+6542,Roland-Maurice Lebon,roland-maurice.lebon@ gmail.com,02.43.65.24.00,11/06/1997,US,25/06/2023,argent
+6543,Jeanne Potier ,jeanne.potier@outlook.com,+33844683414,17-05-1981,BELGIQUE,2023-10-03,
+6544,Nathalie Aubert-Ramos,nathalie.aubert-ramos@yahoo.fr,0003118026,04/01/1941,fr,12/02/2025,argent
+6545,Alain Andre ,alain.andre@ gmail.com,NULL,1899-05-20,de,2024-06-17,bronze
+6546,Xavier-William Leclercq,xavier-william.leclercq@hotmail.fr,0033169069685,09-08-1995,FRANCE,16/12/2025,platine
+6547,Thomas Dubois ,,+33891649837,08-07-1997,fr,29/10/2022,argent
+6548,Emmanuel Payet,emmanuel.payet@outlook.com,0033184390552,07/12/1941,be,2026-04-02,argent
+6549,Denis Letellier-Pottier ,unknown,0044249363,19-02-1993,fr,2022-04-16,bronze
+6550,Gerard-Julien Robert,gérard-julien.robert@gmail.com,n/a,19/01/1988,France,26/09/2025,or
+6551,Christelle Leroy ,christelle.leroy@yahoo.fr,0033182852332,1982-01-11,FR,2026-07-28,bronze
+6552,Frederic Mary,frédéric.mary@outlook.com,31.21.98.04.10,06-02-1984,États-Unis,2024-05-07,argent
+6553,Susanne Lambert de la Delannoy,susanne.lambert.de.la.delannoy@gmail.com,0033968335570,1959-06-09,CH,2025-09-22,bronze
+6554,Denis Leblanc ,,0066248132,1899-05-20,CH,09/11/2024,platine
+6555,Helene Bernier-Jourdan ,hélène.bernier-jourdangmail.com,+33665800439,26-10-1977,Belgique,2026-01-25,or
+6556,Marianne de la Alexandre ,marianne.de.la.alexandre@outlook.com,+33044509286,14/09/1990,fr,2026-02-07,bronze
+6557,Yves Blondel de la Gomez ,yves.blondel.de.la.gomez@outlook.com,69.40.86.54.20,09/01/1955,États-Unis,22/02/2023,argent
+6558,Alphonse Prevost,alphonse.prévost@hotmail.fr,0033805525782,1978-10-24,ch,22/05/2024,bronze
+6559,Catherine Navarro ,catherine.navarro@hotmail.fr,0033147621236,18-05-1996,France,11/10/2025,platine
+6560,Dorothee Roux ,NULL,0001367492,1944-07-10,ch,26/12/2024,bronze
+6561,Christine Fernandez,christine.fernandez@yahoo.fr,64.95.78.23.20,19-06-1990,be,17/08/2024,platine
+6562,Monique Noël ,monique.noël@yahoo.fr,+33605384444,1950-05-23,Suisse,2025-11-30,bronze
+6563,Theodore Clement de Schneider ,théodore.clément.de.schneider@yahoo.fr,,1944-04-22,de,31/10/2021,platine
+6564,Isaac Boutin ,isaac.boutin@hotmail.fr,0033519358374,2031-01-15,US,05/08/2024,platine
+6565,Susanne Gillet ,NULL,+33347509889,04/10/1959,BELGIQUE,06/04/2024,bronze
+6566,Sophie Morin-Pascal,sophie.morin-pascal@gmail.com,0087447017,1956-10-14,SUISSE,2022-09-10,platine
+6567,Sophie-Jeannine Baron ,sophie-jeannine.baron@hotmail.fr,85.48.33.09.50,14-07-1948,fr,05/04/2024,bronze
+6568,Sebastien Gauthier,sébastien.gauthier@gmail.com,+33605779806,14-07-1944,Belgique,2025-10-15,platine
+6569,Susanne Lambert de la Delannoy ,susanne.lambert.de.la.delannoy@gmail.com,0033968335570,1959-06-09,CH,2025-09-22,bronze
+6570,Rene Noël ,rené.noël@outlook.com,89.84.97.49.90,1899-05-20,États-Unis,2023-12-19,bronze
+6571,Suzanne Lambert-Gros,suzanne.lambert-gros@hotmail.fr,0001071261,1949-10-12,US,2023-06-30,unknown
+6572,Ines Lebrun,inès.lebrun@gmail.com,N/A,1970-04-29,de,2022-09-16,or
+6573,Éric Breton ,éric.breton@yahoo.fr,0033552510505,05/12/1967,US,16/10/2022,or
+6574,Astrid Caron ,astrid.caron@hotmail.fr,0033375365968,1990-07-04,de,17/12/2021,or
