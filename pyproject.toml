@@ -7,10 +7,12 @@ requires-python = ">=3.12"
 dependencies = [
     "apache-airflow>=3.3.2",
     "faker>=40.39.0",
+    "feast[redis]>=0.38.0",
     "great-expectations>=1.23.1",
     "numpy>=2.5.3",
-    "pandas>=3.0.6",
+    "pandas<3",
     "pyarrow>=25.0.1",
+    "scikit-learn>=1.9.1",
 ]
 
 [project.scripts]

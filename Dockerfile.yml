@@ -1,0 +1,11 @@
+FROM apache/airflow:2.10.5-python3.12
+
+USER airflow
+
+RUN pip install --no-cache-dir uv
+
+COPY pyproject.toml uv.lock /tmp/
+
+RUN cd /tmp && \
+    uv export --format requirements-txt --no-dev --output-file requirements.txt && \
+    uv pip install --system --python /usr/local/bin/python3 -r requirements.txt

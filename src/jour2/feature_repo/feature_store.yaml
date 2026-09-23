@@ -1,0 +1,10 @@
+project: jour2_feature_store
+
+provider: local
+
+registry:
+  path: data/registry.db
+
+online_store:
+  type: redis
+  connection_string: localhost:6379
