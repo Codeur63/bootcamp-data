@@ -1,4 +1,4 @@
-## Exercice du jour
+## Exercice du jour 2
 Aujoud'hui nous passons dans la partie Feature Engineering & Feature Store. Les differents concepts a maitriser sont : 
  - Le dataLeakage
  - Les features Stores
