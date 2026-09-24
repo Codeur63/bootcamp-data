@@ -1,0 +1,6 @@
+outs:
+- md5: 68f9c90bf9f998798ab6ef514e1370c2.dir
+  size: 7020
+  nfiles: 2
+  hash: md5
+  path: jour3

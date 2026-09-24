@@ -32,14 +32,22 @@ Polars est un outils permettant de traiter des données distribuées et vectoris
 
 
 ## Regles importante
+- toujours avoir un split reproductible
+- toujours versionner et stocker les donnees avec DVC.
+- Pour un dataset avec plus de 100Mo, utiliser Polars pour des traitements rapides et efficaces.
+
 
 ## Utlisation
 executer les fichiers `process_pandas.py` et `process_polars.py` pour voir les differences entre les deux approches ainsi que la vitesse de traitement.
 
 - intiailiser dvc ```uv run dvc init```
 - versionner les donnees avec DVC ```uv run dvc add <path_to_data>```
+- stocker physiquement les donnees avec DVC ```uv run dvc remote add -d local <path_name>``` et ensuite ```uv run dvc push```
+- recuperer les donnees physiques avec DVC ```uv run dvc pull```
 - lancer le traitement avec DVC ```uv run dvc run -n <name> <command>```
 
 ## Realisation
+Nous avons mis en place deux fichier et calculer leur performance sur le temps, et nous avons constater que polar et 8 fois plus rapide que pandas, puis versionner les donnees avec dvc pour les stocker physiquement en local ou sur le cloud en fonction de votre choix. Faire un train/test split reproductible  
 
 ## Resultat
+Split reproductible et versionnage des donnees avec DVC
